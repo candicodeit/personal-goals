@@ -1,40 +1,31 @@
-Personal Goals (WIP - Dec 2017)
+Personal Goals (Updated: Jan 2, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
 
 # Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+1. Continuous learning of UX and the front end development
+2. Healthier lifestyle
+3. Budget expenses
+4. Plan regular dates with family and friends
+5. Read more fiction this year [Goal: 35 books](https://www.goodreads.com/user_challenges/10348403)
 
-# November 00, 2014
+# January 2, 2018
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Read and learn!
 
-## Things I'll Do This Week:
-- [x] Play with puppies
+## Things I'll Do This Week: Jan 1-7
+- [ ] Complete Lesson 4
 - [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
+- [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: January 2018
+- [ ] Read 3 books
+- [ ] Complete Interaction Design Foundation - User Research Course
+- [ ] Meal prep once a week
+- [ ] Lift 2x a week
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Backlog
+- [ ] Work on wireframes for new BT Dealer Gallery Page
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
