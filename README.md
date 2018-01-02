@@ -16,7 +16,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Things I'll Do This Week: Jan 1-7
 - [ ] Complete Lesson 4 for IDF User Research
-- [ ] Watch 2 videos from my content list about ______
+- [ ] Complete 7 chapters for Game of Thrones 1
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
