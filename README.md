@@ -15,7 +15,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### This Week's Goal: Read and learn!
 
 ## Things I'll Do This Week: Jan 1-7
-- [ ] Complete Lesson 4
+- [ ] Complete Lesson 4 for IDF User Research
 - [ ] Watch 2 videos from my content list about ______
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Send Una a nice email (una.kravets@gmail.com)
