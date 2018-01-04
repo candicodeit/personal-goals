@@ -28,4 +28,5 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ### Backlog
 - [ ] Work on wireframes for new BT Dealer Gallery Page
+- [ ] Work on wireframes/specs for Goodreads "new features"
 
