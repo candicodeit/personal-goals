@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 2, 2018)
+Personal Goals (Updated: Jan 4, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -15,7 +15,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### This Week's Goal: Read and learn!
 
 ## Things I'll Do This Week: Jan 1-7
-- [ ] Complete Lesson 4 for IDF User Research
+- [x] Complete Lesson 4 for IDF User Research
 - [ ] Complete 7 chapters for Game of Thrones 1
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Send Una a nice email (una.kravets@gmail.com)
