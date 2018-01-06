@@ -39,6 +39,6 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Sass for Web Designers
   - Accessibility for Everyone
   - Practical SVG
-- [Build a blog](https://github.com/candicodeit/personal-goals/projects/2)
+- [Build a blog](https://github.com/candicodeit/githubpages/projects/1)
 
 
