@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 4, 2018)
+Personal Goals (Updated: Jan 5, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -10,14 +10,12 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 4. Plan regular dates with family and friends
 5. Read more fiction this year -> [Goal: 35 books](https://www.goodreads.com/user_challenges/10348403)
 
-# January 2, 2018
-
 ### This Week's Goal: Read and learn!
 
 ## Things I'll Do This Week: Jan 1-7
 - [x] Complete Lesson 4 for IDF User Research
 - [ ] Complete 7 chapters for Game of Thrones 1
-- [x] build a blog on [GitHub Pages](https://candicodeit.github.io/githubpages/)
+- [x] Build a blog on [GitHub Pages](https://candicodeit.github.io/githubpages/)
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
