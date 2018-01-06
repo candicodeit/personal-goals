@@ -20,6 +20,8 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Designing Systems 
   - Designing Systems Handbook (DesignBetter.Co)
   - Just Enough Research
+- Udemy Courses
+  - Web UI UX Design using Adobe XD
 --  
 
 ## Development - Small Tasks
