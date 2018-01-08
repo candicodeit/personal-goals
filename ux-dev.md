@@ -26,7 +26,7 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
 
 ## Development - Small Tasks
 - [Udemy Courses](https://www.udemy.com/user/candi-lemoine/)
-  - [Ultimate CSS Grid Course: From Beginner to Advanced](https://www.udemy.com/css-grid/learn/v4/content)
+  - [Ultimate CSS Grid Course: From Beginner to Advanced](https://github.com/candicodeit/udemy/projects/1)
   - Advanced CSS and Sass
   - Angular 5
   - JavaScript Essentials 2017
@@ -40,6 +40,7 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Sass for Web Designers
   - Accessibility for Everyone
   - Practical SVG
+  - Designing for Performance
 - [Build a blog](https://github.com/candicodeit/githubpages/projects/1)
 
 
