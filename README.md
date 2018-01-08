@@ -46,3 +46,4 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - Read 53% of [The Universe Has Your Back](https://www.goodreads.com/book/show/30812840-the-universe-has-your-back)
 - Started Udemy course on [CSS Grid](https://github.com/candicodeit/udemy/projects/1)
 - Sketched/brainstormed ideas for Goodreads app improvements (just for fun)
+- Wrote [first blog post](https://candicodeit.github.io/githubpages/week-of-learning) on my site
