@@ -14,7 +14,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Things I'll Do This Week: Jan 8-14
 - [ ] Write a blog post about Top 5 Remote Spots
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [x] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Read 7 chapters of [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [ ] Plan monthly friend movie night
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
