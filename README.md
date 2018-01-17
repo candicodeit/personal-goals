@@ -36,7 +36,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 --- 
 
-## Things I'll Do This Week: Jan 8-14
+## Things I'll Did Last Week: Jan 8-14
 - [x] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read 7 chapters of [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [x] Plan monthly friend movie night
