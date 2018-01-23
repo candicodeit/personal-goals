@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 17, 2018)
+Personal Goals (Updated: Jan 23, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -8,19 +8,18 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle
 3. Budget expenses
 4. Plan regular dates with family and friends
-5. Read more fiction this year -> [Goal: 35 books](https://www.goodreads.com/user_challenges/10348403)
+5. Read more fiction this year -> [Goal: 1/35 books](https://www.goodreads.com/user_challenges/10348403)
 
 ### This Week's Goal: Read and learn!
 
-## Things I'll Do This Week: Jan 15-21
-- [ ] Write a blog post about Top 5 Remote Spots
-- [ ] Finish [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
-- [ ] Meal plan for in-laws visit (Instant Pot recipes)
-- [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
+## Things I'll Do This Week: Jan 22-28
 - [ ] Complete Lesson 7 for [IDF User Research](https://github.com/candicodeit/personal-goals/projects/1)
+- [ ] Finish [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld)
+- [ ] Write a blog post about Top 5 Remote Spots
+- [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
 
 ### Things I'll Do This Month: January 2018
-- [ ] Read 3 books
+- [ ] Read 3 books (Completed 1)
 - [ ] Complete Interaction Design Foundation - User Research Course
 - [ ] ~Meal prep once a week~ 
 - [ ] ~Lift 2x a week~
@@ -36,7 +35,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 --- 
 
-## Things I'll Did Last Week: Jan 8-14
-- [x] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read 7 chapters of [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
-- [x] Plan monthly friend movie night
+## Things I'll Did Last Week: Jan 15-21
+- [x] Meal plan for in-laws visit (Instant Pot recipes)
+- [x] Finish [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
+
