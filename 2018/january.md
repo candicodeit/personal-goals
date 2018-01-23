@@ -11,3 +11,9 @@ Personal Goals | What I Did - January 2018
 - Started Udemy course on [CSS Grid](https://github.com/candicodeit/udemy/projects/1)
 - Sketched/brainstormed ideas for Goodreads app improvements (just for fun)
 - Wrote [first blog post](https://candicodeit.github.io/githubpages/week-of-learning) on my site
+
+---
+## Planned Things I'll Did Last Week: Jan 8-14
+- [x] Send Una a nice email (una.kravets@gmail.com)
+- [x] Read 7 chapters of [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
+- [x] Plan monthly friend movie night
