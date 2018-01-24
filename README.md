@@ -20,7 +20,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ### Things I'll Do This Month: January 2018
 - [ ] Read 3 books (Completed 1)
-- [ ] Complete Interaction Design Foundation - User Research Course
+- [x] Complete Interaction Design Foundation - User Research Course
 - [ ] ~Meal prep once a week~ 
 - [ ] ~Lift 2x a week~
 * _Going to focus on learning this month_
