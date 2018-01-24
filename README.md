@@ -13,7 +13,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### This Week's Goal: Read and learn!
 
 ## Things I'll Do This Week: Jan 22-28
-- [ ] Complete Lesson 7 for [IDF User Research](https://github.com/candicodeit/personal-goals/projects/1)
+- [x] Complete -Lesson 7- course  [IDF User Research](https://github.com/candicodeit/personal-goals/projects/1)
 - [ ] Finish [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld)
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
