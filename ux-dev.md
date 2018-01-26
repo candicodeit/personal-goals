@@ -4,7 +4,7 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
 
 ## UX - Small Tasks
 - [Interaction Design Foundation Courses](https://www.interaction-design.org/courses?r=candi-lemoine)
-  - [User Research (Current Progress: 84%)](https://github.com/candicodeit/personal-goals/projects/1)
+  - [x] [User Research (100%)](https://github.com/candicodeit/personal-goals/projects/1)
   - Conducting Usability Testing (Current Progress: 41%)
   - UI Design Patterns for Successful Software (Current Progress: 12%)
   - Interaction Design for Usability
@@ -22,7 +22,9 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Just Enough Research
 - Udemy Courses
   - Web UI UX Design using Adobe XD
---  
+- [learnux.io](https://learnux.io)  
+
+---  
 
 ## Development - Small Tasks
 - [Udemy Courses](https://www.udemy.com/user/candi-lemoine/)
