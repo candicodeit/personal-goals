@@ -18,6 +18,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Write a blog post about Top 5 Remote Spots
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
 
+## Unplanned Things I'll Do This Week
+- [ ] Finish [The Universe Has Your Back](https://www.goodreads.com/book/show/28956892-the-universe-has-your-back)
+- [x] Started [How To Talk So Little Kids Will Listen](https://www.goodreads.com/book/show/29430725-how-to-talk-so-little-kids-will-listen)
+
 ### Things I'll Do This Month: January 2018
 - [ ] Read 3 books (Completed 1)
 - [x] Complete Interaction Design Foundation - User Research Course
