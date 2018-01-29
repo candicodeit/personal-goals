@@ -22,3 +22,11 @@ Personal Goals | What I Did - January 2018
 - [x] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read 7 chapters of [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [x] Plan monthly friend movie night
+
+---
+
+# Week 3: Jan 15-21
+
+## Planned Things I Did 
+- [x] Meal plan for in-laws visit (Instant Pot recipes)
+- [x] Finish [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
