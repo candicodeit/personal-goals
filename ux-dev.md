@@ -5,6 +5,7 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
 ## UX - Small Tasks
 - [Interaction Design Foundation Courses](https://www.interaction-design.org/courses?r=candi-lemoine)
   - [x] [User Research (100%)](https://github.com/candicodeit/personal-goals/projects/1)
+  - [ ] [User Research v2 (7%)](https://github.com/candicodeit/personal-goals/projects/3)  
   - Conducting Usability Testing (Current Progress: 41%)
   - UI Design Patterns for Successful Software (Current Progress: 12%)
   - Interaction Design for Usability
@@ -13,13 +14,13 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Dynamic User Experience
   - Design Thinking
 - Reading:
-  - Practical Design Discovery 
-  - Design for Real Life
-  - Designing for Touch
-  - Atomic Design
-  - Designing Systems 
-  - Designing Systems Handbook (DesignBetter.Co)
-  - Just Enough Research
+  - [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)
+  - [Design for Real Life](https://abookapart.com/products/design-for-real-life)
+  - [Designing for Touch](https://abookapart.com/products/designing-for-touch)
+  - [Atomic Design](http://atomicdesign.bradfrost.com/)
+  - [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
+  - [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+  - [Just Enough Research](https://abookapart.com/products/just-enough-research)
 - Udemy Courses
   - Web UI UX Design using Adobe XD
 - [learnux.io](https://learnux.io)  
@@ -38,11 +39,11 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - Hello React
   - The Web Developer Bootcamp
 - Reading: 
-  - Responsible Responsive Design
-  - Sass for Web Designers
-  - Accessibility for Everyone
-  - Practical SVG
-  - Designing for Performance
+  - [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
+  - [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+  - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
+  - [Practical SVG](https://abookapart.com/products/practical-svg)
+  - [Designing for Performance](http://designingforperformance.com/)
 - [Build a blog](https://github.com/candicodeit/githubpages/projects/1)
 
 
