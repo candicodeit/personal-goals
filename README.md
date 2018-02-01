@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 29, 2018)
+Personal Goals (Updated: Feb 1, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -13,8 +13,8 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### This Week's Goal: Read and learn!
 
 ## Things I'll Do This Week: Jan 29 - Feb 4
-- [x] Complete ~Lesson 7~ course  [IDF User Research](https://github.com/candicodeit/personal-goals/projects/1)
-- [x] Finish [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld)
+- [ ] Complete Lesson 1 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+- [ ] Read 50% [Everless](https://www.goodreads.com/book/show/32320661-everless) (28%)
 - [ ] Write a blog post about Top 5 Remote Spots (Started)
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
 
