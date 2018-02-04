@@ -30,3 +30,16 @@ Personal Goals | What I Did - January 2018
 ## Planned Things I Did 
 - [x] Meal plan for in-laws visit (Instant Pot recipes)
 - [x] Finish [Game of Thrones 1](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
+
+--- 
+
+# Week 4: Jan 22-28
+
+## Planned Things I Did 
+- [x] Complete course [IDF User Research](https://github.com/candicodeit/personal-goals/projects/1)
+- [x] Finish [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld)
+
+## Unplanned Things I Did
+- [x] Finish [The Universe Has Your Back](https://www.goodreads.com/book/show/28956892-the-universe-has-your-back)
+- [x] Started [How To Talk So Little Kids Will Listen](https://www.goodreads.com/book/show/29430725-how-to-talk-so-little-kids-will-listen)
+
