@@ -1,6 +1,15 @@
 Personal Goals | What I Did - January 2018
 ==============
 
+
+### Monthly Plan
+- [x] Read 3 books
+- [x] Complete Interaction Design Foundation - User Research Course
+- [ ] ~Meal prep once a week~ 
+- [ ] ~Lift 2x a week~
+* _Going to focus on learning this month_
+
+
 # Week 1: Jan 1-7
 
 ## Planned Things I Did 
