@@ -34,6 +34,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 3 books
 
 ### Backlog
+- [ ] Schedule a DMM reunion hangout
 - [ ] Work on mobile wireframes for new BT Dealer Gallery Page
 - [ ] Work on mobile wireframes for new BT Browse Pages
 - [ ] Work on team front end standards
