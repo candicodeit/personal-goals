@@ -27,7 +27,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: February 2018
 - [ ] Read 3 books (Completed 1)
 - [ ] Complete Interaction Design Foundation up to Lesson 5 - User Research Course v2 
-- [ ] ~Complete Udemy CSS Grid cours~
+- [ ] ~Complete Udemy CSS Grid course~
 - [ ] Plan girls' movie night
 - [ ] Meal prep once a week
 - [ ] ~Lift 2x a week~
