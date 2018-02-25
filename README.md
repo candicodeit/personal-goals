@@ -13,7 +13,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ## Things I'll Do This Week: Feb 19 - 25
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-- [ ] Listen to 50% [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [x] Listen to 50% (Currently 67%) [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [x] Meal prep for the week
 - [ ] Refine part 1 on coaching homework from Lara
 
