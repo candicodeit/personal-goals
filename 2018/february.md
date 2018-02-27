@@ -13,12 +13,14 @@ Personal Goals | What I Did - February 2018
 
 # Week 6/7: Feb 5 - Feb 18
 
-## Planned Things I Did
-- [x] Work on A/B testing winner implementation plan
+## Things I Did
+- [x] Work on A/B testing winner implementation plan *#backlog*
 - [x] Prep for family vacation
 - [x] Enjoy family vacation (Feb 10-16 - SC/NC)
   - 3 full games of Phase 10
   - get mother-in-law to watch past Marvel movies
   - meet up with car family
-
+- [x] Schedule a DMM reunion hangout (Mar 3) *#backlog* *#relationships*
+- [x] Read [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+- [x] Work on coaching homework from Lara
 ---
