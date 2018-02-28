@@ -1,4 +1,4 @@
-Personal Goals (Updated: Feb 20, 2018)
+Personal Goals (Updated: Feb 27, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -11,9 +11,9 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 5. Read more fiction this year -> [Goal: 4/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
 
 ## Things I'll Do This Week: Feb 26 - Mar 4
-- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Finish reading (Currently 67%) [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-- [ ] Listen to 50% (Currently 87%) [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [ ] Finish listening to 50% (Currently 87%) [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [x] Meal prep for the week
 - [ ] Refine part 1 on coaching homework from Lara
 
