@@ -35,7 +35,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
 - [ ] Read 5 books
-- [ ] Meal prep 5x a week
+- [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 
 
