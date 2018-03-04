@@ -12,12 +12,12 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Feb 26 - Mar 4
-- [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+## Things I'll Do This Week: Mar 5 - Mar 11
 - [ ] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) (Currently 87%)
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [x] Meal prep for the week
+- [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens?from_search=true)
 - [ ] Refine part 1 on coaching homework from Lara
+- [ ] Find 2 staple weeknight meals
 
 ## Habits for This Month
 - Read a chapter when I first wake up *#read*
@@ -36,6 +36,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 3 books
 - [ ] Plan girls' movie night
 
+---
 
 ### Backlog
 - [ ] Work on mobile wireframes for new BT Dealer Gallery Page
