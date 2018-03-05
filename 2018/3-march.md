@@ -14,7 +14,7 @@ Personal Goals | What I Did - March 2018
 
 ## Planned Things I Did: Feb 26 - Mar 4
 - [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-- [ ] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) (Currently 87%)
+- [x] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [x] Meal prep for the week
 
 ---
