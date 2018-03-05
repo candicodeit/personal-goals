@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 2, 2018)
+Personal Goals (Updated: Mar 5, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,12 +12,12 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Feb 26 - Mar 4
-- [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-- [ ] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) (Currently 87%)
+## Things I'll Do This Week: Mar 5 - Mar 11
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [x] Meal prep for the week
+- [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street) 
+- [ ] Listen 25% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
 - [ ] Refine part 1 on coaching homework from Lara
+- [ ] Find 2 staple weeknight meals
 
 ## Habits for This Month
 - Read a chapter when I first wake up *#read*
@@ -28,7 +28,9 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: March 2018
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [ ] Read 5 books (Completed 1)
+- [ ] Read 5 books (Completed 2)
+  - [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+  - [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 
@@ -36,6 +38,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 3 books
 - [ ] Plan girls' movie night
 
+---
 
 ### Backlog
 - [ ] Work on mobile wireframes for new BT Dealer Gallery Page
@@ -43,10 +46,13 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Work on team front end standards
 - [ ] Work on wireframes/specs for Goodreads app "new features" *#forfun*
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
+- [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens?from_search=true)
+
 --- 
 
-## Week 8: Feb 18 - Feb 25
+## Week 8: Feb 26 - Mar 4
 
-## Things I Did
-- [x] Listen to 50% (Currently 87%) [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+## Planned Things I Did: Feb 26 - Mar 4
+- [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+- [x] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [x] Meal prep for the week
