@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 5, 2018)
+Personal Goals (Updated: Mar 7, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -14,7 +14,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Things I'll Do This Week: Mar 5 - Mar 11
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street) 
+- [ ] Read 25% [Snow like Ashes](https://www.goodreads.com/book/show/17399160-snow-like-ashes?from_search=true)
 - [ ] Listen 25% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
 - [ ] Refine part 1 on coaching homework from Lara
 - [ ] Find 2 staple weeknight meals
@@ -47,6 +47,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Work on wireframes/specs for Goodreads app "new features" *#forfun*
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
 - [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens?from_search=true)
+- [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
 
