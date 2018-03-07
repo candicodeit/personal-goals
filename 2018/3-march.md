@@ -4,7 +4,7 @@ Personal Goals | What I Did - March 2018
 ### Monthly Plan
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [ ] Read 5 books (Completed 1)
+- [ ] Read 5 books (Completed 2)
 - [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 
@@ -22,9 +22,9 @@ Personal Goals | What I Did - March 2018
 ## Week 10: Mar 5 - Mar 11
 
 ## Planned Things I Did
-- [ ] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) (Currently 87%)
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens?from_search=true)
+- [ ] Read 25% [Snow like Ashes](https://www.goodreads.com/book/show/17399160-snow-like-ashes?from_search=true)
+- [ ] Listen 25% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
 - [ ] Refine part 1 on coaching homework from Lara
 - [ ] Find 2 staple weeknight meals
 
