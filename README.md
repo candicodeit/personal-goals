@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 7, 2018)
+Personal Goals (Updated: Mar 14, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,10 +12,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Mar 5 - Mar 11
+## Things I'll Do This Week: Mar 12 - Mar 18
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 25% [Snow like Ashes](https://www.goodreads.com/book/show/17399160-snow-like-ashes?from_search=true)
-- [ ] Listen 25% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
+- [ ] Read 50% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 30%)
+- [ ] Listen 75% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
 - [ ] Refine part 1 on coaching homework from Lara
 - [ ] Find 2 staple weeknight meals
 
@@ -33,6 +33,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
   - [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
+- [ ] Plan team hangout
 
 ### Things I'll Do Next Month: April 2018
 - [ ] Read 3 books
@@ -46,14 +47,14 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Work on team front end standards
 - [ ] Work on wireframes/specs for Goodreads app "new features" *#forfun*
 - [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
+- [ ] Read 25% [Snow like Ashes](https://www.goodreads.com/book/show/17399160-snow-like-ashes?from_search=true)
 - [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens?from_search=true)
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
+## Week 10: Mar 5 - Mar 11
 
-## Week 8: Feb 26 - Mar 4
-
-## Planned Things I Did: Feb 26 - Mar 4
-- [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-- [x] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
-- [x] Meal prep for the week
+## Planned Things I Did
+- [x] Read 30% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+- [x] Listen ~25%~ 50% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
+- [x] Find 2 staple weeknight meals
