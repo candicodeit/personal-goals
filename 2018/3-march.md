@@ -12,7 +12,7 @@ Personal Goals | What I Did - March 2018
 
 ## Week 9: Feb 26 - Mar 4
 
-## Planned Things I Did: Feb 26 - Mar 4
+## Planned Things I Did
 - [x] Finish reading [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
 - [x] Finish listening [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [x] Meal prep for the week
@@ -22,11 +22,9 @@ Personal Goals | What I Did - March 2018
 ## Week 10: Mar 5 - Mar 11
 
 ## Planned Things I Did
-- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 25% [Snow like Ashes](https://www.goodreads.com/book/show/17399160-snow-like-ashes?from_search=true)
-- [ ] Listen 25% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
-- [ ] Refine part 1 on coaching homework from Lara
-- [ ] Find 2 staple weeknight meals
+- [x] Read 30% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+- [x] Listen ~25%~ 50% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
+- [x] Find 2 staple weeknight meals
 
 ---
 
