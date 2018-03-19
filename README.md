@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 14, 2018)
+Personal Goals (Updated: Mar 19, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -8,16 +8,15 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle *#health*
 3. Budget expenses *#budget*
 4. Plan regular dates with family and friends *#relationships*
-5. Read more fiction this year -> [Goal: 6/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
+5. Read more fiction this year -> [Goal: 7/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
 
 ---
 
-## Things I'll Do This Week: Mar 12 - Mar 18
+## Things I'll Do This Week: Mar 19 - Mar 25
 - [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 50% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 30%)
-- [ ] Listen 75% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
+- [ ] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 45%)
 - [ ] Refine part 1 on coaching homework from Lara
-- [ ] Find 2 staple weeknight meals
+- [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
 
 ## Habits for This Month
 - Read a chapter when I first wake up *#read*
@@ -28,12 +27,13 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: March 2018
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [ ] Read 5 books (Completed 2)
+- [ ] Read 5 books (Completed 3)
   - [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
   - [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+  - [City of Lost Souls](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
 - [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
-- [ ] Plan team hangout
+- [x] Plan team hangout
 
 ### Things I'll Do Next Month: April 2018
 - [ ] Read 3 books
@@ -52,9 +52,9 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
-## Week 10: Mar 5 - Mar 11
+## Week 11: Mar 12 - Mar 18
 
 ## Planned Things I Did
-- [x] Read 30% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
-- [x] Listen ~25%~ 50% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls)
+- [x] Read 45% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+- [x] Finished [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
 - [x] Find 2 staple weeknight meals
