@@ -31,18 +31,19 @@ Personal Goals | What I Did - March 2018
 ## Week 11: Mar 12 - Mar 18
 
 ## Planned Things I Did
-- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 50% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 30%)
-- [ ] Listen 75% [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
-- [ ] Refine part 1 on coaching homework from Lara
-- [ ] Find 2 staple weeknight meals
+- [x] Read 45% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+- [x] Finished [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
+- [x] Find 2 staple weeknight meals
 
 ---
 
 ## Week 12: Mar 19 - Mar 25
 
 ## Planned Things I Did
-- [ ] Find 2 staple weeknight meals
+- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
+- [ ] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 45%)
+- [ ] Refine part 1 on coaching homework from Lara
+- [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
 
 ---
 
