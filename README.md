@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 19, 2018)
+Personal Goals (Updated: Mar 21, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
