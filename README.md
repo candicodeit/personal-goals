@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 21, 2018)
+Personal Goals (Updated: Mar 24, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -8,7 +8,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle *#health*
 3. Budget expenses *#budget*
 4. Plan regular dates with family and friends *#relationships*
-5. Read more fiction this year -> [Goal: 8/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
+5. Read more fiction this year -> [Goal: 9/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
 
 ---
 
@@ -19,8 +19,9 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
 
 ## Unplanned Things I Did
-- Started listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
+- Finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 - Started reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+- Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
 
 ## Habits for This Month
 - Read a chapter when I first wake up *#read*
@@ -31,11 +32,12 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: March 2018
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [ ] Read 5 books (Completed 4)
-  - [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-  - [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
-  - [City of Lost Souls](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
-  - [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+- [x] Read 5 books 
+  - [The Cruel Prince - ebook](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+  - [Great at Work - audio](https://www.goodreads.com/book/show/35297611-great-at-work)
+  - [City of Lost Souls - audio](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
+  - [User Experience Team of One - paperback](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+  - [Your Best Year Ever - audio](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 - [ ] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 - [x] Plan team hangout
