@@ -34,7 +34,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
   - [City of Lost Souls - audio](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
   - [User Experience Team of One - paperback](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
   - [Your Best Year Ever - audio](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
-  - [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+  - [The Wicked Deep - hardback](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
 - [x] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 - [x] Plan team hangout
