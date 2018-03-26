@@ -46,7 +46,6 @@ Personal Goals | What I Did - March 2018
 ## Unplanned Things I Did
 - Started and finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 - Started and finished reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
-- Started User 
 - Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
 
 ---
