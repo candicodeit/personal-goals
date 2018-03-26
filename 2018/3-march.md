@@ -40,10 +40,14 @@ Personal Goals | What I Did - March 2018
 ## Week 12: Mar 19 - Mar 25
 
 ## Planned Things I Did
-- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true) (Currently 45%)
-- [ ] Refine part 1 on coaching homework from Lara
-- [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
+- [x] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+- Started Lesson 1 & 2 [User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+
+## Unplanned Things I Did
+- Started and finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
+- Started and finished reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+- Started User 
+- Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
 
 ---
 
