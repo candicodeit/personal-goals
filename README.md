@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 24, 2018)
+Personal Goals (Updated: Mar 25, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,16 +12,12 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Mar 19 - Mar 25
-- [ ] Complete Lesson 1 & 2 - [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [x] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+## Things I'll Do This Week: Mar 26 - Apr 1
+- [ ] Complete Lesson 1 - 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Refine part 1 on coaching homework from Lara
 - [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
 
 ## Unplanned Things I Did
-- Finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
-- Started reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
-- Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
 
 ## Habits for This Month
 - Read a chapter when I first wake up *#read*
@@ -32,13 +28,14 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: March 2018
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [x] Read 5 books 
+- [x] Read 5 books (Completed 6)
   - [The Cruel Prince - ebook](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
   - [Great at Work - audio](https://www.goodreads.com/book/show/35297611-great-at-work)
   - [City of Lost Souls - audio](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
   - [User Experience Team of One - paperback](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
   - [Your Best Year Ever - audio](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
-- [ ] Find 10 staple weeknight meals
+  - [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+- [x] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 - [x] Plan team hangout
 
@@ -59,9 +56,13 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
-## Week 11: Mar 12 - Mar 18
+## Week 12: Mar 19 - Mar 25
 
 ## Planned Things I Did
-- [x] Read 45% [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
-- [x] Finished [City of Lost Souls](https://www.goodreads.com/book/show/12686642-city-of-lost-souls) (Currently 53%)
-- [x] Find 2 staple weeknight meals
+- [x] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
+- Started Lesson 1 & 2 [User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+
+## Unplanned Things I Did
+- Started and finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
+- Started and finished reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+- Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
