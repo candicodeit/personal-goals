@@ -4,8 +4,8 @@ Personal Goals | What I Did - March 2018
 ### Monthly Plan
 - [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Work on coaching homework from Lara
-- [ ] Read 5 books (Completed 2)
-- [ ] Find 10 staple weeknight meals
+- [x] Read 5 books (Completed 6)
+- [x] Find 10 staple weeknight meals
 - [ ] Plan girls' movie night
 
 ---
