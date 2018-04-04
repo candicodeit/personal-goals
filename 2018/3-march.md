@@ -2,11 +2,15 @@ Personal Goals | What I Did - March 2018
 ==============
 
 ### Monthly Plan
-- [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Work on coaching homework from Lara
 - [x] Read 5 books (Completed 6)
+  - [The Cruel Prince - ebook](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+  - [Great at Work - audio](https://www.goodreads.com/book/show/35297611-great-at-work)
+  - [City of Lost Souls - audio](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
+  - [User Experience Team of One - paperback](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+  - [Your Best Year Ever - audio](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
+  - [The Wicked Deep - hardback](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
 - [x] Find 10 staple weeknight meals
-- [ ] Plan girls' movie night
+- [x] Plan team hangout
 
 ---
 
@@ -53,7 +57,8 @@ Personal Goals | What I Did - March 2018
 ## Week 13: Mar 26 - Apr 1
 
 ## Planned Things I Did
-- [ ] Find 2 staple weeknight meals
+- [x] Find 2 staple weeknight meals
+- [x] Refine part 1 on coaching homework from Lara
 
 ---
 
