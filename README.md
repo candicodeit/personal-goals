@@ -1,4 +1,4 @@
-Personal Goals (Updated: Mar 25, 2018)
+Personal Goals (Updated: Apr 3, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,36 +12,25 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Mar 26 - Apr 1
-- [ ] Complete Lesson 1 - 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Refine part 1 on coaching homework from Lara
-- [ ] Plan girls' movie night [Game Night](http://www.imdb.com/title/tt2704998/)
+## Things I'll Do This Week: Apr 2 - 8
+- [ ] Complete Lesson 1 - 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+- [ ] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
 
 ## Unplanned Things I Did
 
 ## Habits for This Month
-- Read a chapter when I first wake up *#read*
+- Complete a lesson when I first wake up *#learn*
 - Read before bed *#read*
 - Schedule IDF lessons *#learn*
-- Research recipes for meal planning on Fridays
 
-### Things I'll Do This Month: March 2018
-- [ ] Complete [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Work on coaching homework from Lara
-- [x] Read 5 books (Completed 6)
-  - [The Cruel Prince - ebook](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
-  - [Great at Work - audio](https://www.goodreads.com/book/show/35297611-great-at-work)
-  - [City of Lost Souls - audio](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
-  - [User Experience Team of One - paperback](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
-  - [Your Best Year Ever - audio](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
-  - [The Wicked Deep - hardback](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
-- [x] Find 10 staple weeknight meals
-- [ ] Plan girls' movie night
-- [x] Plan team hangout
+### Things I'll Do This Month: April 2018
+- [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
+- [ ] Read 2 fiction books and 1 ABA book
+- [ ] Start planning Emmi's birthday party
 
-### Things I'll Do Next Month: April 2018
-- [ ] Read 3 books
-- [ ] Plan girls' movie night
+### Things I'll Do Next Month: May 2018
+- [ ] Read 2 fiction books and 1 ABA book
+- [ ] Finish planning Emmi's birthday party
 
 ---
 
@@ -56,13 +45,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
-## Week 12: Mar 19 - Mar 25
+## Week 13: Mar 26 - Apr 1
 
 ## Planned Things I Did
-- [x] Finish [User Experience Team of One](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one?from_search=true)
-- Started Lesson 1 & 2 [User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-
-## Unplanned Things I Did
-- Started and finished listening to [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
-- Started and finished reading [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
-- Started listening to [The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse)
+- [x] Refine part 1 on coaching homework from Lara
