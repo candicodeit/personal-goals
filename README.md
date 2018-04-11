@@ -1,4 +1,4 @@
-Personal Goals (Updated: Apr 3, 2018)
+Personal Goals (Updated: Apr 11, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,7 +12,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Apr 2 - 8
+## Things I'll Do This Week: Apr 9 - 15
 - [ ] Complete Lesson 1 - 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
 - [ ] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
 
