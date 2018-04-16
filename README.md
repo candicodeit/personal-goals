@@ -12,9 +12,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Apr 9 - 15
-- [ ] Complete Lesson 1 - 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+## Things I'll Do This Week: Apr 16 - 22
+- [ ] Complete Lesson 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
 - [ ] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
+- [ ] Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 ## Unplanned Things I Did
 
@@ -45,7 +46,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
-## Week 13: Mar 26 - Apr 1
+## Week 15: Apr 9 - 15
 
 ## Planned Things I Did
-- [x] Refine part 1 on coaching homework from Lara
+- [x] Complete Lesson 1 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+
+## Unplanned Things I Did
+- [x] Started [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
