@@ -21,6 +21,9 @@ Personal Goals | What I Did - April 2018
 ## Planned Things I Did
 - [x] Complete Lesson 1 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
 
+## Unplanned Things I Did
+- [x] Started [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+
 ---
 
 ## Week 16: Apr 16 - 22
