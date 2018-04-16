@@ -19,6 +19,7 @@ Personal Goals | What I Did - April 2018
 ## Week 15: Apr 9 - 15
 
 ## Planned Things I Did
+- [x] Complete Lesson 1 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
 
 ---
 
