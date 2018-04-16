@@ -72,4 +72,5 @@ Personal Goals | What I Did - March 2018
 
 
 # March Reflection
+I did a lot of reading this month to leave more room for April. I wasn't able to focus on my UX course work as much as I'd like. I've gotten to a good habit of looking at new recipes for the following week's meals. I've found it helpful to create a checklist of dinners I have planned. I don't plan for the dinners by day since the family can often be in the mood for something else. I'd like next month to be more focused around UX course work vs reading. 
 
