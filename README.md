@@ -1,4 +1,4 @@
-Personal Goals (Updated: Apr 16, 2018)
+Personal Goals (Updated: Apr 17, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -18,6 +18,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 ## Unplanned Things I Did
+- Posted [coaching homework](https://github.com/candicodeit/personal-goals/blob/master/hw-dream-job.md) in GH for reference
 
 ## Habits for This Month
 - Complete a lesson when I first wake up *#learn*
