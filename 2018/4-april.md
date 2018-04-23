@@ -29,6 +29,9 @@ Personal Goals | What I Did - April 2018
 ## Week 16: Apr 16 - 22
 
 ## Planned Things I Did
+- [x] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
+- Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (Currently 10%)
+- Complete Lesson 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (Currently 50%)
 
 ---
 
