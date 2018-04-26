@@ -1,4 +1,4 @@
-Personal Goals (Updated: Apr 17, 2018)
+Personal Goals (Updated: Apr 26, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,10 +12,11 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Apr 16 - 22
+## Things I'll Do This Week: Apr 23 - 29
 - [ ] Complete Lesson 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-- [ ] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
+- [ ] Read 50% of [Conversational Design](https://abookapart.com/products/conversational-design)
 - [ ] Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+- [x] Send party invites for Emmi's birthday
 
 ## Unplanned Things I Did
 - Posted [coaching homework](https://github.com/candicodeit/personal-goals/blob/master/hw-dream-job.md) in GH for reference
@@ -47,10 +48,11 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Read 25% [The Peculiar Incident on Shady Street](https://www.goodreads.com/book/show/27395333-the-peculiar-incident-on-shady-street)
 
 --- 
-## Week 15: Apr 9 - 15
+## Week 16: Apr 16 - 22
 
 ## Planned Things I Did
-- [x] Complete Lesson 1 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+- [x] Read 10% of [Conversational Design](https://abookapart.com/products/conversational-design)
+- Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (Currently 10%)
+- Complete Lesson 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (Currently 50%)
+- [x] Start planning Emmi's birthday
 
-## Unplanned Things I Did
-- [x] Started [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
