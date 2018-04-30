@@ -61,3 +61,5 @@ Personal Goals | What I Did - April 2018
 
 # April Reflection
 Sometimes when you have other major plans, you have to take that into account when you're planning out your goals. My daughter's birthday party, getting her a big girl bed, etc. There's so much planning that goes into it all. But I do realize that I need a better habit again of reading. I've been so worned out from family duties and work demands. My biggest dilemma I come across is: should I read a non-fiction (which typically is inspirational, design/dev related, or a biography) or a fiction? You'd think it's an easy answer, but for me, it's difficult. I can't always stick to a reading plan either because I'll change books mid-reading just because of my mood. 
+
+In terms of the IDF courses, some of them are easy reads with multiple choice questions. Others are videos that require more indepth open-ended questions. Those are a lot more time consuming since I have to put more thought into the answers. 
