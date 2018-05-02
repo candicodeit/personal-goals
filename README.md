@@ -14,7 +14,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Things I'll Do This Week: Apr 30 - May 6
 - [ ] Complete Lesson 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-- [ ] Finish reading [Conversational Design](https://abookapart.com/products/conversational-design) (Currently 57%)
+- [ ] Finish reading [Conversational Design](https://abookapart.com/products/conversational-design) (Currently 73%)
 - [ ] Read 25% of [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 - [ ] Plan party food & supplies for Emmi's birthday
 
@@ -24,7 +24,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - Schedule IDF lessons *#learn*
 
 ### Things I'll Do This Month: April 2018
-- [ ] -Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)-
+- [ ] ~Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)~
 - [ ] Read 2 fiction books and 1 ABA book
 - [x] Start planning Emmi's birthday party
 
