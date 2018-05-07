@@ -10,6 +10,7 @@ Format: Book Title - Date Finished
 - [JavaScript for Web Designers - Sep 2017](https://www.goodreads.com/book/show/32309198-javascript-for-web-designers)
 - [Responsive Design: Patterns & Principles - Nov 2016](https://www.goodreads.com/book/show/27858998-responsive-design)
 - [HTML5 for Web Designers - ?](https://www.goodreads.com/book/show/8148515-html5-for-web-designers)
+- [Conversational Design - Apr 2018](https://www.goodreads.com/book/show/38393096-conversational-design)
 
 ---
 
