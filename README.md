@@ -29,8 +29,8 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Habits for This Month
 - Read for 9 mins: 
--- after waking up
--- before bed
+  - after waking up
+  - before bed
 - Estimate daily tasks
 - Plan out days with MAE format
 
