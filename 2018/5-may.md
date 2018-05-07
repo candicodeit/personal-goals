@@ -68,8 +68,8 @@ Personal Goals | What I Did - May 2018
 
 ## Habits for This Month
 - Read for 9 mins: 
--- after waking up
--- before bed
+  - after waking up
+  - before bed
 - Estimate daily tasks
 - Plan out days with MAE format
 
