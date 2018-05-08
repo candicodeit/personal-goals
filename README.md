@@ -16,7 +16,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ## Planned Things I Did
 - [ ] Prep Emmi's birthday party
-  - [ ] Finish writing out the full plan
+  - [x] Finish writing out the full plan
   - [ ] Schedule cake
   - [ ] Order party supplies
 - [ ] Read 10% [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research) 
