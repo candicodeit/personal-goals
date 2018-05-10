@@ -37,3 +37,21 @@ Format: Book Title - Date Finished
 - [Power of Habit - Jan 2017](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [Smarter, Faster, Better - Apr 2017](https://www.goodreads.com/book/show/28516424-smarter-faster-better)
 - [Your Best Year Ever - Mar 2018](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
+
+
+To Be Read 
+==============
+- [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)
+- [Design for Real Life](https://abookapart.com/products/design-for-real-life)
+- [Designing for Touch](https://abookapart.com/products/designing-for-touch)
+- [Atomic Design](http://atomicdesign.bradfrost.com/)
+- [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
+- [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+- [Just Enough Research](https://abookapart.com/products/just-enough-research)
+- [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
+- [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+- [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
+- [Practical SVG](https://abookapart.com/products/practical-svg)
+- [Designing for Performance](http://designingforperformance.com/)
+- [Meeting Design](https://rosenfeldmedia.com/books/meeting-design/)
+- [Orchestrating Experiences](https://rosenfeldmedia.com/books/orchestrating-experiences/)
