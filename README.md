@@ -12,20 +12,15 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: May 7 - 13
+## Things I'll Do This Week: May 14 - 20
 
 ## Planned Things I Did
 - [ ] Prep Emmi's birthday party
-  - [x] Finish writing out the full plan
-  - [ ] Schedule cake
-  - [ ] Order party supplies
-- [ ] Read 10% [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research) 
-- [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 4 hr 12 min)
-  - [ ] Hit 25% mark
-  - [ ] Hit 50% mark  
-- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-  - [ ] Finish Lessons 2 (est. 1.5 hrs)
-  - [ ] Finish Lessons 3 (est. 1.5 hrs)
+  - [ ] Prep house for visitors
+  - [ ] Buy food 
+  - [ ] Setup party area
+  - [ ] Make gift bags
+- [ ] Read 25% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) 
   
 ## Unplanned Things I Did  
 - Completed StrengthFinders 2.0 assessment
@@ -60,9 +55,15 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 
 --- 
-## Week 18: Apr 30 - May 6
+## Week 19: May 7 - 13
 
 ## Planned Things I Did
-- [x] Finish reading [Conversational Design](https://abookapart.com/products/conversational-design) 
-- [x] Plan party food & supplies for Emmi's birthday
+- [x] Prep Emmi's birthday party
+  - [x] Finish writing out the full plan
+  - [x] Schedule cake
+  - [x] Order party supplies
+  
+## Unplanned Things I Did  
+- Completed StrengthFinders 2.0 assessment
+- Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
 
