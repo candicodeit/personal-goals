@@ -1,4 +1,4 @@
-Personal Goals (Updated: May 7, 2018)
+Personal Goals (Updated: May 9, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -26,6 +26,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
   - [ ] Finish Lessons 2 (est. 1.5 hrs)
   - [ ] Finish Lessons 3 (est. 1.5 hrs)
+  
+## Unplanned Things I Did  
+- Completed StrengthFinders 2.0 assessment
+- Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
 
 ## Habits for This Month
 - Read for 9 mins: 
@@ -61,5 +65,4 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ## Planned Things I Did
 - [x] Finish reading [Conversational Design](https://abookapart.com/products/conversational-design) 
 - [x] Plan party food & supplies for Emmi's birthday
-
 
