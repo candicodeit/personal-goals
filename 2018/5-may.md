@@ -4,7 +4,7 @@ Personal Goals | What I Did - May 2018
 ### Monthly Plan
 - [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Read 2 fiction books and 1 ABA book
-- [ ] Prep Emmi's birthday party
+- [x] Prep Emmi's birthday party
 - [ ] Plan DMM Work Fam gathering
 
 ---
@@ -32,11 +32,11 @@ Personal Goals | What I Did - May 2018
 ## Week 20: May 14 - 20
 
 ## Planned Things I Did
-- [ ] Prep Emmi's birthday party
-  - [ ] Prep house for visitors
-  - [ ] Buy food 
-  - [ ] Setup party area
-  - [ ] Make gift bags
+- [x] Prep Emmi's birthday party
+  - [x] Prep house for visitors
+  - [x] Buy food 
+  - [x] Setup party area
+  - [x] Make gift bags
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 - [ ] Start Lesson 4 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 1.5 hrs)

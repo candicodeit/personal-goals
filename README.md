@@ -1,4 +1,4 @@
-Personal Goals (Updated: May 9, 2018)
+Personal Goals (Updated: May 23, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,19 +12,13 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: May 14 - 20
+## Things I'll Do This Week: May 21 - 27 (Memorial Day Weekend)
 
 ## Planned Things I Did
-- [ ] Prep Emmi's birthday party
-  - [ ] Prep house for visitors
-  - [ ] Buy food 
-  - [ ] Setup party area
-  - [ ] Make gift bags
 - [ ] Read 25% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) 
-  
-## Unplanned Things I Did  
-- Completed StrengthFinders 2.0 assessment
-- Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
+- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+  - [ ] Finish Lessons 2 (est. 1.5 hrs)
+  - [ ] Finish Lessons 3 (est. 1.5 hrs)
 
 ## Habits for This Month
 - Read for 9 mins: 
@@ -36,7 +30,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ### Things I'll Do This Month: May 2018
 - [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Read 2 fiction books and 1 ABA book
-- [ ] Prep Emmi's birthday party
+- [x] Prep Emmi's birthday party
 - [ ] Plan DMM Work Fam gathering
 
 ### Things I'll Do Next Month: June 2018
@@ -55,15 +49,11 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 
 --- 
-## Week 19: May 7 - 13
+## Week 20: May 14 - 20
 
 ## Planned Things I Did
 - [x] Prep Emmi's birthday party
-  - [x] Finish writing out the full plan
-  - [x] Schedule cake
-  - [x] Order party supplies
-  
-## Unplanned Things I Did  
-- Completed StrengthFinders 2.0 assessment
-- Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
-
+  - [x] Prep house for visitors
+  - [x] Buy food 
+  - [x] Setup party area
+  - [x] Make gift bags
