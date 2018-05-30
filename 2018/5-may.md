@@ -80,3 +80,6 @@ Personal Goals | What I Did - May 2018
 
 
 # May Reflection
+As May comes to a close, I realize that I had too much personal stuff going on to really do other things outside of work hours. Having family visiting in town, setting up my toddler's birthday party, and the research of buying a car took up most of my time this month. 
+
+However, I didn't make the time I should have to just do a fiction read. The middle of the year is typically when my reading habits fall off. I don't know if it's necessarily because we have more family/friend outings and the weather is nice outside, but I happens ever year. Maybe this year, I can at least try for more reading. I often struggle with non-fiction reads and fiction reads. I want to learn so much but I know I need to give my brain a break. 
