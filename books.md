@@ -25,6 +25,7 @@ Format: Book Title - Date Finished
 - [Joy on Demand - Dec 2016](https://www.goodreads.com/book/show/27189099-joy-on-demand)
 - [Women Who Don't Wait in Line - Sep 2017](https://www.goodreads.com/book/show/15985162-women-who-don-t-wait-in-line)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising) 
+- [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 
 # Work-Related
 - [Project Management for Humans - Nov 2017](https://www.goodreads.com/book/show/35714082-project-management-for-humans)
