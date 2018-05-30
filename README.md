@@ -48,7 +48,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 
 --- 
-## Week 20: May 21 - 27 (Memorial Weekend)
+## Week 21: May 21 - 27 (Memorial Weekend)
 
 ## Unplanned Things I Did
 - Car buying research
