@@ -19,6 +19,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 - [ ] Write a blog post about car buying research
 - [ ] Plan DMM Work Fam gathering
 
+## Unplanned Things I Did
+- [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
+- [x] Finished [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
+
 ## Habits for This Month
 - Read for 9 mins: 
   - after waking up
