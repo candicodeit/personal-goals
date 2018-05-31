@@ -54,5 +54,8 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 --- 
 ## Week 21: May 21 - 27 (Memorial Weekend)
 
+## Planned Things I Did
+- spent the day at Busch Gardens with family #relationships
+
 ## Unplanned Things I Did
 - Car buying research
