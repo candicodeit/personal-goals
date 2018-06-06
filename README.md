@@ -1,4 +1,4 @@
-Personal Goals (Updated: May 23, 2018)
+Personal Goals (Updated: May 30, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -8,17 +8,20 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle *#health*
 3. Budget expenses *#budget*
 4. Plan regular dates with family and friends *#relationships*
-5. Read more fiction this year -> [Goal: 11/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
+5. Read more fiction this year -> [Goal: 12/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
 
 ---
 
-## Things I'll Do This Week: May 21 - 27 (Memorial Day Weekend)
+## Things I'll Do This Week: May 28 - Jun 3
 
 ## Planned Things I Did
 - [ ] Read 25% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) 
-- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-  - [ ] Finish Lessons 2 (est. 1.5 hrs)
-  - [ ] Finish Lessons 3 (est. 1.5 hrs)
+- [ ] Write a blog post about car buying research
+- [ ] Plan DMM Work Fam gathering
+
+## Unplanned Things I Did
+- [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
+- [x] Finished [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 
 ## Habits for This Month
 - Read for 9 mins: 
@@ -49,11 +52,10 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 
 --- 
-## Week 20: May 14 - 20
+## Week 21: May 21 - 27 (Memorial Weekend)
 
 ## Planned Things I Did
-- [x] Prep Emmi's birthday party
-  - [x] Prep house for visitors
-  - [x] Buy food 
-  - [x] Setup party area
-  - [x] Make gift bags
+- spent the day at Busch Gardens with family #relationships
+
+## Unplanned Things I Did
+- Car buying research
