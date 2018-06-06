@@ -96,11 +96,11 @@ _#relationships_
 ---
 
 ## Habits for This Month
-- Read for 9 mins: 
-  - after waking up
-  - before bed
-- Estimate daily tasks
 - Plan out days with MAE format
+- Estimate daily tasks
+- Complete 30mins of daily learning
+- Read for 9 mins: 
+  - before bed
 
 ---
 
