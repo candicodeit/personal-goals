@@ -32,6 +32,8 @@ _#relationships_
 - Complete 30mins of daily learning
 - Read for 9 mins: 
   - before bed
+  
+---
 
 ### Things I'll Do This Month: June 2018
 _#learn_
@@ -57,10 +59,10 @@ _#relationships_
 --- 
 ## Week 22: May 28 - Jun 3
 
-## Planned Things I Did
+### Planned Things I Did
 - [x] Plan DMM Work Fam gathering
 
-## Unplanned Things I Did
+### Unplanned Things I Did
 - [x] Write a blog post about [talking with upper management](http://candicode.it/upper-management)
 - [x] Transferred domain to GitHub pages: [candicode.it](http://candicode.it/)
 - [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
