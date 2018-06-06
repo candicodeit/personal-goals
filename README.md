@@ -1,46 +1,62 @@
-Personal Goals (Updated: May 30, 2018)
+Personal Goals (Updated: Jun 6, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
 
 # Overarching Goals
-1. Continuous learning of UX and the front end development *#learn*
-2. Healthier lifestyle *#health*
-3. Budget expenses *#budget*
-4. Plan regular dates with family and friends *#relationships*
-5. Read more fiction this year -> [Goal: 12/35 books](https://www.goodreads.com/user_challenges/10348403) *#read*
+1. Continuous learning of UX and the front end development _#learn_
+2. Healthier lifestyle _#health_
+3. Budget expenses _#budget_
+4. Plan regular dates with family and friends _#relationships_
+5. Read more fiction this year -> [Goal: 13/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_
 
 ---
 
-## Things I'll Do This Week: May 28 - Jun 3
+## Things I'll Do This Week: Jun 4 - June 10
 
 ## Planned Things I Did
-- [ ] Read 25% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) 
-- [ ] Write a blog post about car buying research
-- [ ] Plan DMM Work Fam gathering
+_#learn_
+- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines] (est. 1 hr 24 min)
+
+_#read_
+- [ ] Read 10% [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research) 
+- [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 4 hr 12 min)
+  - [ ] Hit 25% mark
+  - [ ] Hit 50% mark  
+-  [ ] Finish [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering)
+
+_#relationships_
+- [ ] Prep for Bellie's birthday
+
 
 ## Unplanned Things I Did
-- [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
-- [x] Finished [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
+
 
 ## Habits for This Month
 - Read for 9 mins: 
-  - after waking up
   - before bed
 - Estimate daily tasks
 - Plan out days with MAE format
 
-### Things I'll Do This Month: May 2018
-- [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 2 fiction books and 1 ABA book
-- [x] Prep Emmi's birthday party
-- [ ] Plan DMM Work Fam gathering
+### Things I'll Do This Month: June 2018
+_#learn_
+- [ ] [Pluralsight - Meeting Web Accessibility Guidelines](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines/table-of-contents)
 
-### Things I'll Do Next Month: June 2018
-- [ ] IDF Lesson
-- [ ] Read 2 fiction books and 1 ABA book
+_#read_
+- [ ] Read _Sky in the Deep_ and _Children of Blood and Bone_ (fiction)
+- [ ] Read Just Enough Research (non-fiction)
+- [ ] Finish [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering) (non-fiction)
+
+_#relationships_
 - [ ] Prep for Bellie's birthday
 - [ ] Prep for Sammy's birthday visit
+
+
+### Things I'll Do Next Month: July 2018
+- [ ] #learn
+- [ ] Read 2 fiction books and 1 ABA book
+- [ ] Prep for my birthday
+- [ ] Research destination vacation options 
 
 ---
 
@@ -52,10 +68,15 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 
 --- 
-## Week 21: May 21 - 27 (Memorial Weekend)
+## Week 22: May 28 - Jun 3
 
 ## Planned Things I Did
-- spent the day at Busch Gardens with family #relationships
+- [x] Plan DMM Work Fam gathering
 
 ## Unplanned Things I Did
-- Car buying research
+- [x] Write a blog post about [talking with upper management](http://candicode.it/upper-management)
+- [x] Transferred domain to GitHub pages: [candicode.it](http://candicode.it/)
+- [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
+- [x] Finished [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
+- [x] Finished [Crushing It](https://www.goodreads.com/book/show/36045512-crushing-it)
+- [x] Started [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering)
