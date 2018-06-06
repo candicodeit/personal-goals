@@ -5,7 +5,7 @@ Personal Goals | What I Did - May 2018
 - [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
 - [ ] Read 2 fiction books and 1 ABA book
 - [x] Prep Emmi's birthday party
-- [ ] Plan DMM Work Fam gathering
+- [x] Plan DMM Work Fam gathering
 
 ---
 
