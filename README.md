@@ -5,16 +5,14 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 # Overarching Goals
 1. Continuous learning of UX and the front end development _#learn_
-2. Healthier lifestyle _#health_
-3. Budget expenses _#budget_
-4. Plan regular dates with family and friends _#relationships_
-5. Read more fiction this year -> [Goal: 13/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_
+2. Read more fiction this year -> [Goal: 13/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_
+3. Plan regular dates with family and friends _#relationships_
+4. Budget expenses _#budget_
+5. Healthier lifestyle _#health_
 
 ---
 
 ## Things I'll Do This Week: Jun 4 - June 10
-
-## Planned Things I Did
 _#learn_
 - [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines] (est. 1 hr 24 min)
 
@@ -28,15 +26,12 @@ _#read_
 _#relationships_
 - [ ] Prep for Bellie's birthday
 
-
-## Unplanned Things I Did
-
-
-## Habits for This Month
+### Habits for This Month
+- Plan out days with MAE format
+- Estimate daily tasks
+- Complete 30mins of daily learning
 - Read for 9 mins: 
   - before bed
-- Estimate daily tasks
-- Plan out days with MAE format
 
 ### Things I'll Do This Month: June 2018
 _#learn_
@@ -51,21 +46,13 @@ _#relationships_
 - [ ] Prep for Bellie's birthday
 - [ ] Prep for Sammy's birthday visit
 
+--- 
 
 ### Things I'll Do Next Month: July 2018
 - [ ] #learn
 - [ ] Read 2 fiction books and 1 ABA book
 - [ ] Prep for my birthday
 - [ ] Research destination vacation options 
-
----
-
-### Backlog
-- [ ] Work on mobile wireframes for new BT Dealer Gallery Page
-- [ ] Work on wireframes/specs for Goodreads app "new features" *#forfun*
-- [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
-- [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens)
-
 
 --- 
 ## Week 22: May 28 - Jun 3
