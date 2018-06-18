@@ -23,7 +23,7 @@ _#health_
   - [ ] Friday
 
 _#learn_
-- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines] (est. 1 hr 24 mins)
+- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines/table-of-contents) (est. 1 hr 24 mins)
 - [ ] Start [Pluralsight - GDPR, the Big Picture](https://app.pluralsight.com/library/courses/gdpr-big-picture/table-of-contents) (est. 3 hrs 7 mins)
 
 _#read_
