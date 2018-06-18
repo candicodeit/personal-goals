@@ -13,8 +13,6 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ---
 
 ## Things I'll Do This Week: Jun 18 - June 24
-
-## Planned Things I Did
 _#health_
 - [ ] Workout 2 times 
 - [ ] Drink 5 water mybevi containers (100oz) daily
