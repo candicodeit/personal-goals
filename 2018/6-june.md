@@ -64,12 +64,9 @@ _#read_
 - [ ] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 
 _#relationships_
-- [ ] Prep for Sammy's birthday visit
+- [ ] Prep for Bellie's birthday 
+  - [ ] Make butter mochi (Fri)
   - [ ] Gift
-  - [ ] Packing (Wed)
-  - [ ] Departure
-- [ ] Prep for Bellie's birthday - butter mochi
-
 
 ---
 
@@ -84,6 +81,10 @@ _#read_
 - [ ] Finish [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 _#relationships_
+- [ ] Prep for Sammy's birthday visit
+  - [ ] Gift
+  - [ ] Packing (Wed)
+  - [ ] Departure
 - [ ] Prep for my birthday
 
 ---
