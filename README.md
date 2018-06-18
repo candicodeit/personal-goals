@@ -35,11 +35,14 @@ _#relationships_
   - [ ] Make butter mochi (Fri)
   - [ ] Gift
 
-## Habits for This Month
+### Habits for This Month
+- Plan out days with MAE format
+- Estimate daily tasks
+- Complete 30mins of daily learning
 - Read for 9 mins: 
   - before bed
-- Estimate daily tasks
-- Plan out days with MAE format
+  
+---
 
 ### Things I'll Do This Month: June 2018
 _#learn_
@@ -54,21 +57,13 @@ _#relationships_
 - [ ] Prep for Bellie's birthday
 - [ ] Prep for Sammy's birthday visit
 
+--- 
 
 ### Things I'll Do Next Month: July 2018
 - [ ] #learn
 - [ ] Read 2 fiction books and 1 ABA book
 - [ ] Prep for my birthday
 - [ ] Research destination vacation options 
-
----
-
-### Backlog
-- [ ] Work on mobile wireframes for new BT Dealer Gallery Page
-- [ ] Work on wireframes/specs for Goodreads app "new features" *#forfun*
-- [ ] Complete [Udemy CSS Grid course](https://github.com/candicodeit/udemy/projects/1)
-- [ ] Read 25% [Air Awakes](https://www.goodreads.com/book/show/23127048-air-awakens)
-
 
 --- 
 ## Week 24: Jun 11 - Jun 17
