@@ -2,43 +2,84 @@ Personal Goals | What I Did - [month] 2018
 ==============
 
 ### Monthly Plan
-- [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 2 fiction books and 1 ABA book
-- [ ] Prep Emmi's birthday party
-- [ ] Plan DMM Work Fam gathering
+_#health_
+- [ ] Workout 2 times a week
+- [ ] Drink 3 water mybevi containers (60oz) daily
+
+_#learn_
+
+_#read_
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
+
+_#relationships_
 
 ---
 
-## Week 23: 
+## Week --: [mon] 
 
-## Planned Things I Did
+_#health_
+
+_#learn_
+
+_#read_
+
+_#relationships_
+  
+---
+
+## Week --: [mon]
+
+
 
 ---
 
-## Week 24: 
+## Week --: [mon]
 
-## Planned Things I Did
+_#health_
+
+_#learn_
+
+_#read_
+
+_#relationships_
 
 ---
 
-## Week 25: 
+## Week --: [mon]
 
-## Planned Things I Did
+_#learn_
+
+_#read_
+
+_#relationships_
+
+- [ ] Plans for [mon]
 
 ---
 
-## Week 26: 
+## Week --: [mon]
 
-## Planned Things I Did
+_#learn_
+
+_#read_
+
+_#relationships_
+
+---
+
+## IDF Backlog #learn
+  
+## Read Backlog #read
 
 ---
 
 ## Habits for This Month
-- Read for 9 mins: 
-  - after waking up
-  - before bed
-- Estimate daily tasks
 - Plan out days with MAE format
+- Estimate daily tasks
+- Complete 30mins of daily learning
+- Read for 9 mins: 
+  - before bed
 
 ---
 
