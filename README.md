@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jun 18, 2018)
+Personal Goals (Updated: Jun 25, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -12,28 +12,36 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 
 ---
 
-## Things I'll Do This Week: Jun 18 - June 24
+## Things I'll Do This Week: Jun 25 - Ju1 1
+
 _#health_
-- [ ] Workout 2 times 
-- [ ] Drink 5 water mybevi containers (100oz) daily
-  - [ ] Monday
-  - [ ] Tuesday
-  - [ ] Wednesday
-  - [ ] Thursday
-  - [ ] Friday
+- [ ] Workout 2 times a week
+  - note: choose time other than 1:30pm to avoid gym crowd
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 0/3
+  - [ ] Tuesday 0/3
+  - [ ] Wednesday 0/3
+  - [ ] Thursday 0/3
+  - [ ] Friday 0/3
 
 _#learn_
-- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines/table-of-contents) (est. 1 hr 24 mins)
-- [ ] Start [Pluralsight - GDPR, the Big Picture](https://app.pluralsight.com/library/courses/gdpr-big-picture/table-of-contents) (est. 3 hrs 7 mins)
+(on hold with mother-in-law visit next week)
 
 _#read_
 - [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
-- [ ] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
+- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 2 hrs 17 mins)
+  - [ ] Hit 75% mark (pg 250)
 
 _#relationships_
-- [ ] Prep for Bellie's birthday 
-  - [ ] Make butter mochi (Fri)
+- [ ] Prep for Sammy's birthday visit
+  - [ ] Clean house (Mon - Fri)
+    - [ ] Create Trello board recurring cleaning plan
   - [ ] Gift
+  - [ ] Packing (Wed)
+  - [ ] Departure
+- [ ] Prep for my birthday
+
+- [ ] Plans for July
 
 ### Habits for This Month
 - Plan out days with MAE format
@@ -54,7 +62,7 @@ _#read_
 - [x] Finish [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering) (non-fiction)
 
 _#relationships_
-- [ ] Prep for Bellie's birthday
+- [x] Prep for Bellie's birthday
 - [ ] Prep for Sammy's birthday visit
 
 --- 
@@ -66,7 +74,23 @@ _#relationships_
 - [ ] Research destination vacation options 
 
 --- 
-## Week 24: Jun 11 - Jun 17
+## Week 25: Jun 18 - Jun 24
 
 ## Planned Things I Did
-- [x] Finished [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering)
+_#health_
+- [ ] Workout 2 times 
+  - [x] Monday - Chest/Triceps
+- [ ] Drink 5 water mybevi containers (100oz) daily
+  - [ ] Monday 2/5
+  - [ ] Tuesday 2/5
+  - [ ] Wednesday 1/5
+  - [ ] Thursday 2/5
+  - [ ] Friday 2/5
+
+_#read_
+- [x] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
+
+_#relationships_
+- [x] Prep for Bellie's birthday 
+  - [x] Make butter mochi (Fri)
+  - [x] Gift
