@@ -8,7 +8,8 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle _#health_
 3. Budget expenses _#budget_
 4. Plan regular dates with family and friends _#relationships_
-5. Read more fiction this year -> [Goal: 14/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_
+5. Read more fiction this year -> [Goal: 14/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
+  - 3 books behind for the year
 
 ---
 
