@@ -11,7 +11,7 @@ _#read_
 - [x] Finish [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering) (non-fiction)
 
 _#relationships_
-- [ ] Prep for Bellie's birthday
+- [x] Prep for Bellie's birthday
 - [ ] Prep for Sammy's birthday visit
 
 ---
@@ -47,65 +47,61 @@ _#read_
 ## Planned Things I Did
 _#health_
 - [ ] Workout 2 times 
+  - [x] Monday - Chest/Triceps
 - [ ] Drink 5 water mybevi containers (100oz) daily
-  - [ ] Monday
-  - [ ] Tuesday
-  - [ ] Wednesday
-  - [ ] Thursday
-  - [ ] Friday
-  
+  - [ ] Monday 2/5
+  - [ ] Tuesday 2/5
+  - [ ] Wednesday 1/5
+  - [ ] Thursday 2/5
+  - [ ] Friday 2/5
 
 _#learn_
-- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines] (est. 1 hr 24 mins)
+- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines/table-of-contents) (est. 1 hr 24 mins)
 - [ ] Start [Pluralsight - GDPR, the Big Picture](https://app.pluralsight.com/library/courses/gdpr-big-picture/table-of-contents) (est. 3 hrs 7 mins)
 
 _#read_
 - [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
-- [ ] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
+- [x] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 
 _#relationships_
-- [ ] Prep for Bellie's birthday 
-  - [ ] Make butter mochi (Fri)
-  - [ ] Gift
+- [x] Prep for Bellie's birthday 
+  - [x] Make butter mochi (Fri)
+  - [x] Gift
 
 ---
 
 ## Week 26: Jun 25 - Ju1 1
 
 ## Planned Things I Did
-_#learn_
 
+_#health_
+- [ ] Workout 2 times a week
+  - note: choose time other than 1:30pm to avoid gym crowd
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 0/3
+  - [ ] Tuesday 0/3
+  - [ ] Wednesday 0/3
+  - [ ] Thursday 0/3
+  - [ ] Friday 0/3
+
+_#learn_
+(on hold with mother-in-law visit next week)
 
 _#read_
 - [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
-- [ ] Finish [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 2 hrs 17 mins)
+  - [ ] Hit 75% mark (pg 250)
 
 _#relationships_
 - [ ] Prep for Sammy's birthday visit
+  - [ ] Clean house (Mon - Fri)
+    - [ ] Create Trello board recurring cleaning plan
   - [ ] Gift
   - [ ] Packing (Wed)
   - [ ] Departure
 - [ ] Prep for my birthday
 
----
-
-## IDF Backlog #learn
-- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-  - [ ] Finish Lessons 2 (est. 1.5 hrs)
-  - [ ] Finish Lessons 3 (est. 1.5 hrs)
-- [ ] Start Lesson 4 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 1.5 hrs)
-- [ ] Start Lesson 5 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 3.5 hrs)
-  - [ ] Finish Lessons 5.1 
-  - [ ] Finish Lessons 5.2
-  - [ ] Finish Lessons 5.3
-- [ ] Finish Lesson 5 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 3.5 hrs)
-  - [ ] Finish Lessons 5.4 
-  - [ ] Finish Lessons 5.5 
-  - [ ] Finish Lessons 5.6
-  - [ ] Finish Lessons 5.7
-  
- ## Read Backlog #read
- - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+- [ ] Plans for July
 
 ---
 
