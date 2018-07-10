@@ -89,8 +89,7 @@ _#learn_
 
 _#read_
 - [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
-- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 2 hrs 17 mins)
-  - [ ] Hit 75% mark (pg 250)
+- [x] Read [DesignOps Handbook](https://www.designbetter.co/designops-handbook/)
 
 _#relationships_
 - [x] Prep for Sammy's birthday visit
