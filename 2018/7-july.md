@@ -3,49 +3,55 @@ Personal Goals | What I Did - Jul 2018
 
 ### Monthly Plan
 _#health_
-- [ ] Workout 2 times a week
+- [ ] Workout once a week
 - [ ] Drink 3 water mybevi containers (60oz) daily
 
 _#learn_
-- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines](https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines/table-of-contents)
 - [ ] Start [Pluralsight - GDPR, the Big Picture](https://app.pluralsight.com/library/courses/gdpr-big-picture/table-of-contents) (est. 3 hrs 7 mins)
 
 _#read_
+- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
 - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
+- [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
+- [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
 - [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
 - [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
+- [ ] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
 
 _#relationships_
 - [ ] Prep for my birthday
   - [ ] BG w/girlfriends
   - [ ] Dinner w/hubby
-  - [ ] Hotel Transylvania 3 w/family
+  - [ ] Museum w/family
+  - [ ] Donate to 7 charities 
+- [ ] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
+- [ ] Outing with DMM Work Fam
 
 ---
 
 ## Week 27: Jul 2 - 8
 
-_#health_
-- [ ] Workout 2 times a week
-- [ ] Drink 3 water mybevi containers (60oz) daily
-  - [ ] Monday 0/3
-  - [ ] Tuesday 0/3
-  - [ ] Wednesday 0/3
-  - [ ] Thursday 0/3
-  - [ ] Friday 0/3
-
-_#learn_
-- [ ] Finish [Pluralsight - Meeting Web Accessibility Guidelines] (est. 1 hr 24 min)
-
 _#read_
-
-_#relationships_
+- [x] Listened 70% [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge?from_search=true)
   
 ---
 
 ## Week 28: Jul 9 - 15 (Birthday Week)
 
+- [ ] Create daily morning routine (est. 30 min - 1 hr)
 
+_#read_
+- [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
+- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) 
+- [ ] Listen 50% [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs) 
+
+_#relationships_
+- [ ] Prep for my birthday
+  - [ ] BG w/girlfriends
+  - [ ] Dinner w/hubby
+  - [ ] Museum w/family
+- [ ] Plan outing w/DMM Work Fam 
 
 ---
 
@@ -117,11 +123,15 @@ _#relationships_
 ---
 
 ## Habits for This Month
-- Plan out days with MAE format
+- Plan out days with: 
+  - Start the day
+  - Morning
+  - Afternoon
+  - 1 Evening task
+  - Reading
+- Use Evo planner
 - Estimate daily tasks
 - Complete 30mins of daily learning
-- Read for 9 mins: 
-  - before bed
 
 ---
 
