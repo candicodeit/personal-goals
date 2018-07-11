@@ -20,6 +20,7 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
+- [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising)
 - [Women Who Don't Wait in Line - Sep 2017](https://www.goodreads.com/book/show/15985162-women-who-don-t-wait-in-line)
