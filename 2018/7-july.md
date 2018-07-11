@@ -13,9 +13,9 @@ _#read_
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
 - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
+- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
 - [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
 - [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
-- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
 - [ ] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
 
 _#relationships_
@@ -41,9 +41,19 @@ _#read_
 
 - [ ] Create daily morning routine (est. 30 min - 1 hr)
 
+_#health_
+- [ ] Workout once a week
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 0/3
+  - [ ] Tuesday 0/3
+  - [ ] Wednesday 0/3
+  - [ ] Thursday 0/3
+  - [ ] Friday 0/3
+
 _#read_
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
-- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) 
+- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [ ] Listen 50% [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs) 
 
 _#relationships_
@@ -58,18 +68,19 @@ _#relationships_
 ## Week 29: Jul 16 - 22
 
 _#health_
-- [ ] Workout 2 times 
-  - [x] Monday - Chest/Triceps
-- [ ] Drink 5 water mybevi containers (100oz) daily
-  - [ ] Monday 2/5
-  - [ ] Tuesday 2/5
-  - [ ] Wednesday 1/5
-  - [ ] Thursday 2/5
-  - [ ] Friday 2/5
+- [ ] Workout once a week
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 0/3
+  - [ ] Tuesday 0/3
+  - [ ] Wednesday 0/3
+  - [ ] Thursday 0/3
+  - [ ] Friday 0/3
 
 _#learn_
 
 _#read_
+- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [ ] Finish [Just Enough Research](https://abookapart.com/products/just-enough-research)
 
 _#relationships_
 
