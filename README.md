@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jun 25, 2018)
+Personal Goals (Updated: Jul 10, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -8,16 +8,14 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle _#health_
 3. Budget expenses _#budget_
 4. Plan regular dates with family and friends _#relationships_
-5. Read more fiction this year -> [Goal: 14/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
-  - 4 books behind for the year
+5. Read more fiction this year -> [Goal: 15/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
+  - 6 books behind for the year
 
 ---
 
-## Things I'll Do This Week: Jun 25 - Ju1 1
+## Things I'll Do This Week: Jul 9 - 15 (Birthday Week)
 
 _#health_
-- [ ] Workout 2 times a week
-  - note: choose time other than 1:30pm to avoid gym crowd
 - [ ] Drink 3 water mybevi containers (60oz) daily
   - [ ] Monday 0/3
   - [ ] Tuesday 0/3
@@ -32,7 +30,7 @@ _#read_
 - [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (est. 2 hrs 17 mins)
   - [ ] Hit 75% mark (pg 250)
-- [x] Read [DesignOps Handbook](https://www.designbetter.co/designops-handbook/)
+
 
 _#relationships_
 - [ ] Prep for Sammy's birthday visit
@@ -76,7 +74,7 @@ _#relationships_
 - [ ] Research destination vacation options 
 
 --- 
-## Week 25: Jun 18 - Jun 24
+## Week 27: Jul 2 - Jul 8
 
 ## Planned Things I Did
 _#health_
@@ -90,9 +88,4 @@ _#health_
   - [ ] Friday 2/5
 
 _#read_
-- [x] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
-
-_#relationships_
-- [x] Prep for Bellie's birthday 
-  - [x] Make butter mochi (Fri)
-  - [x] Gift
+- [x] Listened 70% [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge?from_search=true)
