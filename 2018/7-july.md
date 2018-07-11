@@ -7,7 +7,9 @@ _#health_
 - [ ] Drink 3 water mybevi containers (60oz) daily
 
 _#learn_
-- [ ] Start [Pluralsight - GDPR, the Big Picture](https://app.pluralsight.com/library/courses/gdpr-big-picture/table-of-contents) (est. 3 hrs 7 mins)
+- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+  - [ ] Finish Lessons 2 (est. 1.5 hrs)
+  - [ ] Finish Lessons 3 (est. 1.5 hrs)
 
 _#read_
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
@@ -49,6 +51,9 @@ _#health_
   - [ ] Wednesday 0/3
   - [ ] Thursday 0/3
   - [ ] Friday 0/3
+  
+_#learn_
+- [ ] Finish Lessons 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
 _#read_
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
@@ -77,12 +82,15 @@ _#health_
   - [ ] Friday 0/3
 
 _#learn_
+- [ ] Finish Lessons 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
 _#read_
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [ ] Finish [Just Enough Research](https://abookapart.com/products/just-enough-research)
 
 _#relationships_
+- [ ] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 ---
 
@@ -91,6 +99,7 @@ _#relationships_
 _#learn_
 
 _#read_
+- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 _#relationships_
 
@@ -111,9 +120,6 @@ _#relationships_
 ---
 
 ## IDF Backlog #learn
-- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-  - [ ] Finish Lessons 2 (est. 1.5 hrs)
-  - [ ] Finish Lessons 3 (est. 1.5 hrs)
 - [ ] Start Lesson 4 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 1.5 hrs)
 - [ ] Start Lesson 5 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 3.5 hrs)
   - [ ] Finish Lessons 5.1 
