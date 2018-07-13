@@ -29,6 +29,8 @@ _#relationships_
 - [ ] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 - [ ] Outing with DMM Work Fam
+- [ ] Outing with Sallie to discuss books
+- [ ] Network with folks from AEADC
 
 ---
 
@@ -51,15 +53,12 @@ _#health_
   - [ ] Wednesday 0/3
   - [ ] Thursday 0/3
   - [ ] Friday 0/3
-  
-_#learn_
-- [ ] Finish Lessons 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
 _#read_
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
-- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
 - [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [ ] Listen 50% [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs) 
+- [ ] Read 10% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
 
 _#relationships_
 - [ ] Prep for my birthday
@@ -82,26 +81,34 @@ _#health_
   - [ ] Friday 0/3
 
 _#learn_
-- [ ] Finish Lessons 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
+- [ ] Finish Lessons 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
 _#read_
+- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
-- [ ] Finish [Just Enough Research](https://abookapart.com/products/just-enough-research)
+- [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+
 
 _#relationships_
 - [ ] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
+- [ ] Plan for book brain dump w/Sallie
 
 ---
 
 ## Week 26: Jul 23 - Ju1 29
 
 _#learn_
+- [ ] Finish Lessons 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
 _#read_
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+- [ ] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [ ] Finish [Just Enough Research](https://abookapart.com/products/just-enough-research)
+- [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+
 
 _#relationships_
+- [ ] TBD
 
 - [ ] Plans for Aug
 
@@ -114,8 +121,11 @@ _#learn_
 - [ ] Create blog post on the conference
 
 _#read_
+- [ ] Read 75 % [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 _#relationships_
+- [ ] Network w/folks from AEA
+
 
 ---
 
@@ -141,12 +151,13 @@ _#relationships_
 
 ## Habits for This Month
 - Plan out days with: 
-  - Start the day
+  - Plan the day
   - Morning
   - Afternoon
   - 1 Evening task
   - Reading
 - Use Evo planner
+  - Evo Ritual: Personal Awareness
 - Estimate daily tasks
 - Complete 30mins of daily learning
 
