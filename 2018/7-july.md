@@ -99,6 +99,17 @@ _#relationships_
 
 ## Week 26: Jul 23 - Ju1 29
 
+- [ ] Prep for AEA DC
+  - [ ] Clothes (3 days)
+  - [ ] Travel essentials
+  - [ ] Transportation to/from airport
+  - [ ] Time to arrive to airport before flights
+  - [ ] Pack books 
+    - [ ] The New CSS Layout
+    - [ ] Adaptive Web Design
+    - [ ] Meeting Design
+    - [ ] Demystifying Public Speaking
+     
 _#learn_
 - [ ] Finish Lessons 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
 
