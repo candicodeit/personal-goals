@@ -8,8 +8,8 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 2. Healthier lifestyle _#health_
 3. Budget expenses _#budget_
 4. Plan regular dates with family and friends _#relationships_
-5. Read more fiction this year -> [Goal: 15/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
-  - 6 books behind for the year
+5. Read more fiction this year -> [Goal: 16/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
+  - 5 books behind for the year
 
 ---
 
@@ -25,9 +25,9 @@ _#health_
 
 _#work_
 - [ ] Watch 2 hrs [Learn JIRA](https://www.skillshare.com/classes/Learn-JIRA-with-real-world-examples/847882410?via=search-layout-grid) - Total 43 videos (est. 5 hrs 50 mins)
-- [ ] Create A/B testing calendar to easily view what tests were running on any particular day
+- [x] Create A/B testing calendar to easily view what tests were running on any particular day
 - [ ] Add 3 tests per portal a day on the calendar
-  - [ ] Wednesday
+  - [x] Wednesday
   - [ ] Thursday
   - [ ] Friday
 
@@ -37,7 +37,7 @@ _#learn_
 _#read_
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
   - [x] Complete 50% 
-  - [x] Complete 75%
+  - [ ] Complete 75%
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
 - [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
