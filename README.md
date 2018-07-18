@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jul 17, 2018)
+Personal Goals (Updated: Jul 18, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -19,7 +19,7 @@ _#health_
 - [ ] Drink 3 water mybevi containers (60oz) daily
   - [ ] Monday 1/3
   - [ ] Tuesday 1/3
-  - [ ] Wednesday 0/3
+  - [ ] Wednesday 1/3
   - [ ] Thursday 0/3
   - [ ] Friday 0/3
 
@@ -36,6 +36,8 @@ _#learn_
 
 _#read_
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
+  - [x] Complete 50% 
+  - [x] Complete 75%
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
 - [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
