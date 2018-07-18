@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jul 16, 2018)
+Personal Goals (Updated: Jul 17, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -16,21 +16,28 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 ## Things I'll Do This Week: Jul 16 - 22
 
 _#health_
-- [ ] Workout once a week
 - [ ] Drink 3 water mybevi containers (60oz) daily
-  - [ ] Monday 0/3
-  - [ ] Tuesday 0/3
+  - [ ] Monday 1/3
+  - [ ] Tuesday 1/3
   - [ ] Wednesday 0/3
   - [ ] Thursday 0/3
   - [ ] Friday 0/3
 
+_#work_
+- [ ] Watch 2 hrs [Learn JIRA](https://www.skillshare.com/classes/Learn-JIRA-with-real-world-examples/847882410?via=search-layout-grid) - Total 43 videos (est. 5 hrs 50 mins)
+- [ ] Create A/B testing calendar to easily view what tests were running on any particular day
+- [ ] Add 3 tests per portal a day on the calendar
+  - [ ] Wednesday
+  - [ ] Thursday
+  - [ ] Friday
+
 _#learn_
-- [ ] Finish Lessons 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs)
+- [ ] Finish Lessons 2 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est. 1.5 hrs) 
 
 _#read_
 - [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
-- [ ] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
+- [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
 - [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
 
 _#relationships_
@@ -70,7 +77,7 @@ _#read_
 - [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
 - [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
 - [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
-- [ ] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
+- [x] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
 
 _#relationships_
 - [x] Prep for my birthday
