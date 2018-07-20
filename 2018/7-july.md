@@ -12,13 +12,14 @@ _#learn_
   - [ ] Finish Lessons 3 (est. 1.5 hrs)
 
 _#read_
-- [ ] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
+- [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
 - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
+- [ ] Listen [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology) (fiction) 
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
 - [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
 - [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
-- [ ] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
+- [x] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
 
 _#relationships_
 - [x] Prep for my birthday
