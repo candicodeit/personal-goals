@@ -98,7 +98,7 @@ _#relationships_
 
 ---
 
-## Week 26: Jul 23 - Ju1 29
+## Week 30: Jul 23 - Ju1 29
 
 - [ ] Prep for AEA DC
   - [ ] Clothes (3 days)
@@ -127,7 +127,7 @@ _#relationships_
 
 ---
 
-## Week 26: Jul 30 - Aug 5 (An Event Apart DC)
+## Week 31: Jul 30 - Aug 5 (An Event Apart DC)
 
 _#learn_
 - [ ] Create AEA overview presentation to share with BG UI group
