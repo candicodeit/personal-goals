@@ -37,6 +37,8 @@ _#health_
 
 _#read_
 - [ ] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+  - [ ] Read 50%
+  - [ ] Read 75%
 - [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 - [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
@@ -57,13 +59,11 @@ _#read_
 
 ### Things I'll Do This Month: July 2018
 _#health_
-- [ ] Workout once a week
 - [ ] Drink 3 water mybevi containers (60oz) daily
 
 _#learn_
 - [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
   - [ ] Finish Lessons 2 (est. 1.5 hrs)
-  - [ ] Finish Lessons 3 (est. 1.5 hrs)
 
 _#read_
 - [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
@@ -111,12 +111,4 @@ _#work_
 _#read_
 - [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
-- [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
-
-_#relationships_
-- [ ] Send a letter to a friend
-  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-
-
-
-
+- [x] Read 33% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
