@@ -97,31 +97,23 @@ _#relationships_
 
 ## Week 30: Jul 23 - 29
 
-- [ ] Prep for AEA DC
-  - [ ] Clothes (3 days)
-  - [ ] Travel essentials
-  - [ ] Transportation to/from airport
-  - [ ] Time to arrive to airport before flights
-  - [ ] Pack books 
+- [x] Prep for AEA DC
+  - [x] Clothes (3 days)
+  - [X] Travel essentials
+  - [x] Transportation to/from airport
+  - [x] Time to arrive to airport before flights
+  - [x] Pack books 
     - [ ] The New CSS Layout
-    - [ ] Adaptive Web Design
-    - [ ] Meeting Design
-    - [ ] Demystifying Public Speaking
-- [ ] Finish personal 4square
-     
-_#health_
-- [ ] Drink 2 water mybevi containers (60oz) daily
-  - [ ] Monday 0/2
-  - [ ] Tuesday 0/2
-  - [ ] Wednesday 0/2
-  - [ ] Thursday 0/2
-  - [ ] Friday 0/2
+    - [x] Adaptive Web Design
+    - [x] Meeting Design
+    - [x] Demystifying Public Speaking
+- [x] Finish personal 4square
 
 _#read_
-- [ ] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
-- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+
 - [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
+- [x] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
 
 
 ---
@@ -133,11 +125,11 @@ _#learn_
 - [ ] Create blog post on the conference
 
 _#read_
-- [ ] Read 75 % [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Finish [Just Enough Research](https://abookapart.com/products/just-enough-research)
+- [ ] Read 15% [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [ ] Read 50 % [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 _#relationships_
-- [ ] Network w/folks from AEA
+- [x] Network w/folks from AEA
 
 - [ ] Finalize plan for Aug
 
