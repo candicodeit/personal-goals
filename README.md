@@ -3,7 +3,7 @@ Personal Goals (Updated: Aug 7, 2018)
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
 
-I updated my formatting as the year progressed. I started in January with Overarching Goals and switched to Personal Foursquare starting in August. Reading is also really important to me, regardless if it's fiction or non-fiction. 
+I updated my formatting as the year progressed. I started in January with Overarching Goals and switched to Personal Foursquare starting in August. I switched to the Foursquare, since I've heard it helps sort through your many tasks. It helps you focus on ones that get you towards your goal. Reading is also really important to me, regardless if it's fiction or non-fiction. It's great for both work and personal reasons. I can get lost in a fictional world to give my brain a break from things through various concepts and workflows. I also still enjoy reading things relevant to work whether it is about working with different people or understanding different design techniques. 
 
 # Personal Foursquare
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
