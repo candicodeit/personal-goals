@@ -20,7 +20,8 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
-- [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
+- [How Women Rise - July 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
+- [How to Lead When You're Not in Charge - July 2018](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising)
 - [Women Who Don't Wait in Line - Sep 2017](https://www.goodreads.com/book/show/15985162-women-who-don-t-wait-in-line)
@@ -31,6 +32,7 @@ Format: Book Title - Date Finished
 
 
 # Work-Related
+- [Meeting Design - July 2018](https://www.goodreads.com/book/show/36687954-meeting-design) 
 - [Project Management for Humans - Nov 2017](https://www.goodreads.com/book/show/35714082-project-management-for-humans)
 - [Radical Candor - Oct 2017](https://www.goodreads.com/book/show/29939161-radical-candor)
 - [Demystifying Public Speaking - Nov 2016](https://www.goodreads.com/book/show/32784222-demystifying-public-speaking)
