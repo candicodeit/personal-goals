@@ -15,6 +15,7 @@ _#me_
 _#family/friends_
 - [ ] Prep for my mom's birthday
 - [ ] Prep for our anniversary
+- [ ] Prep for Emmi's first day of school
 - [ ] Plan family museum day
 - [ ] Plan "Mom Fun" day
 - [ ] Send a letter to a friend
