@@ -1,114 +1,109 @@
-Personal Goals (Updated: Jul 23, 2018)
+Personal Goals (Updated: Aug 7, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
 
-# Overarching Goals
-1. Continuous learning of UX and the front end development _#learn_
-2. Healthier lifestyle _#health_
-3. Budget expenses _#budget_
-4. Plan regular dates with family and friends _#relationships_
-5. Read more fiction this year -> [Goal: 18/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
-  - 3 books behind for the year
+I updated my formatting as the year progressed. I started in January with Overarching Goals and switched to Personal Foursquare starting in August. Reading is also really important to me, regardless if it's fiction or non-fiction. 
+
+# Personal Foursquare
+![Foursquare](https://github.com/candicodeit/personal-goals/blob/aug-planning/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
+
+# Reading Goal
+Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
+  - 4 books behind for the year
+  - 8 fiction / 12 non-fiction
 
 ---
 
-## Things I'll Do This Week: Jul 23 - 29
+## Things I'll Do This Week: Aug 7 - 12
 
-- [ ] Prep for AEA DC
-  - [ ] Clothes (3 days)
-  - [ ] Travel essentials
-  - [ ] Transportation to/from airport
-  - [ ] Time to arrive to airport before flights
-  - [ ] Pack books 
-    - [ ] The New CSS Layout
-    - [ ] Adaptive Web Design
-    - [ ] Meeting Design
-    - [ ] Demystifying Public Speaking
-- [ ] Finish personal 4square
-     
-_#health_
-- [ ] Drink 2 water mybevi containers (60oz) daily
-  - [ ] Monday 0/2
-  - [ ] Tuesday 0/2
-  - [ ] Wednesday 0/2
-  - [ ] Thursday 0/2
-  - [ ] Friday 0/2
+_#me_
+- [ ] Get better 7 hrs of sleep
+- [ ] Drink water 3x daily
+- [ ] Practice regular self-care routine
+  - [ ] Plan 1 hr uninterrupted reading time (weekly)
+  
+_#family/friends_
+- [ ] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
+  - [ ] Katel
+  - [ ] Lauren
+  - [ ] Jonathan
+
+_#career_
+- [ ] Review Interaction Design Foundation courses and plan path
+- [ ] Review Goodreads fun project 
 
 _#read_
-- [ ] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
-  - [ ] Read 50%
-  - [ ] Read 75%
-- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
-
+- [ ] Listen 25% [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+  
 ## Habits for This Month
 - Plan out days with: 
   - Plan the day
   - Morning
   - Afternoon
   - 1 Evening task
-  - Reading
 - Use Evo planner
-  - Evo Ritual: Personal Awareness
+  - Evo Ritual: Passion
 - Estimate daily tasks
-- Complete 30mins of daily learning
+- Morning and evening reading
   
 ---
 
-### Things I'll Do This Month: July 2018
-_#health_
-- [ ] Drink 3 water mybevi containers (60oz) daily
+### Things I'll Do This Month: August 2018
+_#me_
+- [ ] Get better 7 hrs of sleep
+- [ ] Drink water 3x daily
+- [ ] Practice regular self-care routine
+  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
+  - [ ] Plan self-care half day (monthly)
+    - [ ] Quiet brunch/lunch w/reading
+    - [ ] Massage/spa appt 
+    - [ ] Dessert
 
-_#learn_
-- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
-  - [ ] Finish Lessons 2 (est. 1.5 hrs)
-
-_#read_
-- [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
-- [x] Finish [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology) (fiction) 
-- [x] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) (fiction)
-- [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
-- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
-- [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
-- [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
-- [x] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
-
-_#relationships_
-- [x] Prep for my birthday
-  - [x] BG w/girlfriends
-  - [x] Dinner w/hubby
-  - [x] Museum w/family
-  - [x] Donate to 7 charities 
+_#family/friends_
+- [ ] Plan family museum day
+- [ ] Plan "Mom Fun" day
 - [ ] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-- [ ] Outing with DMM Work Fam
-- [ ] Outing with Sallie to discuss books
-- [ ] Network with folks from AEADC
 
---- 
+_#world_
+- [ ] Research how I can become involved in a women/girl tech organization
+- [ ] Initiate a random act of kindness for the month
 
-### Things I'll Do Next Month: August 2018
-- [ ] #health
-- [ ] #learn
-- [ ] Read 2 fiction books and 1 ABA book
-
-_#relationships_
-- [ ] Prep for my mom's birthday
-- [ ] Prep for our anniversary
-- [ ] Research destination vacation options 
-
---- 
-## Week 28: Jul 16 - 22
-
-## Planned Things I Did
-
-_#work_
-- [x] Create A/B testing calendar to easily view what tests were running on any particular day
+_#career_
+- [ ] Review Interaction Design Foundation courses and plan path
+- [ ] Start Hogwarts Friends project
+- [ ] Review Goodreads fun project 
 
 _#read_
-- [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
-- [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
-- [x] Read 33% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
+- [ ] Listen [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
+- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) (fiction)
+- [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true) (fiction)
+
+--- 
+
+### Things I'll Do Next Month: September 2018
+_#me_
+
+_#family/friends_
+- [ ] Research destination vacation options 
+
+_#world_
+
+_#career_
+
+_#read_
+
+--- 
+## Week 31: Jul 30 - Aug 5
+
+## Planned Things I Did
+- [x] Create blog post about the conference
+- [x] Network with folks at AEADC
+ 
+_#read_
+- [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [x] Finish [Powerful - Build Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerful)

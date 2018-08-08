@@ -80,6 +80,10 @@ _#learn_
 _#relationships_
 - [x] Network w/folks from AEA
 
+_#read_
+- [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [x] Finish [Powerful - Build Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerful)
+
 ---
 
 ## Habits for This Month

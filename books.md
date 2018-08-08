@@ -20,7 +20,7 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
-- [How Women Rise - July 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
+- [How Women Rise - Jul 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising)
 - [Women Who Don't Wait in Line - Sep 2017](https://www.goodreads.com/book/show/15985162-women-who-don-t-wait-in-line)
@@ -31,7 +31,8 @@ Format: Book Title - Date Finished
 
 
 # Work-Related
-- [Meeting Design - July 2018](https://www.goodreads.com/book/show/36687954-meeting-design) 
+- [Powerful: Build Culture of Freedom and Responsibility - Aug 2018](https://www.goodreads.com/book/show/36417234-powerful)
+- [Meeting Design - Jul 2018](https://www.goodreads.com/book/show/36687954-meeting-design) 
 - [Project Management for Humans - Nov 2017](https://www.goodreads.com/book/show/35714082-project-management-for-humans)
 - [Radical Candor - Oct 2017](https://www.goodreads.com/book/show/29939161-radical-candor)
 - [Demystifying Public Speaking - Nov 2016](https://www.goodreads.com/book/show/32784222-demystifying-public-speaking)
