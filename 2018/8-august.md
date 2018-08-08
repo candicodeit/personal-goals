@@ -13,6 +13,8 @@ _#me_
     - [ ] Dessert
 
 _#family/friends_
+- [ ] Prep for my mom's birthday
+- [ ] Prep for our anniversary
 - [ ] Plan family museum day
 - [ ] Plan "Mom Fun" day
 - [ ] Send a letter to a friend
@@ -60,7 +62,7 @@ _#read_
   
 ---
 
-## Week 33: Aug 13 - 19
+## Week 33: Aug 13 - 19 (Mom's Birthday)
 
 _#me_
 - [ ] Get better 7 hrs of sleep
@@ -83,7 +85,7 @@ _#read_
 
 ---
 
-## Week 34: Aug 20 - 26
+## Week 34: Aug 20 - 26 (Our Anniversary)
 
 _#me_
 - [ ] Get better 7 hrs of sleep
@@ -125,7 +127,6 @@ _#career_
 _#read_
 - [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) 
 - [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true)
-
 
 ---
 
