@@ -21,7 +21,6 @@ Format: Book Title - Date Finished
 
 # Inspirational
 - [How Women Rise - July 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
-- [How to Lead When You're Not in Charge - July 2018](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising)
 - [Women Who Don't Wait in Line - Sep 2017](https://www.goodreads.com/book/show/15985162-women-who-don-t-wait-in-line)
@@ -60,5 +59,4 @@ To Be Read
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 - [Practical SVG](https://abookapart.com/products/practical-svg)
 - [Designing for Performance](http://designingforperformance.com/)
-- [Meeting Design](https://rosenfeldmedia.com/books/meeting-design/)
 - [Orchestrating Experiences](https://rosenfeldmedia.com/books/orchestrating-experiences/)
