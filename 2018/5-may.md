@@ -20,7 +20,7 @@ Personal Goals | What I Did - May 2018
 - Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
 ---
 
-## Week 20: May 14 - 20
+## Week 20: May 14 - 20 (Emmi's Birthday Weekend / Family Visit)
 
 ## Planned Things I Did
 - [x] Prep Emmi's birthday party
@@ -33,9 +33,7 @@ Personal Goals | What I Did - May 2018
 
 ## Week 21: May 21 - 27 (Memorial Day Weekend)
 
-## Planned Things I Did
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Read [Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)
+(recovering from birthday/family visit)
 
 ---
 
