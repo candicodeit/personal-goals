@@ -1,13 +1,25 @@
-Personal Goals | What I Did - Jul 2018
+Personal Goals | What I Did - Aug 2018 (WIP - reflecting on July)
 ==============
 
 ### Monthly Plan
+_#health_
+- [ ] Workout once a week
+- [ ] Drink 3 water mybevi containers (60oz) daily
+
+_#learn_
+- [ ] Finish Lessons 2 & 3 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3)
+  - [ ] Finish Lessons 2 (est. 1.5 hrs)
+  - [ ] Finish Lessons 3 (est. 1.5 hrs)
+
 _#read_
 - [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
+- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
 - [x] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) (fiction)
 - [x] Listen [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology) (fiction) 
-- [x] Listen [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
-- [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
+- [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
+- [ ] Read [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
+- [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting) (non-fiction)
+- [ ] Read [Just Enough Research](https://abookapart.com/products/just-enough-research) (non-fiction)
 - [x] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
 
 _#relationships_
@@ -16,7 +28,11 @@ _#relationships_
   - [x] Dinner w/hubby
   - [x] Museum w/family
   - [x] Donate to 7 charities 
-- [x] Network with folks from AEADC
+- [ ] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
+- [ ] Outing with DMM Work Fam
+- [ ] Outing with Sallie to discuss books
+- [ ] Network with folks from AEADC
 
 ---
 
@@ -31,6 +47,15 @@ _#read_
 
 - [x] Create daily morning routine (est. 30 min - 1 hr)
 
+_#health_
+- [ ] Workout once a week
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 1/3
+  - [ ] Tuesday 1/3
+  - [ ] Wednesday 2/3
+  - [x] Thursday 3/3
+  - [ ] Friday 1/3
+
 _#read_
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
@@ -42,16 +67,31 @@ _#relationships_
   - [x] BG w/girlfriends
   - [x] Dinner w/hubby
   - [x] Museum w/family
+- [ ] Plan outing w/DMM Work Fam 
 
 ---
 
 ## Week 29: Jul 16 - 22
+
+_#health_
+- [ ] Drink 3 water mybevi containers (60oz) daily
+  - [ ] Monday 1/3
+  - [ ] Tuesday 2/3
+  - [ ] Wednesday 2/3
+  - [ ] Thursday 2/3
+  - [ ] Friday 2/3
+
 _#read_
 - [x] Finish [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [x] Listen [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)
 - [x] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
+- [ ] Finish [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - [x] Finish [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs)
+- [ ] Read 60% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
 
+_#relationships_
+- [ ] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 ---
 
@@ -59,18 +99,22 @@ _#read_
 
 - [x] Prep for AEA DC
   - [x] Clothes (3 days)
-  - [x] Travel essentials
+  - [X] Travel essentials
   - [x] Transportation to/from airport
   - [x] Time to arrive to airport before flights
   - [x] Pack books 
-    - [x] The New CSS Layout
+    - [ ] The New CSS Layout
     - [x] Adaptive Web Design
     - [x] Meeting Design
     - [x] Demystifying Public Speaking
 - [x] Finish personal 4square
-    
+
 _#read_
 - [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
+
+- [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+- [x] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire)
+
 
 ---
 
@@ -78,10 +122,16 @@ _#read_
 
 _#learn_
 - [ ] Create AEA overview presentation to share with BG UI group
-- [x] Create blog post on the conference
+- [ ] Create blog post on the conference
+
+_#read_
+- [ ] Read 15% [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [ ] Read 50 % [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 _#relationships_
 - [x] Network w/folks from AEA
+
+- [ ] Finalize plan for Aug
 
 
 ---
@@ -126,6 +176,3 @@ _#relationships_
 
 
 # July Reflection
-I learned a lot this month. I made a dash for catching up on my reading list. Within that list, it was mostly non-fiction (again). Sometimes, I just can't help reading team building, culture, management, etc. type books. They're just fascinating in our other work dynamics are compared to what I'm used to. One of the things I learned this month is creating a 4-sq. This will ultimately help me figure out what's most important to me and how I can complete my tasks to work towards those goals. AEA gave me a lot of inspiration. We'll see what the remainder of the year will bring. 
-
-In terms of my documentation, I'll probably leave some of the uncompleted monthly stuff off the latest version so I can concentrate on my achievements rather than reflecting too much on my uncompleted items. 
