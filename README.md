@@ -6,7 +6,7 @@ Personal goals made open source. Inspired by [Una Kravets](https://una.im/person
 I updated my formatting as the year progressed. I started in January with Overarching Goals and switched to Personal Foursquare starting in August. Reading is also really important to me, regardless if it's fiction or non-fiction. 
 
 # Personal Foursquare
-![Foursquare](https://github.com/candicodeit/personal-goals/blob/aug-planning/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
+![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
 Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
