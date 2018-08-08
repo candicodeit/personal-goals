@@ -15,7 +15,7 @@ Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/use
 
 ---
 
-## Things I'll Do This Week: Aug 7 - 12
+## Things I'll Do This Week: Aug 6 - 12
 
 _#me_
 - [ ] Get better 7 hrs of sleep
