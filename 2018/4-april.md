@@ -2,9 +2,7 @@ Personal Goals | What I Did - April 2018
 ==============
 
 ### Monthly Plan
-- [ ] Finish [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) 
-- [ ] Read 2 fiction books and 1 ABA book
-  - [x] 1 ABA book [Conversational Design](https://abookapart.com/products/conversational-design)
+- [x] Read 1 ABA book [Conversational Design](https://abookapart.com/products/conversational-design)
 - [x] Start planning Emmi's birthday party
 
 ---

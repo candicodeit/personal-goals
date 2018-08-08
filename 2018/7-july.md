@@ -33,9 +33,7 @@ _#read_
 
 _#read_
 - [x] Finish [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
-- [ ] Read 75% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1)
 - [x] Listen 50% [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (est. 3 hrs) 
-- [ ] Read 10% [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
 
 _#relationships_
 - [x] Prep for my birthday
@@ -77,36 +75,10 @@ _#read_
 ## Week 31: Jul 30 - Aug 5 (An Event Apart DC)
 
 _#learn_
-- [ ] Create AEA overview presentation to share with BG UI group
 - [x] Create blog post on the conference
 
 _#relationships_
 - [x] Network w/folks from AEA
-
-
----
-
-## #learn backlog
-- [ ] Start Lesson 4 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 1.5 hrs)
-- [ ] Start Lesson 5 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 3.5 hrs)
-  - [ ] Finish Lessons 5.1 
-  - [ ] Finish Lessons 5.2
-  - [ ] Finish Lessons 5.3
-- [ ] Finish Lesson 5 [IDF User Research v2](https://github.com/candicodeit/personal-goals/projects/3) (est 3.5 hrs)
-  - [ ] Finish Lessons 5.4 
-  - [ ] Finish Lessons 5.5 
-  - [ ] Finish Lessons 5.6
-  - [ ] Finish Lessons 5.7
-  
- ## #read backlog
- - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
- - [ ] Read [A Kingdom of Exiles](https://www.goodreads.com/book/show/37584808-a-kingdom-of-exiles) Kindle Unlimited
- - [ ] Read [To Kill a Kingdom](https://www.goodreads.com/book/show/34499221-to-kill-a-kingdom) $9.99 Kindle
- - [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true) $7.99 Kindle
- 
-## #relationships backlog
-- [ ] Plans to catch up with Kristi
-- [ ] Plan for book brain dump w/Sallie 
 
 ---
 
