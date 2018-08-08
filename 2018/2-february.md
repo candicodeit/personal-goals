@@ -2,11 +2,8 @@ Personal Goals | What I Did - February 2018
 ==============
 
 ### Monthly Plan
-- [ ] Read 3 books (Completed 1)
-- [ ] ~Complete Udemy CSS Grid course~
-- [ ] ~Plan girls' movie night~
+- [x] Read 1 book
 - [x] Meal prep once a week
-- [ ] ~Lift 2x a week~
 
 ---
 
