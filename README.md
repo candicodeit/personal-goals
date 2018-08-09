@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 7, 2018)
+Personal Goals (Updated: Aug 9, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,7 +9,7 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/user_challenges/10348403) _#read_ 
+Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/user_challenges/10348403) 
   - 4 books behind for the year
   - 8 fiction / 12 non-fiction
 
@@ -70,12 +70,14 @@ _#family/friends_
 
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [ ] Initiate a random act of kindness for the month
+- [x] Initiate a random act of kindness for the month
+  - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
 
 _#career_
 - [ ] Review Interaction Design Foundation courses and plan path
 - [ ] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
+- [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
 _#read_
 - [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
@@ -87,15 +89,25 @@ _#read_
 
 ### Things I'll Do Next Month: September 2018
 _#me_
+- [ ] Practice regular self-care routine
+  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
+  - [ ] Plan self-care half day (monthly)
+    - [ ] Quiet brunch/lunch w/reading
+    - [ ] Massage/spa appt 
+    - [ ] Dessert
 
 _#family/friends_
 - [ ] Research destination vacation options 
 
 _#world_
+- [ ] Initiate a random act of kindness for the month
 
 _#career_
 
 _#read_
+- [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design)
+- [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems)
 
 --- 
 ## Week 31: Jul 30 - Aug 5
