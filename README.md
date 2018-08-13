@@ -20,23 +20,23 @@ Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/use
 _#me_
 - [ ] Get better 7 hrs of sleep
 - [ ] Drink water 3x daily
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time (weekly)
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time (weekly)
   
 _#family/friends_
-- [ ] Send a letter to a friend
+- [x] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-  - [ ] Katel
-  - [ ] Lauren
-  - [ ] Jonathan
+  - [x] Katel
+  - [x] Lauren
+  - [x] Jonathan
 
 _#career_
 - [ ] Review Interaction Design Foundation courses and plan path
 - [ ] Review Goodreads fun project 
 
 _#read_
-- [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Listen 25% [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [x] Listen Crazy Rich Asians
+- [x] Finish [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
   
 ## Habits for This Month
 - Plan out days with: 
