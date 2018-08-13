@@ -16,73 +16,92 @@ _#family/friends_
 - [ ] Prep for my mom's birthday
 - [ ] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
+  - [ ] Contact school for up-to-date papers
+  - [ ] Attend open house
+  - [ ] Purchase any school supplies
+  - [ ] Finish potty training
 - [ ] Plan family museum day
-- [ ] Plan "Mom Fun" day
-- [ ] Send a letter to a friend
+
+- [x] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [ ] Initiate a random act of kindness for the month
+- [x] Initiate a random act of kindness/volunteer for the month
+  - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [ ] Review Interaction Design Foundation courses and plan path
-- [ ] Start Hogwarts Friends project
+- [x] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
 
 _#read_
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
-- [ ] Listen [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) (fiction)
-- [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true) (fiction)
+- [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
+- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [ ] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+
 
 ---
 
-## Week 32: Aug 7 - 12
+## Week 32: Aug 6 - 12
 
 _#me_
 - [ ] Get better 7 hrs of sleep
 - [ ] Drink water 3x daily
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time (weekly)
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time (weekly)
   
 _#family/friends_
-- [ ] Send a letter to a friend
+- [x] Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-  - [ ] Katel
-  - [ ] Lauren
-  - [ ] Jonathan
+  - [x] Katel
+  - [x] Lauren
+  - [x] Jonathan
 
 _#career_
 - [ ] Review Interaction Design Foundation courses and plan path
+  - [x] Review Interaction Design Foundation courses
 - [ ] Review Goodreads fun project 
+- [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
 _#read_
-- [ ] Read 50% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Listen 25% [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [x] Finish [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [x] Listen 30% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+
+_#world_
+- [x] Initiate a random act of kindness for the month
+  - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
   
 ---
 
-## Week 33: Aug 13 - 19 (Mom's Birthday)
+## Week 33: Aug 13 - 19 (Mom's Birthday - Wed)
 
 _#me_
 - [ ] Get better 7 hrs of sleep
+  - [ ] Head to bed by 10:15pm
 - [ ] Drink water 3x daily
+  - [ ] Mon
+  - [ ] Tue
+  - [ ] Wed
+  - [ ] Thu
+  - [ ] Fri
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time (weekly)
  
 _#family/friends_
-- [ ] Plan "Mom Fun" day 
-
-_#world_
-- [ ] Research how I can become involved in a women/girl tech organization
+- [ ] Prep for my mom's birthday (Wed)
 
 _#career_
+- [ ] Choose Interaction Design Foundation course path
 - [ ] Review Goodreads fun project 
 
 _#read_
-- [ ] Read 75% [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
-- [ ] Listen 50% [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
 
 ---
 
@@ -100,13 +119,14 @@ _#me_
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
 - [ ] Initiate a random act of kindness for the month
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [ ] Start Hogwarts Friends project
 
 _#read_
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) 
-- [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 ---
 
 ## Week 35: Aug 27 - Sep 2
@@ -126,8 +146,7 @@ _#career_
 - [ ] Continue Hogwarts Friends project
 
 _#read_
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) 
-- [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true)
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 
 ---
 
