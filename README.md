@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 9, 2018)
+Personal Goals (Updated: Aug 13, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,34 +9,37 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 20/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 4 books behind for the year
-  - 8 fiction / 12 non-fiction
+Read more fiction this year -> [Goal: 21/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 3 books behind for the year
+  - 9 fiction / 12 non-fiction
 
 ---
 
-## Things I'll Do This Week: Aug 6 - 12
+## Things I'll Do This Week: Aug 13 - 19 (Mom's Birthday - Wed)
 
 _#me_
 - [ ] Get better 7 hrs of sleep
+  - [ ] Head to bed by 10:15pm
 - [ ] Drink water 3x daily
-- [x] Practice regular self-care routine
-  - [x] Plan 1 hr uninterrupted reading time (weekly)
-  
+  - [ ] Mon
+  - [ ] Tue
+  - [ ] Wed
+  - [ ] Thu
+  - [ ] Fri
+- [ ] Practice regular self-care routine
+  - [ ] Plan 1 hr uninterrupted reading time (weekly)
+ 
 _#family/friends_
-- [x] Send a letter to a friend
-  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-  - [x] Katel
-  - [x] Lauren
-  - [x] Jonathan
+- [ ] Prep for my mom's birthday (Wed)
 
 _#career_
-- [ ] Review Interaction Design Foundation courses and plan path
+- [ ] Choose Interaction Design Foundation course path
 - [ ] Review Goodreads fun project 
 
 _#read_
-- [x] Listen Crazy Rich Asians
-- [x] Finish [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
   
 ## Habits for This Month
 - Plan out days with: 
@@ -63,15 +66,22 @@ _#me_
     - [ ] Dessert
 
 _#family/friends_
+- [ ] Prep for my mom's birthday
+- [ ] Prep for our anniversary
+- [ ] Prep for Emmi's first day of school
+  - [x] Contact school for up-to-date papers
+  - [ ] Attend open house
+  - [ ] Purchase any school supplies
+  - [ ] Finish potty training
 - [ ] Plan family museum day
-- [ ] Plan "Mom Fun" day
-- [ ] Send a letter to a friend
+- [x] Send a letter to a friend(s)
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
 - [x] Initiate a random act of kindness for the month
   - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [ ] Review Interaction Design Foundation courses and plan path
@@ -80,10 +90,11 @@ _#career_
 - [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
 _#read_
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone) (fiction)
-- [ ] Listen [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
-- [ ] Listen [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) (fiction)
-- [ ] Read [The Queen's Rising](https://www.goodreads.com/book/show/35098412-the-queen-s-rising?from_search=true) (fiction)
+- [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
+- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [ ] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
 
 --- 
 
@@ -100,9 +111,10 @@ _#family/friends_
 - [ ] Research destination vacation options 
 
 _#world_
-- [ ] Initiate a random act of kindness for the month
+- [ ] Initiate a random act of kindness/volunteer for the month
 
 _#career_
+ 
 
 _#read_
 - [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
@@ -110,12 +122,27 @@ _#read_
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems)
 
 --- 
-## Week 31: Jul 30 - Aug 5
+## Things I Did Last Week - Week 32: Aug 6 - 12
 
-## Planned Things I Did
-- [x] Create blog post about the conference
-- [x] Network with folks at AEADC
- 
+_#me_
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time (weekly)
+  
+_#family/friends_
+- [x] Send a letter to a friend
+  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
+  - [x] Katel
+  - [x] Lauren
+  - [x] Jonathan
+
+_#career_
+- [ ] Review Interaction Design Foundation courses and plan path
+  - [x] Review Interaction Design Foundation courses
+
 _#read_
-- [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) 
-- [x] Finish [Powerful - Build Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerful)
+- [x] Finish [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
+- [x] Listen 30% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+
+_#world_
+- [x] Initiate a random act of kindness for the month
+  - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
