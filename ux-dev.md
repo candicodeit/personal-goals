@@ -1,6 +1,6 @@
 Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
 ==============
-
+Backlog of learning resources for professional development.
 
 ## UX - Small Tasks
 - [Interaction Design Foundation Courses](https://www.interaction-design.org/courses?r=candi-lemoine)
@@ -36,8 +36,6 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
   - The Complete Node.js Developer Course
   - JavaScript: Understanding the Weird Parts
   - The Complete JavaScript Course
-  - Hello React
-  - The Web Developer Bootcamp
 - Reading: 
   - [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
   - [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
