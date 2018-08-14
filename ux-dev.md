@@ -2,7 +2,7 @@ Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
 ==============
 Backlog of learning resources for professional development.
 
-## UX - Small Tasks
+## UX / Design - Small Tasks
 - [Interaction Design Foundation Courses](https://www.interaction-design.org/courses?r=candi-lemoine)
   - [x] [User Research (100%)](https://github.com/candicodeit/personal-goals/projects/1)
   - [ ] [User Research v2 (7%)](https://github.com/candicodeit/personal-goals/projects/3)  
@@ -23,7 +23,9 @@ Backlog of learning resources for professional development.
   - [Just Enough Research](https://abookapart.com/products/just-enough-research)
 - Udemy Courses
   - Web UI UX Design using Adobe XD
-- [learnux.io](https://learnux.io)  
+- [learnux.io](https://learnux.io) 
+- Skillshare Courses
+  - [Creating for Design Systems](https://www.skillshare.com/classes/Digital-Design-Creating-Design-Systems-for-Easier-Better-Faster-Design/1463075607)
 
 ---  
 
