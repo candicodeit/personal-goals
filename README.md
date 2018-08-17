@@ -31,7 +31,9 @@ _#family/friends_
 - [x] Prep for my mom's birthday (Wed)
 
 _#career_
-- [ ] Choose Interaction Design Foundation course path
+- [x] Choose Interaction Design Foundation course path
+  - 1. [User Researcher](https://www.interaction-design.org/courses?learningPath=user_researcher&r=candi-lemoine) - 6 courses in 3 parts
+  - 2. [UX Designers](https://www.interaction-design.org/courses?learningPath=ux_designer&r=candi-lemoine) - 6 courses (minus User Researcher) in 4 parts
 - [ ] Review Goodreads fun project 
 
 _#read_
