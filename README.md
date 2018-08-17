@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 13, 2018)
+Personal Goals (Updated: Aug 17, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -18,11 +18,9 @@ Read more fiction this year -> [Goal: 21/35 books](https://www.goodreads.com/use
 ## Things I'll Do This Week: Aug 13 - 19 (Mom's Birthday - Wed)
 
 _#me_
-- [ ] Get better 7 hrs of sleep
-  - [ ] Head to bed by 10:15pm
 - [ ] Drink water 3x daily
-  - [ ] Mon
-  - [ ] Tue
+  - [x] Mon
+  - [x] Tue
   - [ ] Wed
   - [ ] Thu
   - [ ] Fri
@@ -30,7 +28,7 @@ _#me_
   - [ ] Plan 1 hr uninterrupted reading time (weekly)
  
 _#family/friends_
-- [ ] Prep for my mom's birthday (Wed)
+- [x] Prep for my mom's birthday (Wed)
 
 _#career_
 - [ ] Choose Interaction Design Foundation course path
@@ -38,8 +36,12 @@ _#career_
 
 _#read_
 - [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+  - [x] 25%
+  - [x] 50%  
+  - [ ] 75%
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [ ] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+- [x] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+  - [ ] 75%
   
 ## Habits for This Month
 - Plan out days with: 
