@@ -9,9 +9,9 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 21/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 22/35 books](https://www.goodreads.com/user_challenges/10348403) 
   - 3 books behind for the year
-  - 9 fiction / 12 non-fiction
+  - 10 fiction / 12 non-fiction
 
 ---
 
@@ -42,8 +42,8 @@ _#read_
   - [x] 50%  
   - [ ] 75%
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [x] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-  - [ ] 75%
+- [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+  - [x] 75%
   
 ## Habits for This Month
 - Plan out days with: 
