@@ -9,9 +9,9 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 22/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 3 books behind for the year
-  - 10 fiction / 12 non-fiction
+Read more fiction this year -> [Goal: 23/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 1 books behind for the year
+  - 11 fiction / 12 non-fiction
 
 ---
 
@@ -37,10 +37,10 @@ _#career_
 - [ ] Review Goodreads fun project 
 
 _#read_
-- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
   - [x] 25%
   - [x] 50%  
-  - [ ] 75%
+  - [x] 75%
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
   - [x] 75%
@@ -95,10 +95,10 @@ _#career_
 
 _#read_
 - [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
-- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
-- [ ] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+- [x] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
 
 --- 
 
