@@ -35,6 +35,7 @@ _#career_
 - [x] Review Interaction Design Foundation courses and plan path
 - [x] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
+- [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
 _#read_
 - [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
