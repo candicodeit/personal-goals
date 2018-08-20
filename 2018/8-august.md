@@ -13,7 +13,7 @@ _#me_
     - [ ] Dessert
 
 _#family/friends_
-- [ ] Prep for my mom's birthday
+- [x] Prep for my mom's birthday
 - [ ] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
   - [ ] Contact school for up-to-date papers
@@ -22,7 +22,7 @@ _#family/friends_
   - [ ] Finish potty training
 - [ ] Plan family museum day
 
-- [x] Send a letter to a friend
+- [x] (3) Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 _#world_
@@ -32,16 +32,17 @@ _#world_
   - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [ ] Review Interaction Design Foundation courses and plan path
+- [x] Review Interaction Design Foundation courses and plan path
 - [x] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
+- [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
 _#read_
 - [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
-- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
-- [ ] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+- [x] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
 
 
 ---
@@ -80,35 +81,34 @@ _#world_
 ## Week 33: Aug 13 - 19 (Mom's Birthday - Wed)
 
 _#me_
-- [ ] Get better 7 hrs of sleep
-  - [ ] Head to bed by 10:15pm
 - [ ] Drink water 3x daily
-  - [ ] Mon
-  - [ ] Tue
+  - [x] Mon
+  - [x] Tue
   - [ ] Wed
   - [ ] Thu
   - [ ] Fri
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time (weekly)
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time (weekly)
  
 _#family/friends_
-- [ ] Prep for my mom's birthday (Wed)
+- [x] Prep for my mom's birthday (Wed)
+- [x] Play time w/our family friends
 
 _#career_
-- [ ] Choose Interaction Design Foundation course path
-- [ ] Review Goodreads fun project 
+- [x] Choose Interaction Design Foundation course path
+  - 1. [User Researcher](https://www.interaction-design.org/courses?learningPath=user_researcher&r=candi-lemoine) - 6 courses in 3 parts
+  - 2. [UX Designers](https://www.interaction-design.org/courses?learningPath=ux_designer&r=candi-lemoine) - 6 courses (minus User Researcher) in 4 parts
+- [x] Start Hogwarts Friends project
 
 _#read_
-- [ ] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [ ] Listen 50% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-
+- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+- [x] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
 ---
 
 ## Week 34: Aug 20 - 26 (Our Anniversary)
 
 _#me_
-- [ ] Get better 7 hrs of sleep
 - [ ] Drink water 3x daily
 - [ ] Practice regular self-care routine
   - [ ] Plan self-care half day
@@ -122,10 +122,14 @@ _#world_
   - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [ ] Start Hogwarts Friends project
+- [ ] Review Goodreads fun project 
+- [ ] Complete [Lesson 1 - Design Thinking from Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
 
 _#read_
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est 10 hrs 40 mins)
+  - [ ] 25%
+  - [ ] 50%  
+  - [ ] 75%  
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 ---
 
