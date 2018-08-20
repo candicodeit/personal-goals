@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 17, 2018)
+Personal Goals (Updated: Aug 20, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -15,36 +15,32 @@ Read more fiction this year -> [Goal: 23/35 books](https://www.goodreads.com/use
 
 ---
 
-## Things I'll Do This Week: Aug 13 - 19 (Mom's Birthday - Wed)
+## Things I'll Do This Week | Week 34: Aug 20 - 26 (Wedding Anniversary)
 
 _#me_
 - [ ] Drink water 3x daily
-  - [x] Mon
-  - [x] Tue
-  - [ ] Wed
-  - [ ] Thu
-  - [ ] Fri
 - [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time (weekly)
- 
-_#family/friends_
-- [x] Prep for my mom's birthday (Wed)
+  - [ ] Plan self-care half day
+      - [ ] Quiet brunch/lunch w/reading
+      - [ ] Massage/spa appt 
+      - [ ] Dessert
+      
+_#world_
+- [ ] Research how I can become involved in a women/girl tech organization
+- [ ] Initiate a random act of kindness for the month
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [x] Choose Interaction Design Foundation course path
-  - 1. [User Researcher](https://www.interaction-design.org/courses?learningPath=user_researcher&r=candi-lemoine) - 6 courses in 3 parts
-  - 2. [UX Designers](https://www.interaction-design.org/courses?learningPath=ux_designer&r=candi-lemoine) - 6 courses (minus User Researcher) in 4 parts
 - [ ] Review Goodreads fun project 
+- [ ] Complete [Lesson 1 - Design Thinking from Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
 
 _#read_
-- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
-  - [x] 25%
-  - [x] 50%  
-  - [x] 75%
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-  - [x] 75%
-  
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est 10 hrs 40 mins)
+  - [ ] 25%
+  - [ ] 50%  
+  - [ ] 75%  
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+
 ## Habits for This Month
 - Plan out days with: 
   - Plan the day
@@ -70,26 +66,27 @@ _#me_
     - [ ] Dessert
 
 _#family/friends_
-- [ ] Prep for my mom's birthday
+- [x] Prep for my mom's birthday
 - [ ] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
-  - [x] Contact school for up-to-date papers
+  - [ ] Contact school for up-to-date papers
   - [ ] Attend open house
   - [ ] Purchase any school supplies
   - [ ] Finish potty training
 - [ ] Plan family museum day
-- [x] Send a letter to a friend(s)
+
+- [x] (3) Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
 
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [x] Initiate a random act of kindness for the month
+- [x] Initiate a random act of kindness/volunteer for the month
   - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
   - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [ ] Review Interaction Design Foundation courses and plan path
-- [ ] Start Hogwarts Friends project
+- [x] Review Interaction Design Foundation courses and plan path
+- [x] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
 - [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
@@ -127,27 +124,30 @@ _#read_
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems)
 
 --- 
-## Things I Did Last Week - Week 32: Aug 6 - 12
+## Things I Did Last Week - Week 33: Aug 13 - 19 (Mom's Birthday - Wed)
 
 _#me_
+- [ ] Drink water 3x daily
+  - [x] Mon
+  - [x] Tue
+  - [ ] Wed
+  - [ ] Thu
+  - [ ] Fri
 - [x] Practice regular self-care routine
   - [x] Plan 1 hr uninterrupted reading time (weekly)
-  
+ 
 _#family/friends_
-- [x] Send a letter to a friend
-  - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
-  - [x] Katel
-  - [x] Lauren
-  - [x] Jonathan
+- [x] Prep for my mom's birthday (Wed)
 
 _#career_
-- [ ] Review Interaction Design Foundation courses and plan path
-  - [x] Review Interaction Design Foundation courses
+- [x] Choose Interaction Design Foundation course path
+  - 1. [User Researcher](https://www.interaction-design.org/courses?learningPath=user_researcher&r=candi-lemoine) - 6 courses in 3 parts
+  - 2. [UX Designers](https://www.interaction-design.org/courses?learningPath=ux_designer&r=candi-lemoine) - 6 courses (minus User Researcher) in 4 parts
 
 _#read_
-- [x] Finish [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)
-- [x] Listen 30% [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-
-_#world_
-- [x] Initiate a random act of kindness for the month
-  - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
+- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
+  - [x] 25%
+  - [x] 50%  
+  - [x] 75%
+- [x] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
+- [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
