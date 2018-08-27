@@ -2,84 +2,110 @@ Personal Goals | What I Did - [month] 2018
 ==============
 
 ### Monthly Plan
-_#health_
-- [ ] Workout 2 times a week
-- [ ] Drink 3 water mybevi containers (60oz) daily
+_#me_
 
-_#learn_
+_#family/friends_
+
+_#world_
+
+_#career_
 
 _#read_
 - [ ] [enter book] (fiction)
 - [ ] [enter book] (non-fiction)
 
-_#relationships_
-
 ---
 
 ## Week --: [mon] 
+_#me_
 
-_#health_
+_#family/friends_
 
-_#learn_
+_#world_
+
+_#career_
 
 _#read_
-
-_#relationships_
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
   
 ---
 
 ## Week --: [mon]
+_#me_
 
+_#family/friends_
+
+_#world_
+
+_#career_
+
+_#read_
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
 
 
 ---
 
 ## Week --: [mon]
+_#me_
 
-_#health_
+_#family/friends_
 
-_#learn_
+_#world_
+
+_#career_
 
 _#read_
-
-_#relationships_
-
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
 ---
 
 ## Week --: [mon]
-
-_#learn_
-
-_#read_
-
-_#relationships_
 
 - [ ] Plans for [mon]
 
+_#me_
+
+_#family/friends_
+
+_#world_
+
+_#career_
+
+_#read_
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
+
+
+
 ---
 
 ## Week --: [mon]
+_#me_
 
-_#learn_
+_#family/friends_
+
+_#world_
+
+_#career_
 
 _#read_
-
-_#relationships_
-
----
-
-## IDF Backlog #learn
-  
-## Read Backlog #read
+- [ ] [enter book] (fiction)
+- [ ] [enter book] (non-fiction)
 
 ---
 
 ## Habits for This Month
-- Plan out days with MAE format
+- Plan out days with: 
+  - Plan the day
+  - Morning
+  - Afternoon
+  - 1 Evening task
+- Use Evo planner
+  - Evo Ritual: Passion
 - Estimate daily tasks
-- Complete 30mins of daily learning
-- Read for 9 mins: 
-  - before bed
+- Morning and evening reading
 
 ---
 
