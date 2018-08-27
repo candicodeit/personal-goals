@@ -21,6 +21,7 @@ Backlog of learning resources for professional development.
   - [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
   - [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
   - [Just Enough Research](https://abookapart.com/products/just-enough-research)
+  - [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
 - Udemy Courses
   - Web UI UX Design using Adobe XD
 - [learnux.io](https://learnux.io) 
