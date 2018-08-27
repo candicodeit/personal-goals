@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 20, 2018)
+Personal Goals (Updated: Aug 27, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -18,21 +18,24 @@ Read more fiction this year -> [Goal: 23/35 books](https://www.goodreads.com/use
 ## Things I'll Do This Week | Week 34: Aug 20 - 26 (Wedding Anniversary)
 
 _#me_
-- [ ] Drink water 3x daily
 - [ ] Practice regular self-care routine
   - [ ] Plan self-care half day
       - [ ] Quiet brunch/lunch w/reading
       - [ ] Massage/spa appt 
       - [ ] Dessert
+
+_#family/friends_
+- [x] Prep for our anniversary
       
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [ ] Initiate a random act of kindness for the month
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
+- [x] Initiate a random act of kindness for the month
+  - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [ ] Review Goodreads fun project 
-- [ ] Complete [Lesson 1 - Design Thinking from Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [x] Complete 62% [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
@@ -40,6 +43,7 @@ _#read_
   - [ ] 50%  
   - [ ] 75%  
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (est. 14 hrs 17 mins)
+- [x] Listen 50% [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
 
 ## Habits for This Month
 - Plan out days with: 
@@ -67,7 +71,7 @@ _#me_
 
 _#family/friends_
 - [x] Prep for my mom's birthday
-- [ ] Prep for our anniversary
+- [x] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
   - [ ] Contact school for up-to-date papers
   - [ ] Attend open house
