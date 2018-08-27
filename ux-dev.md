@@ -1,4 +1,4 @@
-Continuous learning of UX and the front end development (Updated: Jan 4, 2018)
+Continuous learning of UX and the front end development (Updated: Aug 27, 2018)
 ==============
 Backlog of learning resources for professional development.
 
