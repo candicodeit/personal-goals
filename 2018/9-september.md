@@ -1,4 +1,4 @@
-Personal Goals | What I Did - [month] 2018
+Personal Goals | What I Did - September 2018
 ==============
 
 ### Monthly Plan
