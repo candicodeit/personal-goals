@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 20, 2018)
+Personal Goals (Updated: Aug 27, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,37 +9,46 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 23/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 24/35 books](https://www.goodreads.com/user_challenges/10348403) 
   - 1 books behind for the year
-  - 11 fiction / 12 non-fiction
+  - 11 fiction / 13 non-fiction
 
 ---
 
-## Things I'll Do This Week | Week 34: Aug 20 - 26 (Wedding Anniversary)
+## Things I'll Do This Week | Week 35: Aug 27 - Sep 2
+
+- [ ] Plan for Sep
+- [ ] Reflect on Aug
 
 _#me_
-- [ ] Drink water 3x daily
 - [ ] Practice regular self-care routine
   - [ ] Plan self-care half day
       - [ ] Quiet brunch/lunch w/reading
       - [ ] Massage/spa appt 
       - [ ] Dessert
-      
+
+_#family/friends_
+- [ ] Plan family museum day
+- [ ] Watch Crazy Rich Asians w/friend
+
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [ ] Initiate a random act of kindness for the month
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [ ] Review Goodreads fun project 
-- [ ] Complete [Lesson 1 - Design Thinking from Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [ ] Continue Hogwarts Friends project
+- [ ] Complete [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
   - [ ] 50%  
   - [ ] 75%  
-- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (est. 14 hrs 17 mins)
+- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [ ] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+
+---
 
 ## Habits for This Month
 - Plan out days with: 
@@ -48,7 +57,7 @@ _#read_
   - Afternoon
   - 1 Evening task
 - Use Evo planner
-  - Evo Ritual: Passion
+  - Evo Ritual: Personal Awareness
 - Estimate daily tasks
 - Morning and evening reading
   
@@ -67,13 +76,14 @@ _#me_
 
 _#family/friends_
 - [x] Prep for my mom's birthday
-- [ ] Prep for our anniversary
+- [x] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
-  - [ ] Contact school for up-to-date papers
+  - [x] Contact school for up-to-date papers
   - [ ] Attend open house
   - [ ] Purchase any school supplies
   - [ ] Finish potty training
 - [ ] Plan family museum day
+- [ ] Watch Crazy Rich Asian w/friend
 
 - [x] (3) Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
@@ -82,7 +92,7 @@ _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
 - [x] Initiate a random act of kindness/volunteer for the month
   - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
+  - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [x] Review Interaction Design Foundation courses and plan path
@@ -114,40 +124,32 @@ _#family/friends_
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
   - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
  
 
 _#read_
-- [ ] Read [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design)
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems)
 
---- 
-## Things I Did Last Week - Week 33: Aug 13 - 19 (Mom's Birthday - Wed)
 
-_#me_
-- [ ] Drink water 3x daily
-  - [x] Mon
-  - [x] Tue
-  - [ ] Wed
-  - [ ] Thu
-  - [ ] Fri
-- [x] Practice regular self-care routine
-  - [x] Plan 1 hr uninterrupted reading time (weekly)
- 
+--- 
+## Things I Did Last Week - Week 34: Aug 20 - 26 (Wedding Anniversary)
+
 _#family/friends_
-- [x] Prep for my mom's birthday (Wed)
+- [x] Prep for our anniversary
+- [x] Prep for Rosa's birthday
+
+_#world_
+- [x] Initiate a random act of kindness for the month
+  - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
-- [x] Choose Interaction Design Foundation course path
-  - 1. [User Researcher](https://www.interaction-design.org/courses?learningPath=user_researcher&r=candi-lemoine) - 6 courses in 3 parts
-  - 2. [UX Designers](https://www.interaction-design.org/courses?learningPath=ux_designer&r=candi-lemoine) - 6 courses (minus User Researcher) in 4 parts
+- [x] Complete 62% [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 
 _#read_
-- [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
-  - [x] 25%
-  - [x] 50%  
-  - [x] 75%
-- [x] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+- [x] Read 7% [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
+- [x] Listen 50% [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+- [x] Read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) (non-fiction)

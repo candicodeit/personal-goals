@@ -14,9 +14,9 @@ _#me_
 
 _#family/friends_
 - [x] Prep for my mom's birthday
-- [ ] Prep for our anniversary
+- [x] Prep for our anniversary
 - [ ] Prep for Emmi's first day of school
-  - [ ] Contact school for up-to-date papers
+  - [x] Contact school for up-to-date papers
   - [ ] Attend open house
   - [ ] Purchase any school supplies
   - [ ] Finish potty training
@@ -29,7 +29,7 @@ _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
 - [x] Initiate a random act of kindness/volunteer for the month
   - [bought two books for a school media center](https://twitter.com/candicodeit/status/1027309728056176641) so they can update their reading collection
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
+  - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [x] Review Interaction Design Foundation courses and plan path
@@ -43,7 +43,8 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 - [x] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-
+- [ ] Listen [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only) (fiction)
+- [x] Read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) (non-fiction)
 
 ---
 
@@ -104,33 +105,40 @@ _#read_
 - [x] Read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) (fiction)
 - [x] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [x] Finish [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+
 ---
 
-## Week 34: Aug 20 - 26 (Our Anniversary)
+## Week 34: Aug 20 - 26 (Wedding Anniversary)
 
 _#me_
-- [ ] Drink water 3x daily
 - [ ] Practice regular self-care routine
   - [ ] Plan self-care half day
       - [ ] Quiet brunch/lunch w/reading
       - [ ] Massage/spa appt 
       - [ ] Dessert
+
+_#family/friends_
+- [x] Prep for our anniversary
+- [x] Prep for Rosa's birthday
       
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
-- [ ] Initiate a random act of kindness for the month
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
+- [x] Initiate a random act of kindness for the month
+  - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
 
 _#career_
 - [ ] Review Goodreads fun project 
-- [ ] Complete [Lesson 1 - Design Thinking from Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [x] Complete 62% [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 
 _#read_
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est 10 hrs 40 mins)
+- [x] Read 7% [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
   - [ ] 50%  
   - [ ] 75%  
-- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [x] Listen 50% [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+- [x] Read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) (non-fiction)
+
 ---
 
 ## Week 35: Aug 27 - Sep 2
@@ -139,18 +147,32 @@ _#read_
 - [ ] Reflect on Aug
 
 _#me_
-- [ ] Get better 7 hrs of sleep
-- [ ] Drink water 3x daily
 - [ ] Practice regular self-care routine
+  - [ ] Plan self-care half day
+      - [ ] Quiet brunch/lunch w/reading
+      - [ ] Massage/spa appt 
+      - [ ] Dessert
 
 _#family/friends_
 - [ ] Plan family museum day
+- [ ] Crazy Rich Asians w/friend
+
+_#world_
+- [ ] Research how I can become involved in a women/girl tech organization
 
 _#career_
 - [ ] Continue Hogwarts Friends project
+- [ ] Complete [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+
 
 _#read_
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
+  - [ ] 25%
+  - [ ] 50%  
+  - [ ] 75%  
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [ ] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
 
 ---
 
