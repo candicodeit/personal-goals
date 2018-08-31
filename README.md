@@ -9,9 +9,8 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 24/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 1 books behind for the year
-  - 11 fiction / 13 non-fiction
+Read more fiction this year -> [Goal: 25/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 12 fiction / 13 non-fiction
 
 ---
 
@@ -28,8 +27,8 @@ _#me_
       - [ ] Dessert
 
 _#family/friends_
-- [ ] Plan family museum day
-- [ ] Watch Crazy Rich Asians w/friend
+- [ ] ~Plan family museum day~
+- [ ] ~Watch Crazy Rich Asians w/friend~
 
 _#world_
 - [ ] Research how I can become involved in a women/girl tech organization
@@ -46,7 +45,7 @@ _#read_
   - [ ] 50%  
   - [ ] 75%  
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
-- [ ] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+- [x] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
 
 ---
 
@@ -106,6 +105,7 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 - [x] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
+- [x] Listen [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
 
 --- 
 
