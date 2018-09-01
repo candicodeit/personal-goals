@@ -43,7 +43,7 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 - [x] Listen [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) (fiction)
-- [ ] Listen [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only) (fiction)
+- [x] Listen [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only) (fiction)
 - [x] Read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) (non-fiction)
 
 ---
@@ -163,7 +163,7 @@ _#world_
 _#career_
 - [ ] Continue Hogwarts Friends project
 - [ ] Complete [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
-- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [x] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
 
 
 _#read_
@@ -172,7 +172,7 @@ _#read_
   - [ ] 50%  
   - [ ] 75%  
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
-- [ ] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+- [x] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
 
 ---
 
