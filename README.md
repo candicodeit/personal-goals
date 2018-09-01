@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 27, 2018)
+Personal Goals (Updated: Aug 31, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -36,7 +36,7 @@ _#world_
 _#career_
 - [ ] Continue Hogwarts Friends project
 - [ ] Complete [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
-- [ ] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
+- [x] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
 
 
 _#read_
@@ -63,15 +63,6 @@ _#read_
 ---
 
 ### Things I'll Do This Month: August 2018
-_#me_
-- [ ] Get better 7 hrs of sleep
-- [ ] Drink water 3x daily
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-  - [ ] Plan self-care half day (monthly)
-    - [ ] Quiet brunch/lunch w/reading
-    - [ ] Massage/spa appt 
-    - [ ] Dessert
 
 _#family/friends_
 - [x] Prep for my mom's birthday
@@ -81,8 +72,8 @@ _#family/friends_
   - [ ] Attend open house
   - [ ] Purchase any school supplies
   - [ ] Finish potty training
-- [ ] Plan family museum day
-- [ ] Watch Crazy Rich Asian w/friend
+- [ ] ~Plan family museum day~
+- [ ] ~Watch Crazy Rich Asian w/friend~
 
 - [x] (3) Send a letter to a friend
   - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
@@ -98,6 +89,7 @@ _#career_
 - [x] Start Hogwarts Friends project
 - [ ] Review Goodreads fun project 
 - [x] Write out [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
+- [x] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
 
 _#read_
 - [x] Read [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) (fiction)
@@ -124,10 +116,16 @@ _#family/friends_
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
   - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Room Makeover
+  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
- 
+ - [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
+  - [ ] Lesson 2 (est. 1 hr 54 mins)
+  - [ ] Lesson 3 (est. 1 hr 51 mins)
+  - [ ] Lesson 4 (est. 1 hr 26 mins)
+  - [ ] Lesson 5 (est. 2 hrs 26 mins)
+  - [ ] Lesson 6 (est. 1 hr 57 mins)
+  
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
