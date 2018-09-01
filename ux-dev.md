@@ -24,6 +24,7 @@ Backlog of learning resources for professional development.
 - Udemy Courses
   - Web UI UX Design using Adobe XD
 - [learnux.io](https://learnux.io) 
+- [Intro to Human-Centered Design](https://www.plusacumen.org/courses/introduction-human-centered-design)
 - Skillshare Courses
   - [Creating for Design Systems](https://www.skillshare.com/classes/Digital-Design-Creating-Design-Systems-for-Easier-Better-Faster-Design/1463075607)
 
