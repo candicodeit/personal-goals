@@ -10,6 +10,7 @@ _#me_
     - [ ] Quiet brunch/lunch w/reading
     - [ ] Massage/spa appt 
     - [ ] Dessert
+- [ ] Research Keto for dinner meals
 
 _#family/friends_
 - [ ] Research destination vacation options 
