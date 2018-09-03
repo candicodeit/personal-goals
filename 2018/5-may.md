@@ -5,6 +5,16 @@ Personal Goals | What I Did - May 2018
 - [x] Prep Emmi's birthday party
 - [x] Plan DMM Work Fam gathering
 
+
+## Unplanned Things I Did  
+- [x] Completed StrengthFinders 2.0 assessment and Builder Profile
+- [x] Completed Pluralsight HTML5, CSS, JavaScript, and jQuery IQ assessments
+- [x] Write a blog post about [talking with upper management](http://candicode.it/upper-management)
+- [x] Transferred domain to GitHub pages: [candicode.it](http://candicode.it/)
+- [x] [Building Layouts with CSS Grid - Pluralsight](https://app.pluralsight.com/library/courses/building-layouts-css-grid/table-of-contents)
+- [x] Finished [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
+- [x] Finished [Crushing It](https://www.goodreads.com/book/show/36045512-crushing-it)
+- [x] Started [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering)
 ---
 
 ## Week 19: May 7 - 13
