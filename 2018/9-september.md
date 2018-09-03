@@ -25,8 +25,8 @@ _#family/friends_
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
-  - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
-  - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
+- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
  - [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
