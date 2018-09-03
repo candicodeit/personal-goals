@@ -11,6 +11,7 @@ Personal Goals | What I Did - March 2018
   - [The Wicked Deep - hardback](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
 - [x] Find 10 staple weeknight meals
 - [x] Plan team hangout
+- [x] Refine part 1 on coaching homework from Lara
 
 ---
 
