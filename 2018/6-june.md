@@ -4,6 +4,8 @@ Personal Goals | What I Did - June 2018
 ### Monthly Plan
 _#read_
 - [x] Finish [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering) (non-fiction)
+- [x] Read [DesignOps Handbook](https://www.designbetter.co/designops-handbook/) (non-fiction)
+- [x] Hit 50% [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) (fiction)
 
 _#relationships_
 - [x] Prep for Bellie's birthday
