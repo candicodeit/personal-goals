@@ -2,8 +2,22 @@ Personal Goals | What I Did - February 2018
 ==============
 
 ### Monthly Plan
-- [x] Read 1 book
+- [x] Finish [Everless](https://www.goodreads.com/book/show/32320661-everless)
+- [x] Write a blog post about [Top 5 Remote Spots](http://candicodeit.tumblr.com/post/170589018441/my-top-remote-work-spots-in-hampton-roads)
 - [x] Meal prep once a week
+- [x] Work on A/B testing winner implementation plan *#backlog*
+- [x] Prep for family vacation
+- [x] Enjoy family vacation (Feb 10-16 - SC/NC)
+  - 3 full games of Phase 10
+  - get mother-in-law to watch past Marvel movies
+  - meet up with car family
+- [x] Schedule a DMM reunion hangout (Mar 3) *#backlog* *#relationships*
+- [x] Read [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
+- [x] Work on coaching homework from Lara
+- [x] Listen to 50% (Currently 87%) [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+
+## Unplanned Things I Did 
+- [x] Created a list of instant pot recipes for meal planning
 
 ---
 

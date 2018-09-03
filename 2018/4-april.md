@@ -5,6 +5,9 @@ Personal Goals | What I Did - April 2018
 - [x] Read 1 ABA book [Conversational Design](https://abookapart.com/products/conversational-design)
 - [x] Start planning Emmi's birthday party
 
+## Unplanned Things I Did
+- [x] Started [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
+
 ---
 
 ## Week 14: Apr 2 - 8

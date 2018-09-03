@@ -9,6 +9,7 @@ _#read_
 - [x] Listen [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [x] Finish [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design) (non-fiction)
 - [x] Listen [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) (non-fiction)
+- [x] Finish [Powerful - Build Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerful)
 
 _#relationships_
 - [x] Prep for my birthday
@@ -17,6 +18,8 @@ _#relationships_
   - [x] Museum w/family
   - [x] Donate to 7 charities 
 - [x] Network with folks from AEADC
+
+- [x] Finish personal 4square
 
 ---
 

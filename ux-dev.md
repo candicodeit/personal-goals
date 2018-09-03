@@ -1,4 +1,4 @@
-Continuous learning of UX and the front end development (Updated: Aug 27, 2018)
+Continuous learning of UX and the front end development (Updated: Sep 3, 2018)
 ==============
 Backlog of learning resources for professional development.
 
@@ -22,9 +22,11 @@ Backlog of learning resources for professional development.
   - [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
   - [Just Enough Research](https://abookapart.com/products/just-enough-research)
   - [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
+  - [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - Udemy Courses
   - Web UI UX Design using Adobe XD
 - [learnux.io](https://learnux.io) 
+- [Intro to Human-Centered Design](https://www.plusacumen.org/courses/introduction-human-centered-design)
 - Skillshare Courses
   - [Creating for Design Systems](https://www.skillshare.com/classes/Digital-Design-Creating-Design-Systems-for-Easier-Better-Faster-Design/1463075607)
 
