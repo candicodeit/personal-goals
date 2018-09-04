@@ -36,7 +36,8 @@ _#career_
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
-  - [ ] 40%  
+  - [ ] 40%
+- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)  
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (est. 6 hrs 14 mins)
   - [ ] 25%
   - [ ] 50%
@@ -97,6 +98,7 @@ _#career_
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
 - [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) (non-fiction)
+- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 --- 
