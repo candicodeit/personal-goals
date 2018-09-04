@@ -68,6 +68,7 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
   - [ ] 40%  
+- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)   
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (est. 6 hrs 14 mins)
   - [ ] 25%
   - [ ] 50%
