@@ -97,7 +97,6 @@ _#career_
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
-- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) (non-fiction)
 - [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
@@ -121,6 +120,7 @@ _#career_
  - [ ] Decide about [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
   
 _#read_
+- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) (non-fiction)
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) (non-fiction)
 - [ ] Read [Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/17347380-harry-potter-and-the-half-blood-prince) (fiction)
 
