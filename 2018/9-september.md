@@ -125,9 +125,6 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 75%
   - [ ] 90%
-- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) 
-  - [ ] 25%
-  - [ ] 50%
   
 ---
 
@@ -157,9 +154,6 @@ _#read_
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
   - [ ] 10%
   - [ ] 25%
-- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) 
-  - [ ] 75%
-
 
 ---
 
