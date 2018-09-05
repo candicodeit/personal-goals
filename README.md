@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  3, 2018)
+Personal Goals (Updated: Sep  4, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,9 +9,9 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 25/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 12 fiction / 13 non-fiction
-  - 13 read /  12 listen
+Read more fiction this year -> [Goal: 26/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 13 fiction / 13 non-fiction
+  - 13 read /  13 listen
   - 2 re-reads
 ---
 
@@ -21,11 +21,11 @@ _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
 - [ ] Research Keto 
-  - [ ] Find 3 breakfast meals
+  - [x] Find 3 breakfast meals
 
 _#family/friends_
-- [ ] Prep for Emmi's First Day of School
-  - [ ] backpack essentials (extra clothes)
+- [x] Prep for Emmi's First Day of School
+  - [x] backpack essentials (extra clothes)
 
 _#career_
 - [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
@@ -37,7 +37,7 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
   - [ ] 40%
-- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)  
+- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)  
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (est. 6 hrs 14 mins)
   - [ ] 25%
   - [ ] 50%
@@ -67,7 +67,7 @@ _#me_
     - [ ] Massage/spa appt 
     - [ ] Dessert
 - [ ] Research Keto 
-  - [ ] Find 3 breakfast meals
+  - [x] Find 3 breakfast meals
   - [ ] Find 3 lunch meals
   - [ ] Find 3 dinner meals
   - [ ] Find 3 snacks meals
@@ -97,7 +97,7 @@ _#career_
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
-- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
+- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 --- 
