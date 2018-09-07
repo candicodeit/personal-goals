@@ -28,20 +28,23 @@ _#world_
 - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
-_#career_
- - [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 2 (est. 1 hr 54 mins)
-  - [ ] Lesson 3 (est. 1 hr 51 mins)
-  - [ ] Lesson 4 (est. 1 hr 26 mins)
-  - [ ] Lesson 5 (est. 2 hrs 26 mins)
-  - [ ] Lesson 6 (est. 1 hr 57 mins)
+_#career_ 
 - [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
-- [ ] Start [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 1
+  - [ ] Complete Unit 2
+  - [ ] Complete Unit 3
+  - [ ] Complete Unit 4
+  - [ ] Complete Unit 5
+  - [ ] Complete Unit 6
+
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
+- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
+- [ ] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
 
 ---
 
@@ -58,16 +61,16 @@ _#family/friends_
   - [ ] backpack essentials (extra clothes)
 
 _#career_
-- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 2 (est. 1 hr 54 mins)
 - [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
-- [ ] Start [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/) 
+- [ ] Complete [UX Research Unit 1 | Designlab](https://trydesignlab.com/course/units/1/?next=1)
+- [ ] Complete [UX Research Unit 2 | Designlab](https://trydesignlab.com/course/units/2/?next=1)
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 25%
   - [ ] 40%  
-- [ ] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)   
+- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
+- [ ] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (est. 6 hrs 14 mins)
   - [ ] 25%
   - [ ] 50%
@@ -87,9 +90,8 @@ _#family/friends_
 - [ ] Attend Saturday Filipino fiesta
 
 _#career_
-- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 3 (est. 1 hr 51 mins)
-- [ ] Work on [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)  
+- [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
+  
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
@@ -116,9 +118,7 @@ _#world_
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
-- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 4 (est. 1 hr 26 mins)  
-- [ ] Work on [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)  
+- [ ] Complete [UX Research Unit 4 | Designlab](https://trydesignlab.com/course/units/4/?next=1)
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
@@ -145,9 +145,8 @@ _#world_
 - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
 
 _#career_
-- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 5 (est. 2 hrs 26 mins)  
-- [ ] Work on [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)  
+- [ ] Complete [UX Research Unit 5 | Designlab](https://trydesignlab.com/course/units/5/?next=1)
+- [ ] Complete [UX Research Unit 5 | Designlab](https://trydesignlab.com/course/units/6/?next=1)
 
 _#read_
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
@@ -169,5 +168,14 @@ _#read_
 
 ---
 
+### Backburner
+- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
+  - [ ] Lesson 2 (est. 1 hr 54 mins)
+  - [ ] Lesson 3 (est. 1 hr 51 mins)
+  - [ ] Lesson 4 (est. 1 hr 26 mins)
+  - [ ] Lesson 5 (est. 2 hrs 26 mins)
+  - [ ] Lesson 6 (est. 1 hr 57 mins)
+
+---
 
 # September Reflection
