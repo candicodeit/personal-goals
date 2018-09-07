@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  4, 2018)
+Personal Goals (Updated: Sep  7, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -28,10 +28,10 @@ _#family/friends_
   - [x] backpack essentials (extra clothes)
 
 _#career_
-- [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 2 (est. 1 hr 54 mins)
 - [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
-- [ ] Start [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/) 
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 1
+  - [ ] Complete Unit 2
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
@@ -84,14 +84,14 @@ _#world_
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
- - [ ] Complete [Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine)
-  - [ ] Lesson 2 (est. 1 hr 54 mins)
-  - [ ] Lesson 3 (est. 1 hr 51 mins)
-  - [ ] Lesson 4 (est. 1 hr 26 mins)
-  - [ ] Lesson 5 (est. 2 hrs 26 mins)
-  - [ ] Lesson 6 (est. 1 hr 57 mins)
 - [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
-- [ ] Start [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 1
+  - [ ] Complete Unit 2
+  - [ ] Complete Unit 3
+  - [ ] Complete Unit 4
+  - [ ] Complete Unit 5
+  - [ ] Complete Unit 6
 - [ ] Plan [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) (Oct 5 / Nov 2)
   
 
