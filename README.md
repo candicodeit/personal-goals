@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  7, 2018)
+Personal Goals (Updated: Sep  9, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,38 +9,36 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 26/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 13 fiction / 13 non-fiction
-  - 13 read /  13 listen
+Read more fiction this year -> [Goal: 27/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 14 fiction / 13 non-fiction
+  - 13 read /  14 listen
   - 2 re-reads
 ---
 
-## Things I'll Do This Week | Week 36: Sep 3 - 9 (Emmi's First Week of School)
+## Things I'll Do This Week | Week 37: Sep 10 - 16
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
 - [ ] Research Keto 
-  - [x] Find 3 breakfast meals
+  - [ ] Find 3 lunch meals
 
 _#family/friends_
-- [x] Prep for Emmi's First Day of School
-  - [x] backpack essentials (extra clothes)
+- [ ] Research destination vacation options
+- [ ] Attend Saturday Filipino fiesta
 
 _#career_
-- [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
-- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [ ] Complete Unit 1
-  - [ ] Complete Unit 2
+- [ ] Complete [UX Research Unit 2 | Designlab](https://trydesignlab.com/course/units/2/?next=1)
+- [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
 
 _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
-  - [ ] 25%
-  - [ ] 40%
-- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)  
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (est. 6 hrs 14 mins)
-  - [ ] 25%
   - [ ] 50%
+  - [ ] 65%
+- [ ] Listen [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)  
+- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
+  - [ ] 50%
+  - [ ] 75%  
 
 ---
 
@@ -97,7 +95,9 @@ _#career_
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
+- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
 - [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
+- [ ] Listen [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)  
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 --- 
@@ -126,16 +126,19 @@ _#read_
 
 
 --- 
-## Things I Did Last Week Week 35: Aug 27 - Sep 2
+## Things I Did Last Week | Week 36: Sep 3 - 9 (Emmi's First Week of School)
+_#me_
+- [x] Research Keto 
+  - [x] Find 3 breakfast meals
 
-- [x] Plan for Sep
-- [x] Reflect on Aug
+_#family/friends_
+- [x] Prep for Emmi's First Day of School
+  - [x] backpack essentials (extra clothes)
 
 _#career_
-- [x] Work on (Currenty 68%) [JavaScript | Pluralsight](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
-- [x] Complete [Lesson 1 - Design Thinking | Interaction Design Foundation](https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide?r=candi-lemoine) (est. 1 hr 19 mins)
-- [x] Start (Currently 58%) [UX Design Creating Wireframes](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
+- [ ] Complete [UX Research Unit 1 | Designlab](https://trydesignlab.com/course/units/1/?next=1)
 
 _#read_
-- [x] Read (Currently 11%) [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
-- [x] Finish [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only)
+- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
+- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
+- [x] Read (Currently 44%) [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) (non-fiction)
