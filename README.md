@@ -136,7 +136,7 @@ _#family/friends_
   - [x] backpack essentials (extra clothes)
 
 _#career_
-- [ ] Complete [UX Research Unit 1 | Designlab](https://trydesignlab.com/course/units/1/?next=1)
+- [x] Complete [UX Research Unit 1 | Designlab](https://trydesignlab.com/course/units/1/?next=1)
 
 _#read_
 - [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
