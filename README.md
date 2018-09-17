@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  9, 2018)
+Personal Goals (Updated: Sep  17, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,13 +9,13 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 27/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 14 fiction / 13 non-fiction
-  - 13 read /  14 listen
+Read more fiction this year -> [Goal: 29/35 books](https://www.goodreads.com/user_challenges/10348403) 
+  - 16 fiction / 13 non-fiction
+  - 14 read /  15 listen
   - 2 re-reads
 ---
 
-## Things I'll Do This Week | Week 37: Sep 10 - 16
+## Things I'll Do This Week | Week 38: Sep 17 - 23
 
 _#me_
 - [ ] Practice regular self-care routine
@@ -24,19 +24,23 @@ _#me_
   - [ ] Find 3 lunch meals
 
 _#family/friends_
-- [ ] Research destination vacation options
-- [ ] Attend Saturday Filipino fiesta
+- [ ] Plan family day at museum 
+- [ ] Plan Crazy Rich Asian movie night w/friend(s)
+
+_#world_
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
-- [ ] Complete [UX Research Unit 2 | Designlab](https://trydesignlab.com/course/units/2/?next=1)
 - [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
+- [ ] Complete [UX Research Unit 4 | Designlab](https://trydesignlab.com/course/units/4/?next=1)
 
 _#read_
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
+  - [ ] 25%
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
-  - [ ] 50%
-  - [ ] 65%
-- [ ] Listen [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)  
-- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
+  - [ ] 75%
+  - [ ] 90%
+  - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
   - [ ] 50%
   - [ ] 75%  
 
@@ -67,7 +71,7 @@ _#me_
 - [ ] Research Keto 
   - [x] Find 3 breakfast meals
   - [ ] Find 3 lunch meals
-  - [ ] Find 3 dinner meals
+  - [x] Find 3 dinner meals
   - [ ] Find 3 snacks meals
 
 _#family/friends_
@@ -84,8 +88,8 @@ _#world_
 _#career_
 - [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [ ] Complete Unit 1
-  - [ ] Complete Unit 2
+  - [x] Complete Unit 1
+  - [x] Complete Unit 2
   - [ ] Complete Unit 3
   - [ ] Complete Unit 4
   - [ ] Complete Unit 5
@@ -97,7 +101,8 @@ _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
 - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
 - [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
-- [ ] Listen [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)  
+- [x] Read [Always and Forever, Lara Jean](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)
+- [x] Listen [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) (fiction)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
 - [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
 --- 
@@ -126,19 +131,17 @@ _#read_
 
 
 --- 
-## Things I Did Last Week | Week 36: Sep 3 - 9 (Emmi's First Week of School)
-_#me_
-- [x] Research Keto 
-  - [x] Find 3 breakfast meals
+## Things I Did Last Week | Week 37: Sep 10 - 16 (Hurricane Florence Prep)
 
-_#family/friends_
-- [x] Prep for Emmi's First Day of School
-  - [x] backpack essentials (extra clothes)
+_#me_
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
+- [x] Research Keto 
+  - [x] Find 3 dinner meals
 
 _#career_
-- [x] Complete [UX Research Unit 1 | Designlab](https://trydesignlab.com/course/units/1/?next=1)
+- [x] Complete [UX Research Unit 2 | Designlab](https://trydesignlab.com/course/units/2/?next=1)
 
 _#read_
-- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
-- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
-- [x] Read (Currently 44%) [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) (non-fiction)
+- [x] Read [Always and Forever, Lara Jean](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) 
+- [x] Listen [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) 
