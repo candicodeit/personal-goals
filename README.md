@@ -40,7 +40,7 @@ _#read_
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
   - [ ] 75%
   - [ ] 90%
-  - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
+- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
   - [ ] 50%
   - [ ] 75%  
 
