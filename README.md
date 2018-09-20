@@ -32,14 +32,18 @@ _#world_
 
 _#career_
 - [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
-- [ ] Complete [UX Research Unit 4 | Designlab](https://trydesignlab.com/course/units/4/?next=1)
+  - [x] Lectures
+  - [ ] Empathy Map
+  - [ ] Storyboard Exercise
+  - [ ] Competitor Analysis (bonus)
+  - [ ] Framing the Problem 
 
 _#read_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
   - [ ] 25%
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (est. 10 hrs 40 mins)
-  - [ ] 75%
-  - [ ] 90%
+- [ ] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+  - [ ] 25%
+  - [ ] 75%  
 - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
   - [ ] 50%
   - [ ] 75%  
@@ -79,6 +83,7 @@ _#family/friends_
 - [ ] Plan family day at museum 
 - [ ] Plan Crazy Rich Asian movie night w/friend(s)
 - [ ] Plan for Yall Fest in Charleston, SC in Nov
+- [ ] Plan for attending Oct wedding in NC
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
