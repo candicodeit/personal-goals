@@ -40,7 +40,7 @@ _#read_
 - [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you) (fiction)
 - [x] Read [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (fiction)
 - [x] Listen [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) (fiction)
-- [ ] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+- [ ] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly) (fiction)
 
 ---
 
