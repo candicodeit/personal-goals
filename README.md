@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  17, 2018)
+Personal Goals (Updated: Sep  22, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -15,39 +15,42 @@ Read more fiction this year -> [Goal: 29/35 books](https://www.goodreads.com/use
   - 2 re-reads
 ---
 
-## Things I'll Do This Week | Week 38: Sep 17 - 23
+## Things I'll Do This Week | Week 39: Sep 24 - 30
+
+- [ ] Reflect on Sep
+- [ ] Plans for Oct
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Research Keto 
-  - [ ] Find 3 lunch meals
+- [ ] Intermittent fasting 16/8 for 7 days
 
 _#family/friends_
 - [ ] Plan family day at museum 
-- [ ] Plan Crazy Rich Asian movie night w/friend(s)
+- [ ] Plan for wedding in NC
 
 _#world_
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
+- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
 
 _#career_
 - [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
   - [x] Lectures
-  - [ ] Empathy Map
+  - [x] Empathy Map
   - [ ] Storyboard Exercise
   - [ ] Competitor Analysis (bonus)
   - [ ] Framing the Problem 
+- [ ] Complete [UX Research Unit 4 | Designlab](https://trydesignlab.com/course/units/4/?next=1)
+- [ ] Complete [UX Research Unit 5 | Designlab](https://trydesignlab.com/course/units/5/?next=1)
+- [ ] Complete [UX Research Unit 6 | Designlab](https://trydesignlab.com/course/units/6/?next=1)
+- [ ] Decide on taking [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
 
 _#read_
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
-  - [ ] 25%
 - [ ] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
-  - [ ] 25%
-  - [ ] 75%  
+  - [ ] 50% 
+  - [ ] 75%
 - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
   - [ ] 50%
   - [ ] 75%  
-
 ---
 
 ## Habits for This Month
@@ -72,26 +75,27 @@ _#me_
     - [ ] Quiet brunch/lunch w/reading
     - [ ] Massage/spa appt 
     - [ ] Dessert
-- [ ] Research Keto 
+- [x] Research Keto 
   - [x] Find 3 breakfast meals
-  - [ ] Find 3 lunch meals
+  - [x] Find 3 lunch meals
   - [x] Find 3 dinner meals
-  - [ ] Find 3 snacks meals
+- [ ] Intermittent fasting 16/8 for 7 days
+  - [x] week 38
+  - [ ] week 39
 
 _#family/friends_
 - [ ] Research destination vacation options 
 - [ ] Plan family day at museum 
-- [ ] Plan Crazy Rich Asian movie night w/friend(s)
+- [x] Plan Crazy Rich Asian movie night w/friend(s)
 - [ ] Plan for Yall Fest in Charleston, SC in Nov
 - [ ] Plan for attending Oct wedding in NC
 
 _#world_
-- [ ] Initiate a random act of kindness/volunteer for the month
+- [x] Initiate a random act of kindness/volunteer for the month
 - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
-- [ ] Finish [UX Design Creating Wireframes | Pluralsight](https://app.pluralsight.com/library/courses/ux-design-creating-wireframes)
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [x] Complete Unit 1
   - [x] Complete Unit 2
@@ -99,7 +103,7 @@ _#career_
   - [ ] Complete Unit 4
   - [ ] Complete Unit 5
   - [ ] Complete Unit 6
-- [ ] Plan [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) (Oct 5 / Nov 2)
+- [ ] Decide on [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) (Oct 5 / Nov 2)
   
 
 _#read_
@@ -117,7 +121,7 @@ _#me_
 
 _#family/friends_
 - [ ] Plan for wedding in NC
-- [ ] Research destination vacation options 
+- [ ] Research destination vacation options (Portland/NYC)
 - [ ] Plan for Yall Fest in Charleston, SC in Nov
 
 _#world_
@@ -136,17 +140,29 @@ _#read_
 
 
 --- 
-## Things I Did Last Week | Week 37: Sep 10 - 16 (Hurricane Florence Prep)
+## Things I Did Last Week | Week 38: Sep 17 - 23
 
 _#me_
 - [x] Practice regular self-care routine
   - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
 - [x] Research Keto 
-  - [x] Find 3 dinner meals
+  - [x] Find 3 lunch meals
+- [x] Intermittent fasting 16/8 for 7 days
+
+_#family/friends_
+- [x] Plan Crazy Rich Asian movie night w/friend(s)
+
+_#world_
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
 
 _#career_
-- [x] Complete [UX Research Unit 2 | Designlab](https://trydesignlab.com/course/units/2/?next=1)
+- [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
+  - [x] Lectures
+  - [x] Empathy Map
+  - [ ] Storyboard Exercise
+  - [ ] Competitor Analysis (bonus)
+  - [ ] Framing the Problem 
 
 _#read_
-- [x] Read [Always and Forever, Lara Jean](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) 
-- [x] Listen [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) 
+- [x] Read 25% [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+
