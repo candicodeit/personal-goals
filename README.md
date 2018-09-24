@@ -150,7 +150,6 @@ _#me_
 - [x] Intermittent fasting 16/8 for 7 days
 
 _#family/friends_
-- [ ] Plan family day at museum 
 - [x] Plan Crazy Rich Asian movie night w/friend(s)
 
 _#world_
