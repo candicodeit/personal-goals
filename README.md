@@ -23,7 +23,7 @@ Read more fiction this year -> [Goal: 29/35 books](https://www.goodreads.com/use
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Intermittent fasting 16/8 for 7 days
+- [x] Follow Keto
 
 _#family/friends_
 - [ ] Plan family day at museum 
@@ -45,9 +45,9 @@ _#career_
 - [ ] Decide on taking [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
 
 _#read_
-- [ ] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
-  - [ ] 50% 
-  - [ ] 75%
+- [x] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+  - [x] 50% 
+  - [x] 75%
 - [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
   - [ ] 50%
   - [ ] 75%  
@@ -79,9 +79,9 @@ _#me_
   - [x] Find 3 breakfast meals
   - [x] Find 3 lunch meals
   - [x] Find 3 dinner meals
-- [ ] Intermittent fasting 16/8 for 7 days
+- [x] Intermittent fasting 16/8 for 7 days
   - [x] week 38
-  - [ ] week 39
+
 
 _#family/friends_
 - [ ] Research destination vacation options 
