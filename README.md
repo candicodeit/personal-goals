@@ -10,6 +10,7 @@ I updated my formatting as the year progressed. I started in January with Overar
 
 # Reading Goal
 Read more fiction this year -> [Goal: 32/35 books](https://www.goodreads.com/user_challenges/10348403) 
+
 **6 books ahead of schedule**
   - 18 fiction / 14 non-fiction
   - 16 read /  16 listen
