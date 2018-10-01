@@ -89,7 +89,7 @@ _#career_
     - [ ] User Flows
   - [ ] Complete Unit 5
 
-  _#read_
+_#read_
 
   **Fiction**
 - [ ] Listen (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
