@@ -1,4 +1,4 @@
-Personal Goals (Updated: Sep  22, 2018)
+Personal Goals (Updated: Oct  1, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,48 +9,50 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 29/35 books](https://www.goodreads.com/user_challenges/10348403) 
-  - 16 fiction / 13 non-fiction
-  - 14 read /  15 listen
-  - 2 re-reads
+Read more fiction this year -> [Goal: 32/35 books](https://www.goodreads.com/user_challenges/10348403) 
+**6 books ahead of schedule**
+  - 18 fiction / 14 non-fiction
+  - 16 read /  16 listen
+  - 3 re-reads
 ---
 
-## Things I'll Do This Week | Week 39: Sep 24 - 30
+## Things I'll Do This Week | Week 40: Oct 1 - 7
 
-- [ ] Reflect on Sep
-- [ ] Plans for Oct
+- [ ] Figure out purge schedule
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [x] Follow Keto
+- [ ] Practice intermittent fast during week 40
+- [ ] Continue to practice Keto (week 3)
 
 _#family/friends_
-- [ ] Plan family day at museum 
-- [ ] Plan for wedding in NC
+- [ ] Plan for friends' wedding in NC (week 42)
+- [ ] Create clean-up schedule before father-in-law's visit (week 43)
 
-_#world_
-- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
+_#career_ 
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 3
+    - [ ] Storyboard Exercise
+    - [ ] Competitors Analysis [bonus]
+  - [ ] Complete Unit 4
+    - [ ] Brainstorm Exercise
+    - [ ] User Flows
+  - [ ] Complete Unit 5
 
-_#career_
-- [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
-  - [x] Lectures
-  - [x] Empathy Map
-  - [ ] Storyboard Exercise
-  - [ ] Competitor Analysis (bonus)
-  - [ ] Framing the Problem 
-- [ ] Complete [UX Research Unit 4 | Designlab](https://trydesignlab.com/course/units/4/?next=1)
-- [ ] Complete [UX Research Unit 5 | Designlab](https://trydesignlab.com/course/units/5/?next=1)
-- [ ] Complete [UX Research Unit 6 | Designlab](https://trydesignlab.com/course/units/6/?next=1)
-- [ ] Decide on taking [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
+  _#read_
 
-_#read_
-- [x] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
-  - [x] 50% 
-  - [x] 75%
-- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
-  - [ ] 50%
-  - [ ] 75%  
+  **Fiction**
+- [ ] Listen (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
+- [ ] Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 25%
+  - [ ] 75%
+
+**Non-fiction**
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+  - [ ] 25%
+  
 ---
 
 ## Habits for This Month
@@ -59,101 +61,104 @@ _#read_
   - Morning
   - Afternoon
   - 1 Evening task
-- Use Evo planner
-  - Evo Ritual: Personal Awareness
 - Estimate daily tasks
 - Morning and evening reading
   
 ---
 
-### Things I'll Do This Month: September 2018
+### Things I'll Do This Month: October 2018
+
+- [ ] Purge schedule (TBD)
+  - [ ] Indoor fridge
+  - [ ] Garage fridge
+  - [ ] Living room closet
+  - [ ] Bookshelves
+  - [ ] Master bathroom sink
+  - [ ] Master closet
+  - [ ] Emmi's room
+  - [ ] Kai's room 
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-  - [ ] Plan self-care half day (monthly)
-    - [ ] Quiet brunch/lunch w/reading
-    - [ ] Massage/spa appt 
-    - [ ] Dessert
-- [x] Research Keto 
-  - [x] Find 3 breakfast meals
-  - [x] Find 3 lunch meals
-  - [x] Find 3 dinner meals
-- [x] Intermittent fasting 16/8 for 7 days
-  - [x] week 38
-
+  - [ ] Plan 1 hr massage 
+- [ ] Practice intermittent fast during week 40, 42, and 44
+  - [ ] week 40
+  - [ ] week 42
+  - [ ] week 44
+- [ ] Continue to practice Keto
 
 _#family/friends_
-- [ ] Research destination vacation options 
-- [ ] Plan family day at museum 
-- [x] Plan Crazy Rich Asian movie night w/friend(s)
-- [ ] Plan for Yall Fest in Charleston, SC in Nov
-- [ ] Plan for attending Oct wedding in NC
-
-_#world_
-- [x] Initiate a random act of kindness/volunteer for the month
-- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
-
-_#career_
-- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [x] Complete Unit 1
-  - [x] Complete Unit 2
-  - [ ] Complete Unit 3
-  - [ ] Complete Unit 4
-  - [ ] Complete Unit 5
-  - [ ] Complete Unit 6
-- [ ] Decide on [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) (Oct 5 / Nov 2)
-  
-
-_#read_
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) (non-fiction)
-- [ ] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
-- [x] Listen [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) (fiction)
-- [x] Read [Always and Forever, Lara Jean](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) (est. 4 hrs 23 mins)
-- [x] Listen [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) (fiction)
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire) (fiction)
-- [ ] Read [Harry Potter and the Order of Phoenix](https://www.goodreads.com/book/show/17347381-harry-potter-and-the-order-of-the-phoenix) (fiction)
---- 
-
-### Things I'll Do Next Month: October 2018
-_#me_
-
-_#family/friends_
-- [ ] Plan for wedding in NC
-- [ ] Research destination vacation options (Portland/NYC)
-- [ ] Plan for Yall Fest in Charleston, SC in Nov
+- [ ] Plan playdate with god family
+- [ ] Plan lunch date with friend(s)
+- [ ] Plan for friends' wedding in NC (week 42)
+- [ ] Plan for mother-in-law's birthday (week 42)
+- [ ] Plan to visit in-laws in NC (week 43)
+- [ ] Create clean-up schedule before father-in-law's visit (week 43)
+- [ ] Pick dates for vacation to NYC
+- [ ] Plan for Yall Fest in Charleston, SC in Nov [tentative]
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
 - [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
+
+_#career_ 
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 3
+    - [ ] Storyboard Exercise
+    - [ ] Competitors Analysis [bonus]
+  - [ ] Complete Unit 4
+    - [ ] Brainstorm Exercise
+    - [ ] User Flows
+  - [ ] Complete Unit 5
+  - [ ] Complete Unit 6
+- [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
+
+_#read_
+
+**Fiction**
+- [ ] Listen (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
+- [ ] Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)
+- [ ] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
+
+**Non-fiction**
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
+- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
+--- 
+
+### Things I'll Do Next Month: November 2018
+_#me_
+
+_#family/friends_
+- [ ] Research activities for NYC
+- [ ] Plan for Yall Fest in Charleston, SC
+- [ ] Plan for Thanksgiving 
+
+_#world_
+- [ ] Initiate a random act of kindness/volunteer for the month
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) 
 
 _#career_
- - [ ] Finish [4-week course on UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
- - [ ] Decide about [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
+ - [ ] Start [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
   
 _#read_
-- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) (non-fiction)
-- [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) (non-fiction)
-- [ ] Read [Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/17347380-harry-potter-and-the-half-blood-prince) (fiction)
-
+**Non-fiction**
+- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) 
+- [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) 
 
 --- 
-## Things I Did Last Week | Week 38: Sep 17 - 23
+## Things I Did Last Week | Week 39: Sep 24 - 30
+
+- [x] Reflect on Sep
+- [x] Plans for Oct
 
 _#me_
 - [x] Practice regular self-care routine
   - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [x] Research Keto 
-  - [x] Find 3 lunch meals
-- [x] Intermittent fasting 16/8 for 7 days
-
-_#family/friends_
-- [x] Plan Crazy Rich Asian movie night w/friend(s)
-
-_#world_
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament
+- [x] Follow Keto
 
 _#career_
 - [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
@@ -161,8 +166,12 @@ _#career_
   - [x] Empathy Map
   - [ ] Storyboard Exercise
   - [ ] Competitor Analysis (bonus)
-  - [ ] Framing the Problem 
+  - [x] Framing the Problem 
+- [x] Decide on taking [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) in Nov
 
 _#read_
-- [x] Read 25% [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+- [x] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
+- [x] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
+- [x] Re-listened [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
+- [x] Re-listened (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
 
