@@ -3,6 +3,16 @@ Personal Goals | What I Did - October 2018
 
 ### Monthly Plan
 
+- [ ] Purge schedule (TBD)
+  - [ ] Indoor fridge
+  - [ ] Garage fridge
+  - [ ] Living room closet
+  - [ ] Bookshelves
+  - [ ] Master bathroom sink
+  - [ ] Master closet
+  - [ ] Emmi's room
+  - [ ] Kai's room 
+
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
@@ -56,6 +66,8 @@ _#read_
 ---
 
 ## Week 40: Oct 1 - 7
+
+- [ ] Figure out purge schedule
 
 _#me_
 - [ ] Practice regular self-care routine
