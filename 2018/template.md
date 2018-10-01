@@ -1,6 +1,8 @@
 Personal Goals | What I Did - [month] 2018
 ==============
 
+time allotment: 2.5 hrs
+
 ### Monthly Plan
 _#me_
 
