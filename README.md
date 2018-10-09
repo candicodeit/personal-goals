@@ -1,4 +1,4 @@
-Personal Goals (Updated: Oct  1, 2018)
+Personal Goals (Updated: Oct  9, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,49 +9,46 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 32/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 33/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**6 books ahead of schedule**
-  - 18 fiction / 14 non-fiction
-  - 16 read /  16 listen
-  - 3 re-reads
+**67 books ahead of schedule**
+  - 19 fiction / 14 non-fiction
+  - 16 read /  17 listen
+  - 4 re-reads
 ---
 
-## Things I'll Do This Week | Week 40: Oct 1 - 7
-
-- [ ] Figure out purge schedule
+## Things I'll Do This Week | Week 41: Oct 8 - 14 
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Practice intermittent fast during week 40
-- [ ] Continue to practice Keto (week 3)
+- [ ] Continue to practice Keto (week 4)
 
 _#family/friends_
 - [ ] Plan for friends' wedding in NC (week 42)
 - [ ] Create clean-up schedule before father-in-law's visit (week 43)
+- [ ] Plan for mother-in-law's birthday (week 42)
+- [ ] Plan to visit in-laws in NC (week 43)
 
-_#career_ 
+_#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Complete Unit 3
     - [ ] Storyboard Exercise
     - [ ] Competitors Analysis [bonus]
   - [ ] Complete Unit 4
-    - [ ] Brainstorm Exercise
     - [ ] User Flows
   - [ ] Complete Unit 5
 
-  _#read_
+_#read_
 
-  **Fiction**
-- [ ] Listen (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
-- [ ] Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)
+**Fiction**
+- [ ] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-  - [ ] 25%
+  - [ ] 50%
   - [ ] 75%
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
   - [ ] 25%
   
 ---
@@ -151,28 +148,29 @@ _#read_
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) 
 
 --- 
-## Things I Did Last Week | Week 39: Sep 24 - 30
-
-- [x] Reflect on Sep
-- [x] Plans for Oct
+## Things I Did Last Week | ## Week 40: Oct 1 - 7
 
 _#me_
 - [x] Practice regular self-care routine
   - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [x] Follow Keto
+- [x] Practice intermittent fast during week 40
+- [x] Continue to practice Keto (week 3)
 
-_#career_
-- [ ] Complete [UX Research Unit 3 | Designlab](https://trydesignlab.com/course/units/3/?next=1)
-  - [x] Lectures
-  - [x] Empathy Map
-  - [ ] Storyboard Exercise
-  - [ ] Competitor Analysis (bonus)
-  - [x] Framing the Problem 
-- [x] Decide on taking [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) in Nov
+_#career_ 
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 3
+    - [ ] Storyboard Exercise
+    - [ ] (Currently in progress) Competitors Analysis [bonus]
+  - [ ] Complete Unit 4
+    - [x] Brainstorm Exercise
+    - [ ] User Flows
+
 
 _#read_
-- [x] Read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly)
-- [x] Read [13 Things Mentally Strong People Don't Do](https://www.goodreads.com/book/show/24903925-13-things-mentally-strong-people-don-t-do) 
-- [x] Re-listened [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before)
-- [x] Re-listened (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you)
 
+  **Fiction**
+- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
+- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [x] 25%
+  - [ ] 75%
+- [x] Listen (Currently 80%) [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
