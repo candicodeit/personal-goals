@@ -98,18 +98,5 @@ _#read_
 
 ---
 
-## Habits for This Month
-- Plan out days with: 
-  - Plan the day
-  - Morning
-  - Afternoon
-  - 1 Evening task
-- Use Evo planner
-  - Evo Ritual: Passion
-- Estimate daily tasks
-- Morning and evening reading
-
----
-
 
 # [month] Reflection
