@@ -1,4 +1,4 @@
-Personal Goals (Updated: Oct  9, 2018)
+Personal Goals (Updated: Oct  15, 2018)
 ==============
 
 Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
@@ -9,47 +9,50 @@ I updated my formatting as the year progressed. I started in January with Overar
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 33/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 34/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**67 books ahead of schedule**
-  - 19 fiction / 14 non-fiction
-  - 16 read /  17 listen
+**8 books ahead of schedule**
+  - 20 fiction / 14 non-fiction
+  - 16 read /  18 listen
   - 4 re-reads
 ---
 
-## Things I'll Do This Week | Week 41: Oct 8 - 14 
+## Things I'll Do This Week | Week 42: Oct 15 - 21 (NC Wedding / MIL Birthday)
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Continue to practice Keto (week 4)
+- [ ] Practice intermittent fast during week 42
+- [ ] Continue to practice Keto (week 5)
 
 _#family/friends_
-- [ ] Plan for friends' wedding in NC (week 42)
-- [ ] Create clean-up schedule before father-in-law's visit (week 43)
 - [ ] Plan for mother-in-law's birthday (week 42)
-- [ ] Plan to visit in-laws in NC (week 43)
+- [ ] Prep for wedding 
+  - [ ] Packing
+  - [ ] Schedule departure 
+
+_#world_
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament 
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] 1-on-1 interviews [bonus]
   - [ ] Complete Unit 3
     - [ ] Storyboard Exercise
-    - [ ] Competitors Analysis [bonus]
   - [ ] Complete Unit 4
     - [ ] User Flows
-  - [ ] Complete Unit 5
-
+    
 _#read_
 
 **Fiction**
-- [ ] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 50%
   - [ ] 75%
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-  - [ ] 25%
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+  - [ ] 75%
+- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
   
 ---
 
@@ -81,7 +84,7 @@ _#me_
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
   - [ ] Plan 1 hr massage 
 - [ ] Practice intermittent fast during week 40, 42, and 44
-  - [ ] week 40
+  - [x] week 40
   - [ ] week 42
   - [ ] week 44
 - [ ] Continue to practice Keto
@@ -105,9 +108,9 @@ _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Complete Unit 3
     - [ ] Storyboard Exercise
-    - [ ] Competitors Analysis [bonus]
+    - [x] Competitors Analysis [bonus]
   - [ ] Complete Unit 4
-    - [ ] Brainstorm Exercise
+    - [x] Brainstorm Exercise
     - [ ] User Flows
   - [ ] Complete Unit 5
   - [ ] Complete Unit 6
@@ -116,9 +119,8 @@ _#career_
 _#read_
 
 **Fiction**
-- [ ] Listen (Currently 83%) [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
-- [ ] Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)
-- [ ] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
+- [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 
@@ -148,29 +150,25 @@ _#read_
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) 
 
 --- 
-## Things I Did Last Week | ## Week 40: Oct 1 - 7
+## Things I Did Last Week | Week 41: Oct 8 - 14 
 
 _#me_
 - [x] Practice regular self-care routine
   - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [x] Practice intermittent fast during week 40
-- [x] Continue to practice Keto (week 3)
+- [x] Continue to practice Keto (week 4)
 
-_#career_ 
+_#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Complete Unit 3
     - [ ] Storyboard Exercise
-    - [ ] (Currently in progress) Competitors Analysis [bonus]
-  - [ ] Complete Unit 4
-    - [x] Brainstorm Exercise
-    - [ ] User Flows
-
+    - [x] Competitors Analysis [bonus]
 
 _#read_
 
-  **Fiction**
-- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
-- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-  - [x] 25%
-  - [ ] 75%
-- [x] Listen (Currently 80%) [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+**Fiction**
+- [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+- [x] Read (Currently 46%) [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  
+**Non-Fiction**
+- [x] Listen (Currently 79%) [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+  
