@@ -1,9 +1,22 @@
 Personal Goals (Updated: Oct  15, 2018)
 ==============
 
-Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/)
+Personal goals made open source. 
 
-I updated my formatting as the year progressed. I started in January with Overarching Goals and switched to Personal Foursquare starting in August. I switched to the Foursquare, since I've heard it helps sort through your many tasks. It helps you focus on ones that get you towards your goal. Reading is also really important to me, regardless if it's fiction or non-fiction. It's great for both work and personal reasons. I can get lost in a fictional world to give my brain a break from things through various concepts and workflows. I also still enjoy reading things relevant to work whether it is about working with different people or understanding different design techniques. 
+# Table of Contents
+1. [About My Goals](https://github.com/candicodeit/personal-goals/blob/master/about.md)
+2. [Personal Foursquare](https://github.com/candicodeit/personal-goals/tree/master#personal-foursquare)
+3. [Reading Goals](https://github.com/candicodeit/personal-goals/tree/master#reading-goal)
+    * [Favorite Professional Books](https://github.com/candicodeit/personal-goals/blob/master/books.md)
+4. [Things I'll Do This Week](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week--week-41-oct-8---14)
+5. [Things I Did Last Week](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week--week-41-oct-8---14)
+6. [Things I'll Do This Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week--week-41-oct-8---14)
+7. [Things I'll Do Next Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week--week-41-oct-8---14)
+8. [Past Months' Goals](https://github.com/candicodeit/personal-goals/tree/master/2018)
+9. [Strength Finders Certificate](https://github.com/candicodeit/personal-goals/blob/master/strength-finders_2.0/StrengthFinders%20-%20Certificate.pdf)
+10. [General Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
+11. [Backlog for UX and Front End Development Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
+
 
 # Personal Foursquare
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
