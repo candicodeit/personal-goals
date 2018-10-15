@@ -1,0 +1,6 @@
+
+Personal goals made open source. Inspired by [Una Kravets](https://una.im/personal-goals-guide/).
+
+I've always been a planner ever since high school. I started out using traditional planners but now my goals and different parts of my life make it difficult to use a traditional planner. I started using [Leuchttrum1917](https://www.leuchtturm1917.us/notebook-medium-a5-hardcover-249-numbered-pages.html) and bullet journalling for goal setting and planning. As of 2018, I've used the [4-part Yearly Theme method](https://inkandvolt.com/2017/12/your-2018-success-strategy-yearly-planning-part-4/) twice. It has now morphed into using my GitHub account for Yearly, Monthly, and Weekly planning, since it says time on writing it all out. 
+
+I started in January with Overarching Goals and switched to Personal Foursquare starting in August. I switched to the Foursquare, since I've heard it helps sort through your many tasks. It helps you focus on ones that get you towards your goal. Reading is also really important to me, regardless if it's fiction or non-fiction. It's great for both work and personal reasons. I can get lost in a fictional world to give my brain a break from things through various concepts and workflows. I also still enjoy reading things relevant to work whether it is about working with different people or understanding different design techniques.
