@@ -69,17 +69,6 @@ _#read_
   
 ---
 
-## Habits for This Month
-- Plan out days with: 
-  - Plan the day
-  - Morning
-  - Afternoon
-  - 1 Evening task
-- Estimate daily tasks
-- Morning and evening reading
-  
----
-
 ### Things I'll Do This Month: October 2018
 
 - [ ] Purge schedule (TBD)
