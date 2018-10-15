@@ -55,8 +55,8 @@ _#read_
 **Fiction**
 - [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
 - [ ] ~Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)~
-- [ ] Listen (Currently 80%) [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
-- [ ] Read (Currently 25%) [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 
 **Non-fiction**
@@ -108,9 +108,9 @@ _#read_
 ## Week 41: Oct 8 - 14 
 
 _#me_
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Continue to practice Keto (week 4)
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
+- [x] Continue to practice Keto (week 4)
 
 _#family/friends_
 - [ ] Plan for friends' wedding in NC (week 42)
@@ -122,7 +122,7 @@ _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Complete Unit 3
     - [ ] Storyboard Exercise
-    - [ ] Competitors Analysis [bonus]
+    - [x] Competitors Analysis [bonus]
   - [ ] Complete Unit 4
     - [ ] User Flows
   - [ ] Complete Unit 5
@@ -130,14 +130,15 @@ _#career_
 _#read_
 
 **Fiction**
-- [ ] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
-- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
+- [ ] Read (Currently 46%) [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 50%
   - [ ] 75%
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
   - [ ] 25%
+- [x] Listen (Currently 79%) [Grit](https://www.goodreads.com/book/show/27213329-grit)    
 
 ---
 
@@ -159,13 +160,19 @@ _#world_
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament 
 
 _#career_
-- [ ] Discuss school project with others for possible real world application 
-
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] 1-on-1 interviews [bonus]
+  - [ ] Complete Unit 3
+    - [ ] Storyboard Exercise
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+    
 _#read_
 
 **Fiction**
-- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-  - [ ] 40%
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 50%
+  - [ ] 75%
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
@@ -196,11 +203,12 @@ _none so we can focus on cleaning the house_
 
 **Fiction**
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-  - [ ] 60%
+- [ ] 20%
+- [ ] 40%
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
-  - [ ] 75%
+  - [ ] 20%
 - [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
 
 ---
