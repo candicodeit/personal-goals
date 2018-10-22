@@ -15,7 +15,7 @@ Personal goals made open source.
 8. [Past Months' Goals](https://github.com/candicodeit/personal-goals/tree/master/2018)
 9. [Strength Finders Certificate](https://github.com/candicodeit/personal-goals/blob/master/strength-finders_2.0/StrengthFinders%20-%20Certificate.pdf)
 10. [General Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
-11. [Backlog for UX and Front End Development Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
+11. [Backlog for UX/Dev Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
 
 
 # Personal Foursquare
