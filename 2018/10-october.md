@@ -28,8 +28,9 @@ _#family/friends_
 - [ ] Plan lunch date with friend(s)
 - [x] Plan for friends' wedding in NC (week 42)
 - [ ] Plan to visit in-laws in NC (week 43)
-- [ ] Pick dates for vacation to NYC
 - [ ] Plan for Nov day
+- [ ] Plan for Homearama
+- [ ] Prep for baby shower
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
@@ -226,9 +227,10 @@ _#me_
 - [ ] Continue to practice Keto (week 7)
 
 _#family/friends_
-- [ ] Pick dates for vacation to NYC
 - [ ] Plan for Nov trip [tentative]
 - [ ] Help friends with packing
+- [ ] Plan for Homearama
+- [ ] Prep for baby shower
 
 _#career_
 - [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
