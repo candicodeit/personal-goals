@@ -3,9 +3,11 @@ Personal Goals | What I Did - November 2018
 
 ### Monthly Plan
 _#me_
+- [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf) 
 
 _#family/friends_
-- [ ] Research activities for NYC
+- [ ] Pick dates for vacation to Boston
+- [ ] Research activities for Boston
 - [ ] Plan for Thanksgiving 
 - [ ] Prep for Husband's Birthday
 
@@ -15,6 +17,7 @@ _#world_
 
 _#career_
  - [ ] Start [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
+ - [ ] Review Professional Development Plan
   
 _#read_
 **Fiction**
@@ -22,15 +25,17 @@ _#read_
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 
 **Non-fiction**
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
 - [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) 
 - [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) 
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+
 
 
 ---
 
 ## Week 45: Nov 5 - 11
 _#me_
+- [ ] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf) 
 
 _#family/friends_
 
@@ -46,6 +51,7 @@ _#read_
 
 ## Week 46: Nov 12 - 18
 _#me_
+- [ ] Start [reflecting on 2018 with the people in your life](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week2.pdf)
 
 _#family/friends_
 
@@ -62,6 +68,7 @@ _#read_
 
 ## Week 47: Nov 19 - 25
 _#me_
+- [ ] Start [reflecting on 2019 with the focus areas](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week3.pdf)
 
 _#family/friends_
 
@@ -80,6 +87,8 @@ _#read_
 - [ ] Plans for Dec
 
 _#me_
+- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
+
 
 _#family/friends_
 
