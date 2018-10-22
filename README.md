@@ -5,17 +5,19 @@ Personal goals made open source.
 
 # Table of Contents
 1. [About My Goals](https://github.com/candicodeit/personal-goals/blob/master/about.md)
-2. [Personal Foursquare](https://github.com/candicodeit/personal-goals/tree/master#personal-foursquare)
-3. [Reading Goals](https://github.com/candicodeit/personal-goals/tree/master#reading-goal)
-    * [Favorite Professional Books](https://github.com/candicodeit/personal-goals/blob/master/books.md)
-4. [Things I'll Do This Week](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week)
-5. [Things I Did Last Week](https://github.com/candicodeit/personal-goals/tree/master#things-i-did-last-week)
-6. [Things I'll Do This Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-month)
-7. [Things I'll Do Next Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-next-month)
-8. [Past Months' Goals](https://github.com/candicodeit/personal-goals/tree/master/2018)
-9. [Strength Finders Certificate](https://github.com/candicodeit/personal-goals/blob/master/strength-finders_2.0/StrengthFinders%20-%20Certificate.pdf)
-10. [General Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
-11. [Backlog for UX/Dev Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
+   * [Personal Foursquare](https://github.com/candicodeit/personal-goals/tree/master#personal-foursquare)
+   * [Strength Finders Certificate](https://github.com/candicodeit/personal-goals/blob/master/strength-finders_2.0/StrengthFinders%20-%20Certificate.pdf)
+   * [Reading Goals](https://github.com/candicodeit/personal-goals/tree/master#reading-goal)
+      * [Favorite Professional Books](https://github.com/candicodeit/personal-goals/blob/master/books.md)
+2. Things I'll Do:
+   * [This Week](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-week)
+   * [This Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-month)
+   * [Next Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-next-month)
+3. Reflect on:   
+   * [Last Week](https://github.com/candicodeit/personal-goals/tree/master#things-i-did-last-week)
+   * [Past Months](https://github.com/candicodeit/personal-goals/tree/master/2018)
+4. [Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
+   * [UX/Dev Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
 
 
 # Personal Foursquare
