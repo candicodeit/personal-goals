@@ -18,33 +18,30 @@ _#me_
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
   - [ ] Plan 1 hr massage 
 - [ ] Practice intermittent fast during week 40, 42, and 44
-  - [ ] week 40
-  - [ ] week 42
+  - [x] week 40
+  - [x] week 42
   - [ ] week 44
 - [ ] Continue to practice Keto
 
 _#family/friends_
 - [ ] Plan playdate with god family
 - [ ] Plan lunch date with friend(s)
-- [ ] Plan for friends' wedding in NC (week 42)
-- [ ] Plan for mother-in-law's birthday (week 42)
+- [x] Plan for friends' wedding in NC (week 42)
 - [ ] Plan to visit in-laws in NC (week 43)
-- [ ] Create clean-up schedule before father-in-law's visit (week 43)
 - [ ] Pick dates for vacation to NYC
-- [ ] Plan for Yall Fest in Charleston, SC in Nov [tentative]
+- [ ] Plan for Nov day
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
-- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
 
 _#career_ 
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [ ] Complete Unit 3
-    - [ ] Storyboard Exercise
-    - [ ] Competitors Analysis [bonus]
+  - [x] Complete Unit 3
+    - [x] Storyboard Exercise
+    - [x] Competitors Analysis [bonus]
   - [ ] Complete Unit 4
-    - [ ] Brainstorm Exercise
+    - [x] Brainstorm Exercise
     - [ ] User Flows
   - [ ] Complete Unit 5
   - [ ] Complete Unit 6
@@ -147,23 +144,23 @@ _#read_
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Practice intermittent fast during week 42
-- [ ] Continue to practice Keto (week 5)
+- [x] Practice intermittent fast during week 42
+- [x] Continue to practice Keto (week 5)
 
 _#family/friends_
 - [ ] Plan for mother-in-law's birthday (week 42)
-- [ ] Prep for wedding 
-  - [ ] Packing
-  - [ ] Schedule departure 
+- [x] Prep for wedding 
+  - [x] Packing
+  - [x] Schedule departure 
 
 _#world_
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament 
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament 
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] 1-on-1 interviews [bonus]
-  - [ ] Complete Unit 3
-    - [ ] Storyboard Exercise
+  - [x] Complete Unit 3
+    - [x] Storyboard Exercise
   - [ ] Complete Unit 4
     - [ ] User Flows
     
@@ -171,7 +168,7 @@ _#read_
 
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-  - [ ] 50%
+  - [x] 50%
   - [ ] 75%
 
 **Non-fiction**
@@ -181,7 +178,7 @@ _#read_
   
 ---
 
-## Week 43: Oct 22 - 28 (Visit in-laws / FIL visiting)
+## Week 43: Oct 22 - 28 (Visit in-laws)
 
 _#me_
 - [ ] Practice regular self-care routine
@@ -192,19 +189,23 @@ _#family/friends_
 - [ ] Prep for visit 
   - [ ] Packing
   - [ ] Schedule departure 
-- [ ] Prep for FIL visiting 
-  - [ ] Execute cleaning plan
+  - [ ] Birthday present
 
 _#world_
-- [ ] Plan for donating copies of Jessica Hische's children's book to school and/or library, [Tomorrow I'll Be Brave](https://smile.amazon.com/gp/product/1524787019/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&ie=UTF8&linkCode=sl1&linkId=14ae1dab4dd3b2f37f22cb83f7828a46&tag=jesshisc-20)
+- [ ] Evaluate Roc Solid's volunteer system
 
 _#career_
-_none so we can focus on cleaning the house_
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] 1-on-1 interviews [bonus]
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+- [ ] Evaluate Professional Development Plan
 
 **Fiction**
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 75%
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 - [ ] 20%
-- [ ] 40%
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
@@ -226,7 +227,8 @@ _#me_
 
 _#family/friends_
 - [ ] Pick dates for vacation to NYC
-- [ ] Plan for Yall Fest in Charleston, SC in Nov [tentative]
+- [ ] Plan for Nov trip [tentative]
+- [ ] Help friends with packing
 
 _#career_
 - [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
@@ -236,21 +238,11 @@ _#read_
 **Fiction**
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
   - [ ] 80%
-
+  
 **Non-fiction**
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
-
----
-
-
-## Habits for This Month
-- Plan out days with: 
-  - Plan the day
-  - Morning
-  - Afternoon
-  - 1 Evening task
-- Estimate daily tasks
-- Morning and evening reading
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+  - [ ] 20%
+- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)    
 
 ---
 
