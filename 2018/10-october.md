@@ -231,6 +231,7 @@ _#family/friends_
 - [ ] Help friends with packing
 - [ ] Plan for Homearama
 - [ ] Prep for baby shower
+- [ ] Cook for Halloween party 
 
 _#career_
 - [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
