@@ -24,11 +24,11 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 34/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 36/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
 **8 books ahead of schedule**
-  - 20 fiction / 14 non-fiction
-  - 16 read /  18 listen
+  - 20 fiction / 16 non-fiction
+  - 16 read /  20 listen
   - 4 re-reads
 ---
 
@@ -65,7 +65,8 @@ _#career_
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
   
 ---
 
@@ -99,11 +100,11 @@ _#family/friends_
 - [ ] Plan for mother-in-law's birthday (week 42)
 - [ ] Plan to visit in-laws in NC (week 43)
 - [ ] Create clean-up schedule before father-in-law's visit (week 43)
-- [ ] Pick dates for vacation to NYC
+- [ ] Pick dates for vacation to Boston
 - [ ] Plan for Nov trip [tentative]
 
 _#world_
-- [ ] Initiate a random act of kindness/volunteer for the month
+- [x] Initiate a random act of kindness/volunteer for the month - Bought a book for a school library
 - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
 
 _#career_ 
@@ -129,6 +130,7 @@ _#read_
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
+- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 --- 
 
 ## Things I'll Do Next Month
