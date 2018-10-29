@@ -27,7 +27,7 @@ _#family/friends_
 - [ ] Plan playdate with god family
 - [ ] Plan lunch date with friend(s)
 - [x] Plan for friends' wedding in NC (week 42)
-- [ ] Plan to visit in-laws in NC (week 43)
+- [x] Plan to visit in-laws in NC (week 43)
 - [ ] Plan for Nov day
 - [ ] Plan for Homearama
 - [ ] Prep for baby shower
@@ -59,7 +59,7 @@ _#read_
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
+- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
 
 ---
 
@@ -185,12 +185,13 @@ _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
 - [ ] Continue to practice Keto (week 6)
+  - note: had a mini bundt cake for my MIL's birthday and Sunday, ate fast food on the way home and pizza for dinner.
 
 _#family/friends_
-- [ ] Prep for visit 
-  - [ ] Packing
-  - [ ] Schedule departure 
-  - [ ] Birthday present
+- [x] Prep for visit 
+  - [x] Packing
+  - [x] Schedule departure 
+  - [x] Birthday present
 
 _#world_
 - [ ] Evaluate Roc Solid's volunteer system
@@ -203,7 +204,7 @@ _#career_
 - [ ] Evaluate Professional Development Plan
 
 **Fiction**
-- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 - [ ] 20%
@@ -211,7 +212,8 @@ _#career_
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 
 ---
 
@@ -228,24 +230,29 @@ _#me_
 
 _#family/friends_
 - [ ] Plan for Nov trip [tentative]
+- [ ] Cook for Halloween party 
 - [ ] Help friends with packing
 - [ ] Plan for Homearama
 - [ ] Prep for baby shower
-- [ ] Cook for Halloween party 
 
 _#career_
-- [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] 1-on-1 interviews [bonus]
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+- [ ] Evaluate Professional Development Plan
 
 _#read_
 
 **Fiction**
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 75%
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-  - [ ] 80%
+  - [ ] 20%
   
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)    
 
 ---
 
