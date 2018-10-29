@@ -3,19 +3,17 @@
 
 # Table of Contents
 1. [Reading](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#reading)
-    - Fiction
-    - Non-Fiction
+    - [Fiction](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#fiction)
+    - [Non-Fiction](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#non-fiction)
 2. [Me](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#me)
-  - Health
-  - Self-care
+    - [Health](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#health)
+    - [Self-care](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#self-care)
 3. [Family/Friends](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#familyfriends) 
-  - Friends
-  - Family
 4. [World](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#world)
 5. [Career](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#career)
-  - Learning
-  - Practice
-  - Work Improvements
+    - [Learning](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#learning)
+    - [Practice](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#practice)
+    - [Work Improvements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#work-improvements)
 
 
 ## Reading
