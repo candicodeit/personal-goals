@@ -2,24 +2,24 @@
 ==============
 
 # Table of Contents
-1. Reading
+1. [Reading](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#reading)
     - Fiction
     - Non-Fiction
-2. Me
+2. [Me](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#me)
   - Health
   - Self-care
-3. Family/Friends 
+3. [Family/Friends](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#familyfriends) 
   - Friends
   - Family
-4. World 
-5. Career
+4. [World](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#world)
+5. [Career](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md#career)
   - Learning
   - Practice
   - Work Improvements
 
 
 ## Reading
-**Fiction**
+### Fiction
 (read)
 - [Always and Forever](https://www.goodreads.com/book/show/35247769-always-and-forever-lara-jean) 
 - [The Cruel Prince](https://www.goodreads.com/book/show/26032825-the-cruel-prince)
@@ -42,7 +42,7 @@
 - (2x) [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) 
 - (2x) [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you) 
 
-**Non-Fiction**
+### Non-Fiction
 (read)
 - [Conversational Design](https://abookapart.com/products/conversational-design)
 - [DesignOps Handbook](https://www.designbetter.co/designops-handbook/) 
@@ -66,7 +66,7 @@
 - personal 4square
 - reflect every month 
 
-**Health**
+### Health
 - Created a list of instant pot recipes for meal planning
 - Meal plan for in-laws visit (Instant Pot recipes)
 - Meal prep once a week
@@ -79,12 +79,12 @@
 - Practice intermittent fasting
 - Practice Keto
 
-**Self-Care**
+### Self-Care
 - Practice regular self-care routine
   - Plan 1 hr uninterrupted reading time at cafe (weekly)
   
 ## Family/Friends
-**Friends**
+### Friends
   - Plan monthly friend movie night
   - Schedule a DMM reunion hangout
   - Network with folks from AEADC
@@ -92,7 +92,7 @@
     - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
   - Plan Crazy Rich Asian movie night w/friend(s)
 
-**Family**
+### Family
   - Enjoy family vacation (Feb 10-16 - SC/NC)
     - 3 full games of Phase 10
     - get mother-in-law to watch past Marvel movies
@@ -130,7 +130,7 @@
   - Golf Tournament (Red Wing Golf Course)  
   
 ## Career
-**Learning** 
+### Learning
 - Complete Interaction Design Foundation - User Research Course
 - Start Udemy course on [CSS Grid](https://github.com/candicodeit/udemy/projects/1)
 - Complete StrengthFinders 2.0 assessment and Builder Profile
@@ -142,7 +142,7 @@
   - Complete Unit 1
   - Complete Unit 2
 
-**Practice**
+### Practice
 - Sketched/brainstormed ideas for Goodreads app improvements (just for fun)
 - Build a blog on [GitHub Pages](https://candicodeit.github.io/githubpages/)
 - Wrote [first blog post](https://candicodeit.github.io/githubpages/week-of-learning) on my site
@@ -151,7 +151,7 @@
 - Write a blog post about [talking with upper management](http://candicode.it/upper-management)
 - Transferred domain to GitHub pages: [candicode.it](http://candicode.it/)
 
-**Work Improvements**
+### Work Improvements
 - Create wireframe for redesigned Dealer Gallery Search and Page
 - Work on A/B testing winner implementation plan
 - Create ticket templates for A/B Tests
@@ -162,5 +162,4 @@
 
  
 *note: last update for sep*
-
 
