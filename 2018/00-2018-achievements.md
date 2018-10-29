@@ -61,11 +61,12 @@
 - [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 
 ## Me
-- personal 4square
-- reflect every month 
+- Create personal 4square
+- Reflect every month 
+- Redesign my monthly/weekly planning
 
 ### Health
-- Created a list of instant pot recipes for meal planning
+- Create a list of instant pot recipes for meal planning
 - Meal plan for in-laws visit (Instant Pot recipes)
 - Meal prep once a week
 - Find 10 staple weeknight meals
@@ -141,13 +142,13 @@
   - Complete Unit 2
 
 ### Practice
-- Sketched/brainstormed ideas for Goodreads app improvements (just for fun)
+- Sketch/brainstorm ideas for Goodreads app improvements (just for fun)
 - Build a blog on [GitHub Pages](https://candicodeit.github.io/githubpages/)
-- Wrote [first blog post](https://candicodeit.github.io/githubpages/week-of-learning) on my site
+- Write [my first blog post](https://candicodeit.github.io/githubpages/week-of-learning) on my site
 - Work on coaching homework from Lara about ideal job description
 - Write a blog post about [Top 5 Remote Spots](http://candicodeit.tumblr.com/post/170589018441/my-top-remote-work-spots-in-hampton-roads)
 - Write a blog post about [talking with upper management](http://candicode.it/upper-management)
-- Transferred domain to GitHub pages: [candicode.it](http://candicode.it/)
+- Transfer domain to GitHub pages: [candicode.it](http://candicode.it/)
 
 ### Work Improvements
 - Create wireframe for redesigned Dealer Gallery Search and Page
