@@ -33,21 +33,23 @@ Read more fiction this year -> [Goal: 36/35 books](https://www.goodreads.com/use
 ---
 
 ## Things I'll Do This Week 
-### Week 43: Oct 22 - 28 (Visit in-laws)
+### Week 44: Oct 29 - Nov 4 
+
+- [ ] Reflect on Oct
+- [ ] Plans for Nov
 
 _#me_
 - [ ] Practice regular self-care routine
   - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Continue to practice Keto (week 6)
+- [ ] Practice intermittent fast during week 44
+- [ ] Continue to practice Keto (week 7)
 
 _#family/friends_
-- [ ] Prep for visit 
-  - [ ] Packing
-  - [ ] Schedule departure 
-  - [ ] Birthday present
-
-_#world_
-- [ ] Evaluate Roc Solid's volunteer system
+- [ ] Plan for Nov trip [tentative]
+- [ ] Help friends with packing
+- [ ] Plan for Homearama
+- [ ] Prep for baby shower
+- [ ] Cook for Halloween party 
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -56,17 +58,17 @@ _#career_
     - [ ] User Flows
 - [ ] Evaluate Professional Development Plan
 
+_#read_
+
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
 - [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-- [ ] 20%
-
+  - [ ] 20%
+  
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
-- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
-- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
   
 ---
 
@@ -97,9 +99,8 @@ _#family/friends_
 - [ ] Plan playdate with god family
 - [ ] Plan lunch date with friend(s)
 - [x] Plan for friends' wedding in NC (week 42)
-- [ ] Plan for mother-in-law's birthday (week 42)
-- [ ] Plan to visit in-laws in NC (week 43)
-- [ ] Create clean-up schedule before father-in-law's visit (week 43)
+- [x] Plan for mother-in-law's birthday (week 42)
+- [x] Plan to visit in-laws in NC (week 43)
 - [ ] Pick dates for vacation to Boston
 - [ ] Plan for Nov trip [tentative]
 
@@ -129,7 +130,7 @@ _#read_
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-- [ ] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
+- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
 - [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 --- 
 
@@ -164,26 +165,38 @@ _#read_
 
 --- 
 ## Things I Did Last Week 
-### Week 42: Oct 15 - 21 (NC Wedding / MIL Birthday)
+### Week 43: Oct 22 - 28 (Visit in-laws)
 
 _#me_
-- [x] Practice intermittent fast during week 42
-- [x] Continue to practice Keto (week 5)
+- [ ] Practice regular self-care routine
+  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
+- [ ] Continue to practice Keto (week 6)
+
 
 _#family/friends_
-- [x] Prep for wedding 
+- [x] Prep for visit 
   - [x] Packing
   - [x] Schedule departure 
+  - [x] Birthday present
 
 _#world_
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament 
+- [ ] Evaluate Roc Solid's volunteer system
 
 _#career_
-- [x] Complete Unit 3
- - [x] Storyboard Exercise
- 
-_#read_
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] 1-on-1 interviews [bonus]
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+- [ ] Evaluate Professional Development Plan
 
 **Fiction**
-- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-  - [x] 50%
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 75%
+- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
+- [ ] 20%
+
+**Non-fiction**
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
+  - [ ] 20%
+- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
+- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
