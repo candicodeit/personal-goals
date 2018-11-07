@@ -1,4 +1,4 @@
-Personal Goals (Updated: Oct 29, 2018)
+Personal Goals (Updated: Nov 7, 2018)
 ==============
 
 Personal goals made open source. 
@@ -24,126 +24,125 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 36/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 37/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**8 books ahead of schedule**
-  - 20 fiction / 16 non-fiction
-  - 16 read /  20 listen
+**9 books ahead of schedule**
+  - 20 fiction / 17 non-fiction
+  - 16 read /  21 listen
   - 4 re-reads
 ---
 
 ## Things I'll Do This Week 
-### Week 44: Oct 29 - Nov 4 
+### Week 45: Nov 5 - 11
 
-- [ ] Reflect on Oct
-- [ ] Plans for Nov
+- [ ] Purge indoor fridge
 
 _#me_
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-- [ ] Practice intermittent fast during week 44
-- [ ] Continue to practice Keto (week 7)
+- [ ] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [ ] Document current daily workflow
+  - [ ] Highlight
+- [ ] Make list of influential/support crew
 
 _#family/friends_
-- [ ] Plan for Nov trip [tentative]
-- [ ] Help friends with packing
-- [ ] Plan for Homearama
-- [ ] Prep for baby shower
-- [ ] Cook for Halloween party 
+- [ ] Pick dates for vacation to Boston
+- [ ] Figure out gifts for 2 on the list
+- [ ] Plan DMMworkfam Christmas
+- [ ] Plan friend outing
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [ ] 1-on-1 interviews [bonus]
+  - [ ] Conduct 1-on-1 Interviews
   - [ ] Complete Unit 4
     - [ ] User Flows
-- [ ] Evaluate Professional Development Plan
+     - [ ] Sketch
+     - [ ] Finalize
+
+_#world_
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey evaluation
 
 _#read_
-
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
-- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-  - [ ] 20%
-  
+
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
-  - [ ] 20%
+ - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+  - [ ] 50%
   
 ---
 
 ## Things I'll Do This Month 
-### October 2018
+### November 2018
 
 - [ ] Purge schedule (TBD)
+  - [ ] Bookshelves
   - [ ] Indoor fridge
   - [ ] Garage fridge
-  - [ ] Living room closet
-  - [ ] Bookshelves
-  - [ ] Master bathroom sink
-  - [ ] Master closet
-  - [ ] Emmi's room
-  - [ ] Kai's room 
+  - [ ] Loft (old work boxes)
 
 _#me_
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
-  - [ ] Plan 1 hr massage 
-- [ ] Practice intermittent fast during week 40, 42, and 44
-  - [x] week 40
-  - [x] week 42
-  - [ ] week 44
-- [ ] Continue to practice Keto
-
-_#family/friends_
-- [ ] Plan playdate with god family
-- [ ] Plan lunch date with friend(s)
-- [x] Plan for friends' wedding in NC (week 42)
-- [x] Plan for mother-in-law's birthday (week 42)
-- [x] Plan to visit in-laws in NC (week 43)
-- [ ] Pick dates for vacation to Boston
-- [ ] Plan for Nov trip [tentative]
-
-_#world_
-- [x] Initiate a random act of kindness/volunteer for the month - Bought a book for a school library
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
-
-_#career_ 
-- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [x] Complete Unit 3
-    - [x] Storyboard Exercise
-    - [x] Competitors Analysis [bonus]
-  - [ ] Complete Unit 4
-    - [x] Brainstorm Exercise
-    - [ ] User Flows
-  - [ ] Complete Unit 5
-  - [ ] Complete Unit 6
-- [ ] Register for [Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/) starts on Nov 2nd
-
-_#read_
-
-**Fiction**
-- [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
-- [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
-- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
-
-**Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
-- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
---- 
-
-## Things I'll Do Next Month
-### November 2018
-_#me_
-- [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf) 
+- [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [ ] Document current daily workflow
+  - [ ] Highlight
+  - [ ] Laser
+  - [ ] Energize
+  - [ ] Reflect
+- [ ] Make list of influential/support crew
 
 _#family/friends_
 - [ ] Pick dates for vacation to Boston
 - [ ] Research activities for Boston
-- [ ] Plan for Thanksgiving 
+- [ ] Plan for Thanksgiving
 - [ ] Prep for Husband's Birthday
+- [ ] Plan DMMworkfam Christmas
+- [ ] Plan 2 friend outings
+- [ ] Figure out gifts for 8 on the list
+
+_#world_
+- [ ] Initiate a random act of kindness/volunteer for the month
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
+
+_#career_
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Conduct 1-on-1 Interviews
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+     - [ ] Sketch
+     - [ ] Finalze
+  - [ ] Complete Unit 5
+   - [ ] Learning Canvas
+   - [ ] Storyboard Review
+   - [ ] Landing Page Prototype
+ - [ ] Review Professional Development Plan
+  - [ ] Look into coaching
+   - [ ] Make list of people I've helped
+
+_#read_
+**Fiction**
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+
+**Non-fiction**
+- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
+- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [ ] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+
+--- 
+
+## Things I'll Do Next Month
+### December 2018
+
+_#me_
+- [ ] Start goal planning 2019 
+
+_#family/friends_
+- [ ] Prep for Husband's Birthday
+- [ ] Prep for Dad's Birthday
+- [ ] Prep for In-laws for Christmas
+- [ ] Figure out gifts for the list remainder
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
@@ -156,26 +155,35 @@ _#career_
 _#read_
 **Fiction**
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
-- [ ] Read [Atomic Design](https://www.goodreads.com/book/show/29567165-atomic-design) 
-- [ ] Read [Design Systems](https://www.goodreads.com/book/show/35857970-design-systems) 
+- [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
+- [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
 
 --- 
 ## Things I Did Last Week 
-### Week 43: Oct 22 - 28 (Visit in-laws)
+### Week 44: Oct 29 - Nov 4 
+
+- [x] Reflect on Oct
+- [x] Plans for Nov
+
+_#me_
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
 
 _#family/friends_
-- [x] Prep for visit 
-  - [x] Packing
-  - [x] Schedule departure 
-  - [x] Birthday present
+- [x] Help friends with packing
+- [x] Plan for Homearama
+- [x] Prep for baby shower
+- [x] Cook for Halloween party 
 
-**Fiction**
-- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+_#career_
+- [x] Evaluate Professional Development Plan
+
+_#read_
 
 **Non-fiction**
-- [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
-- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
+- [x] Finish [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
+- [x] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+  - [x] 50%

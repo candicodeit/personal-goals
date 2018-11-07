@@ -6,6 +6,7 @@ Books I've enjoyed that I feel like helped me professionally and personally.
 Format: Book Title - Date Finished
 
 # Development/Design
+- [Sprint - Oct 2018](https://www.goodreads.com/book/show/25814544-sprint)
 - [Conversational Design - Apr 2018](https://www.goodreads.com/book/show/38393096-conversational-design)
 - [The New CSS Layout - Nov 2017](https://www.goodreads.com/book/show/36387025-the-new-css-layout)
 - [JavaScript for Web Designers - Sep 2017](https://www.goodreads.com/book/show/32309198-javascript-for-web-designers)
