@@ -35,6 +35,7 @@
 - [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) 
 - [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) 
 - [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) 
+- [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
 - [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)  
 - [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld) 
 - (2x) [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) 
@@ -55,8 +56,11 @@
 - [The Art of Gathering - How We Meet and Why It Matters](https://www.goodreads.com/book/show/37424706-the-art-of-gathering)
 - [Crushing It](https://www.goodreads.com/book/show/36045512-crushing-it)
 - [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [Grit](https://www.goodreads.com/book/show/27213329-grit)
 - [How to Lead When You're Not in Charge](https://www.goodreads.com/book/show/33098700-how-to-lead-when-you-re-not-in-charge)
 - [How Women Rise](https://www.goodreads.com/book/show/36204301-how-women-rise) 
+- [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time
+- [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
 - [The Myth of the Nice Girl](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Your Best Year Ever](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 
@@ -75,8 +79,8 @@
   - Find 3 lunch meals
   - Find 3 dinner meals
   - Find 3 snacks meals
-- Practice intermittent fasting
-- Practice Keto
+- Practice intermittent fasting (4 weeks)
+- Practice Keto (5 weeks) 
 
 ### Self-Care
 - Practice regular self-care routine
@@ -90,6 +94,10 @@
   - (3) Send a letter to a friend
     - [Reference: Write Now 18 Letter Writing Prompts](https://www.littlegirldesigns.com/write-now-18-letter-writing-prompts/)
   - Plan Crazy Rich Asian movie night w/friend(s)
+  - Plan for friends' wedding in NC
+  - Plan for Homearama
+  - Prep for baby shower
+  - Help friends with packing
 
 ### Family
   - Enjoy family vacation (Feb 10-16 - SC/NC)
@@ -125,8 +133,9 @@
   - bought a book for [an academy](https://twitter.com/candicodeit/status/1054691826198822913)
 - Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) 
   - Room Makeover
-  - Golf Tournament (Greenbrier Country Club)
-  - Golf Tournament (Red Wing Golf Course)  
+  - Golf Charity Tournament (Greenbrier Country Club)
+  - Golf Charity Tournament (Red Wing Golf Course)  
+  - Evaluating their volunteer workflow
   
 ## Career
 ### Learning
@@ -140,6 +149,7 @@
 - Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - Complete Unit 1
   - Complete Unit 2
+  - Complete Unit 3
 
 ### Practice
 - Sketch/brainstorm ideas for Goodreads app improvements (just for fun)
@@ -151,6 +161,7 @@
 - Transfer domain to GitHub pages: [candicode.it](http://candicode.it/)
 
 ### Work Improvements
+(Boats Group)
 - Create wireframe for redesigned Dealer Gallery Search and Page
 - Work on A/B testing winner implementation plan
 - Create ticket templates for A/B Tests
@@ -159,6 +170,10 @@
 - Create template for JIRA comments  
 - Document [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
 
+(A Book Apart)
+- Reflect on improvements per book launch and promotions
+- Find opportunities to promote publications through universities, bootcamps, and design events
+
  
-*note: last update for sep*
+*note: last update for oct*
 
