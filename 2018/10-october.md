@@ -3,19 +3,9 @@ Personal Goals | What I Did - October 2018
 
 ### Monthly Plan
 
-- [ ] Purge schedule (TBD)
-  - [ ] Indoor fridge
-  - [ ] Garage fridge
-  - [ ] Living room closet
-  - [ ] Bookshelves
-  - [ ] Master bathroom sink
-  - [ ] Master closet
-  - [ ] Emmi's room
-  - [ ] Kai's room 
-
 _#me_
 - [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
+  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
   - [ ] Plan 1 hr massage 
 - [ ] Practice intermittent fast during week 40, 42, and 44
   - [x] week 40
@@ -29,11 +19,11 @@ _#family/friends_
 - [x] Plan for friends' wedding in NC (week 42)
 - [x] Plan to visit in-laws in NC (week 43)
 - [ ] Plan for Nov day
-- [ ] Plan for Homearama
-- [ ] Prep for baby shower
+- [x] Plan for Homearama
+- [x] Prep for baby shower
+- [x] Help friends with packing
 
 _#world_
-- [ ] Initiate a random act of kindness/volunteer for the month
 - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Golf Tournament (week 42)
 
 _#career_ 
@@ -54,12 +44,14 @@ _#read_
 - [x] Listen [P.S. I Still Love You](https://www.goodreads.com/book/show/25606271-p-s-i-still-love-you)
 - [ ] ~Listen [Alice in Zombieland](https://www.goodreads.com/book/show/11300302-alice-in-zombieland)~
 - [x] Listen [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
-- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-- [ ] Read [Discovery of Witches](https://www.goodreads.com/book/show/8667848-a-discovery-of-witches)
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
+- [x] Finish [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
+- [x] Listen [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time
+- [x] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+  - [x] 50%
+
 
 ---
 
@@ -213,34 +205,35 @@ _#career_
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
 - [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)  
-- [x] Read [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
+- [x] Listen [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 
 ---
 
 ## Week 44: Oct 29 - Nov 4 
 
-- [ ] Reflect on Oct
-- [ ] Plans for Nov
+
+- [x] Reflect on Oct
+- [x] Plans for Nov
 
 _#me_
-- [ ] Practice regular self-care routine
-  - [ ] Plan 1 hr uninterrupted reading time at cafe (weekly)
+- [x] Practice regular self-care routine
+  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
 - [ ] Practice intermittent fast during week 44
 - [ ] Continue to practice Keto (week 7)
 
 _#family/friends_
 - [ ] Plan for Nov trip [tentative]
-- [ ] Cook for Halloween party 
-- [ ] Help friends with packing
-- [ ] Plan for Homearama
-- [ ] Prep for baby shower
+- [x] Help friends with packing
+- [x] Plan for Homearama
+- [x] Prep for baby shower
+- [x] Cook for Halloween party 
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] 1-on-1 interviews [bonus]
   - [ ] Complete Unit 4
     - [ ] User Flows
-- [ ] Evaluate Professional Development Plan
+- [x] Evaluate Professional Development Plan
 
 _#read_
 
@@ -253,6 +246,9 @@ _#read_
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products) 
   - [ ] 20%
+- [x] Finish [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
+- [x] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+  - [x] 50%
 
 ---
 
@@ -269,3 +265,6 @@ _#career_
 ---
 
 # October Reflection
+My balance of reading shifted from fiction to non-fiction. I feel pretty good considering one of the books is about Make Time. I want to make time for my goals and my career overall. I want to go where my passions lie and how I can help people become better. I've realized how much I enjoy helping people develop themselves. I know I don't have myself 100% figured out but I feel like I have at least a plan to get there. Maybe 75% so I have wiggle room. I think I might consider moving up my desire to be a coach sooner in my timeline. Maybe not as a full time coach but possibly part time so I can better help those around me find their passion. I like listening to others and helping them talk through what makes them most excited about their daily lives. Sometimes you just need a nudge to get you into the right direction. I'm more than happy to help those do that. 
+
+I also thought a lot about promoting my skills better. I think a lot of my self-doubt stems from not fully being aware of what my strengths are or things I do almost daily without realizing it. I'm glad I put together the list of completed tasks for 2018. It really brings to light of how far I've come. It's always important to celebrate the wins. I'm looking to start some major reflection of the year this month. This year was figuring things out. 2019 is going to be epic! 
