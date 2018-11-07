@@ -48,7 +48,7 @@ _#read_
 **Non-fiction**
 - [x] Listen [Grit](https://www.goodreads.com/book/show/27213329-grit)
 - [x] Finish [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
-- [x] Listen [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
+- [x] Listen [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
 - [x] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
   - [x] 50%
 
