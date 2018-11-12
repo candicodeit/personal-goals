@@ -51,6 +51,7 @@ _#read_
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+- [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
@@ -65,15 +66,15 @@ _#read_
 - [ ] Purge indoor fridge
 
 _#me_
-- [ ] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+- [x] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
   - [ ] Document current daily workflow
   - [ ] Highlight
-- [ ] Make list of influential/support crew
+- [x] Make list of influential/support crew
 
 _#family/friends_
-- [ ] Pick dates for vacation to Boston
-- [ ] Figure out gifts for 2 on the list
+- [x] Pick dates for vacation to Boston
+- [x] Figure out gifts for 2 on the list
 - [ ] Plan DMMworkfam Christmas
 - [ ] Plan friend outing
 
@@ -86,30 +87,36 @@ _#career_
      - [ ] Finalize
 
 _#world_
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey evaluation
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey evaluation
 
 _#read_
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
+- [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 
 **Non-fiction**
  - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
   - [ ] 50%
+ 
 
 ---
 
 ## Week 46: Nov 12 - 18
 
 - [ ] Purge garage fridge
+- [ ] Purge indoor fridge
 
 _#me_
 - [ ] Start [reflecting on 2018 with the people in your life](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week2.pdf)
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [ ] Document current daily workflow
+  - [ ] Highlight
   - [ ] Laser
 
 _#family/friends_
 - [ ] Plan for Thanksgiving
+- [ ] Plan DMMworkfam Christmas
 - [ ] Figure out gifts for 2 on the list
 
 _#world_
@@ -117,19 +124,21 @@ _#world_
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
-  - [ ] Complete Unit 5
-   - [ ] Learning Canvas
-   - [ ] Storyboard Review
-   - [ ] Landing Page Prototype
+  - [ ] Conduct 1-on-1 Interviews
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+     - [ ] Sketch
+     - [ ] Finalize
+
 
 _#read_
 **Fiction**
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-  - [ ] 40%
+- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+  - [ ] 75%
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-  - [ ] 20%
+- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+  - [ ] 50%
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
   - [ ] 75%
 
@@ -150,9 +159,11 @@ _#family/friends_
 - [ ] Figure out gifts for 2 on the list
 
 _#career_
-- [ ] Review Professional Development Plan
- - [ ] Look into coaching
-  - [ ] Make list of people I've helped
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Complete Unit 5
+   - [ ] Learning Canvas
+   - [ ] Storyboard Review
+   - [ ] Landing Page Prototype
 
 _#read_
 **Fiction**
@@ -180,6 +191,12 @@ _#family/friends_
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
+
+_#career_
+- [ ] Review Professional Development Plan
+ - [ ] Look into coaching
+  - [ ] Make list of people I've helped
+
 
 _#read_
 **Fiction**
