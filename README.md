@@ -1,4 +1,4 @@
-Personal Goals (Updated: Nov 7, 2018)
+Personal Goals (Updated: Nov 12, 2018)
 ==============
 
 Personal goals made open source. 
@@ -24,31 +24,33 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 37/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 38/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**9 books ahead of schedule**
-  - 20 fiction / 17 non-fiction
-  - 16 read /  21 listen
+**10 books ahead of schedule**
+  - 21 fiction / 17 non-fiction
+  - 16 read /  22 listen
   - 4 re-reads
 ---
 
 ## Things I'll Do This Week 
-### Week 45: Nov 5 - 11
+### Week 46: Nov 12 - 18
 
+- [ ] Purge garage fridge
 - [ ] Purge indoor fridge
 
 _#me_
-- [ ] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+- [ ] Start [reflecting on 2018 with the people in your life](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week2.pdf)
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
   - [ ] Document current daily workflow
   - [ ] Highlight
-- [ ] Make list of influential/support crew
+  - [ ] Laser
 
 _#family/friends_
-- [ ] Pick dates for vacation to Boston
+- [ ] Plan for Thanksgiving
 - [ ] Figure out gifts for 2 on the list
-- [ ] Plan DMMworkfam Christmas
-- [ ] Plan friend outing
+
+_#world_
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -58,24 +60,23 @@ _#career_
      - [ ] Sketch
      - [ ] Finalize
 
-_#world_
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey evaluation
-
 _#read_
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
 
 **Non-fiction**
- - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
   - [ ] 50%
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+  - [ ] 75%
   
 ---
 
 ## Things I'll Do This Month 
 ### November 2018
 
-- [ ] Purge schedule (TBD)
+- [ ] Purge schedule 
   - [ ] Bookshelves
   - [ ] Indoor fridge
   - [ ] Garage fridge
@@ -83,25 +84,34 @@ _#read_
 
 _#me_
 - [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+  - [x] Part 1
+  - [ ] Part 2
+  - [ ] Part 3
+  - [ ] Part 4
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
   - [ ] Document current daily workflow
   - [ ] Highlight
   - [ ] Laser
   - [ ] Energize
   - [ ] Reflect
-- [ ] Make list of influential/support crew
+- [x] Make list of influential/support crew
 
 _#family/friends_
-- [ ] Pick dates for vacation to Boston
+- [x] Pick dates for vacation to Boston
 - [ ] Research activities for Boston
 - [ ] Plan for Thanksgiving
 - [ ] Prep for Husband's Birthday
 - [ ] Plan DMMworkfam Christmas
 - [ ] Plan 2 friend outings
 - [ ] Figure out gifts for 8 on the list
+  - [x] week 1
+  - [ ] week 2
+  - [ ] week 3
+  - [ ] week 4
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer survey evaluation
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
 
 _#career_
@@ -123,6 +133,7 @@ _#read_
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+- [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
@@ -163,27 +174,21 @@ _#read_
 
 --- 
 ## Things I Did Last Week 
-### Week 44: Oct 29 - Nov 4 
-
-- [x] Reflect on Oct
-- [x] Plans for Nov
+### Week 45: Nov 5 - 11
 
 _#me_
-- [x] Practice regular self-care routine
-  - [x] Plan 1 hr uninterrupted reading time at cafe (weekly)
+- [x] Start [reflecting on 2018 with the accomplishments and goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+- [x] Make list of influential/support crew
 
 _#family/friends_
-- [x] Help friends with packing
-- [x] Plan for Homearama
-- [x] Prep for baby shower
-- [x] Cook for Halloween party 
+- [x] Pick dates for vacation to Boston
 
-_#career_
-- [x] Evaluate Professional Development Plan
+_#world_
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey evaluation
 
 _#read_
+**Fiction**
+- [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 
 **Non-fiction**
-- [x] Finish [Sprint](https://www.goodreads.com/book/show/25814544-sprint)
-- [x] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
-  - [x] 50%
+- [x] Read (Currently 19%)[The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
