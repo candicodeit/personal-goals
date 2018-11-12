@@ -47,6 +47,7 @@ _#me_
 
 _#family/friends_
 - [ ] Plan for Thanksgiving
+- [ ] Plan DMMworkfam Christmas
 - [ ] Figure out gifts for 2 on the list
 
 _#world_
