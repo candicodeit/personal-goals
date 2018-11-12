@@ -62,6 +62,7 @@ _#career_
      - [ ] Finalize
 
 _#read_
+
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
   - [ ] 75%
@@ -130,7 +131,8 @@ _#career_
   - [ ] Look into coaching
    - [ ] Make list of people I've helped
 
-_#read_
+_#read_  
+
 **Fiction**
 - [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
