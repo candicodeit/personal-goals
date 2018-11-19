@@ -11,18 +11,22 @@ Personal Goals | What I Did - November 2018
 
 _#me_
 - [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
+  - [x] Part 1
+  - [x] Part 2
+  - [ ] Part 3  
+  - [ ] Part 4
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [ ] Document current daily workflow
-  - [ ] Highlight
+  - [x] Document current daily workflow
+  - [x] Highlight
   - [ ] Laser
   - [ ] Energize
   - [ ] Reflect
-- [ ] Make list of influential/support crew
+- [x] Make list of influential/support crew
 
 _#family/friends_
 - [ ] Pick dates for vacation to Boston
 - [ ] Research activities for Boston
-- [ ] Plan for Thanksgiving
+- [x] Plan for Thanksgiving
 - [ ] Prep for Husband's Birthday
 - [ ] Plan DMMworkfam Christmas
 - [ ] Plan 2 friend outings
@@ -30,7 +34,7 @@ _#family/friends_
 
 _#world_
 - [ ] Initiate a random act of kindness/volunteer for the month
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -49,7 +53,7 @@ _#career_
 
 _#read_
 **Fiction**
-- [ ] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
+- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
 - [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 
