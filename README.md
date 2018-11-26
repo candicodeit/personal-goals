@@ -1,4 +1,4 @@
-Personal Goals (Updated: Nov 19, 2018)
+Personal Goals (Updated: Nov 26, 2018)
 ==============
 
 Personal goals made open source. 
@@ -24,25 +24,27 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 39/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 40/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**10 books ahead of schedule**
-  - 22 fiction / 17 non-fiction
-  - 17 read /  22 listen
+**11 books ahead of schedule**
+  - 23 fiction / 17 non-fiction
+  - 17 read /  23 listen
   - 4 re-reads
 ---
 
 ## Things I'll Do This Week 
-### Week 47: Nov 19 - 25 (Thanksgiving Week)
+### Week 48: Nov 26 - Dec 2
 
-- [ ] Purge bookshelves
-- [ ] Purge fridges
+- [ ] Reflect on Nov
+- [ ] Plans for Dec
+- [ ] Purge loft
 
 _#me_
-- [ ] Start [reflecting on 2019 with the focus areas](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week3.pdf)
+- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
   - [ ] Laser
   - [ ] Energize
+  - [ ] Reflect
 - [ ] Meditate at least once a day
   - [ ] Mon: 1
   - [ ] Tue:  
@@ -53,8 +55,8 @@ _#me_
   - [ ] Sun:
 
 _#family/friends_
-- [ ] Prep for Husband's Birthday
 - [ ] Figure out gifts for 2 on the list
+- [ ] Research activities for Boston
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -67,14 +69,10 @@ _#career_
 _#read_
 **Fiction**
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-  - [ ] 25%
-- [ ] Listen [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
+- [ ] Listen [Wandfasted](https://www.goodreads.com/book/show/33225153-wandfasted)
 
 **Non-fiction**
-- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
-  - [ ] 50%
-- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
-  - [ ] 75%
+- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
   
 ---
 
@@ -83,15 +81,15 @@ _#read_
 
 - [ ] Purge schedule 
   - [ ] Bookshelves
-  - [ ] Indoor fridge
-  - [ ] Garage fridge
+  - [x] Indoor fridge
+  - [x] Garage fridge
   - [ ] Loft (old work boxes)
 
 _#me_
 - [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
   - [x] Part 1
   - [x] Part 2
-  - [ ] Part 3
+  - [x] Part 3
   - [ ] Part 4
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
   - [x] Document current daily workflow
@@ -111,11 +109,11 @@ _#family/friends_
 - [ ] Figure out gifts for 8 on the list
   - [x] week 1
   - [x] week 2
-  - [ ] week 3
+  - [x] week 3
   - [ ] week 4
 
 _#world_
-- [ ] Initiate a random act of kindness/volunteer for the month
+- [x] Initiate a random act of kindness/volunteer for the month
 - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer survey evaluation
 - [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
 
@@ -140,6 +138,7 @@ _#read_
 - [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
 - [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
+- [x] Listen [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
 
 **Non-fiction**
 - [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
@@ -181,27 +180,21 @@ _#read_
 
 --- 
 ## Things I Did Last Week 
-### Week 46: Nov 12 - 18
+### Week 47: Nov 19 - 25 (Thanksgiving Week)
+
+- [x] Purge fridges
 
 _#me_
-- [x] Start [reflecting on 2018 with the people in your life](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week2.pdf)
-- [x] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [x] Document current daily workflow
-  - [x] Highlight
+- [x] Start [reflecting on 2019 with the focus areas](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week3.pdf)
+- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [x] Laser (Currently 40%)
+- [ ] Meditate at least once a day
+  - [x] Mon: 2
+  - [x] Sun: 2
 
 _#family/friends_
-- [x] Plan for Thanksgiving
 - [x] Figure out gifts for 2 on the list
-
-_#world_
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon
 
 _#read_
 **Fiction**
-- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-  - [x] 75%
 - [x] Listen [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
-- [x] Read (Currently 13%) [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-
-**Non-fiction**
-- [x] Read (Currently 19%)[The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
