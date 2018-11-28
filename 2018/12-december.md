@@ -10,12 +10,11 @@ Personal Goals | What I Did - December 2018
   
 
 _#me_
-- [ ] Start goal planning 2019 
+- [ ] Review goal planning methods and plan for 2019
 
 _#family/friends_
 - [ ] Prep for Husband's Birthday
 - [ ] Prep for Dad's Birthday
-- [ ] Prep for In-laws for Christmas
 - [ ] Figure out gifts for the list remainder
 
 _#world_
@@ -23,8 +22,17 @@ _#world_
 - [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) 
 
 _#career_
- - [ ] Start [4-week course on Interaction Design | Designlab](https://trydesignlab.com/interaction-design-course/)
- - [ ] Review Professional Development Plan
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Conduct 1-on-1 Interviews
+  - [ ] Complete Unit 4
+    - [ ] User Flows
+     - [ ] Sketch
+     - [ ] Finalze
+  - [ ] Complete Unit 5
+   - [ ] Learning Canvas
+   - [ ] Storyboard Review
+   - [ ] Landing Page Prototype
+- [ ] Review Professional Development Plan
   
 _#read_
 **Fiction**
