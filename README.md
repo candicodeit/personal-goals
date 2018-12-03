@@ -78,7 +78,6 @@ _#read_
 
 ## Things I'll Do This Month 
 ### December 2018
-==============
 
 - [ ] Purge schedule
   - [ ] Emmi's room
