@@ -1,4 +1,4 @@
-Personal Goals (Updated: Nov 26, 2018)
+Personal Goals (Updated: Dec 3, 2018)
 ==============
 
 Personal goals made open source. 
@@ -33,30 +33,30 @@ Read more fiction this year -> [Goal: 40/35 books](https://www.goodreads.com/use
 ---
 
 ## Things I'll Do This Week 
-### Week 48: Nov 26 - Dec 2
+### Week 49: Dec 3 - 9 (Husband's Birthday and Holiday Party Week)
 
-- [ ] Reflect on Nov
-- [ ] Plans for Dec
-- [ ] Purge loft
+- [ ] Purge schedule 
+  - [ ] Emmi's room
+  - [ ] Kai's room 
+  - [ ] Living room toys
+- [ ] Setup Christmas tree
 
 _#me_
 - [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
-- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [ ] Laser
-  - [ ] Energize
-  - [ ] Reflect
+- [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [ ] List tactics to experiment 
 - [ ] Meditate at least once a day
-  - [ ] Mon: 1
+  - [x] Mon: 1
   - [ ] Tue:  
-  - [ ] Wed:
-  - [ ] Thu:
+  - [ ] Wed: 
+  - [ ] Thu: 
   - [ ] Fri:
-  - [ ] Sat:
+  - [ ] Sat: 
   - [ ] Sun:
 
 _#family/friends_
-- [ ] Figure out gifts for 2 on the list
-- [ ] Research activities for Boston
+- [ ] Prep for Sara's Birthday
+- [ ] Prep for DMMworkfam Festivus party
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -65,57 +65,50 @@ _#career_
     - [ ] User Flows
      - [ ] Sketch
      - [ ] Finalize
-
+- [ ] Follow-up with Larchmont United Methodist Preschool survey
+     
 _#read_
-**Fiction**
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-- [ ] Listen [Wandfasted](https://www.goodreads.com/book/show/33225153-wandfasted)
+**Fiction** 
+- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
-- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
   
 ---
 
 ## Things I'll Do This Month 
-### November 2018
+### December 2018
+==============
 
-- [ ] Purge schedule 
-  - [ ] Bookshelves
-  - [x] Indoor fridge
-  - [x] Garage fridge
+- [ ] Purge schedule
+  - [ ] Emmi's room
+  - [ ] Kai's room 
+  - [ ] Living room toys
   - [ ] Loft (old work boxes)
+  - [ ] Bookshelves
+  - [ ] Master bathroom sink
+  - [ ] Master closet
 
 _#me_
-- [ ] Start [reflecting on 2018](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week1.pdf)
-  - [x] Part 1
-  - [x] Part 2
-  - [x] Part 3
-  - [ ] Part 4
-- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [x] Document current daily workflow
-  - [x] Highlight
-  - [ ] Laser
-  - [ ] Energize
-  - [ ] Reflect
-- [x] Make list of influential/support crew
+- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
+- [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [ ] List tactics to experiment 
+- [ ] Review goal planning methods and plan for 2019
+  - [ ] Iterate goal planning method
+  - [ ] Update monthly/weekly template
+  - [ ] Update foursquare
+- Meditate at least once a day
 
 _#family/friends_
-- [x] Pick dates for vacation to Boston
-- [ ] Research activities for Boston
-- [x] Plan for Thanksgiving
-- [ ] Prep for Husband's Birthday
-- [ ] Plan DMMworkfam Christmas
-- [ ] Plan 2 friend outings
-- [ ] Figure out gifts for 8 on the list
-  - [x] week 1
-  - [x] week 2
-  - [x] week 3
-  - [ ] week 4
+- [ ] Prep for Dad's Birthday
+- [ ] Prep for DMMworkfam Festivus party
+- [ ] Figure out gifts for the list remainder
+- [ ] Plan for weekend in BTR
+- [ ] Write out Christmas cards
+- [ ] Prep for Carly's birthday (Dec 28)
 
 _#world_
-- [x] Initiate a random act of kindness/volunteer for the month
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer survey evaluation
-- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Liveathon (week 46)
+- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey follow-up
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -123,78 +116,60 @@ _#career_
   - [ ] Complete Unit 4
     - [ ] User Flows
      - [ ] Sketch
-     - [ ] Finalze
+     - [ ] Finalize
   - [ ] Complete Unit 5
    - [ ] Learning Canvas
-   - [ ] Storyboard Review
    - [ ] Landing Page Prototype
- - [ ] Review Professional Development Plan
-  - [ ] Look into coaching
-   - [ ] Make list of people I've helped
-
-_#read_  
-
-**Fiction**
-- [x] Read [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-- [x] Listen [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
-- [x] Listen [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
+  - [ ] Complete Unit 6
+    - [ ] Landing Page Test
+    - [ ] Storyboard Review
+- [ ] Review Professional Development Plan (what does 2019 look like)
+- [ ] Follow-up with Larchmont United Methodist Preschool survey
+  
+_#read_
+**Fiction** 
+- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+- [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
+- [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
 - [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
-- [ ] Listen [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 
 --- 
 
 ## Things I'll Do Next Month
-### December 2018
+### January 2019 - TBD
 
-_#me_
-- [ ] Start goal planning 2019 
-
-_#family/friends_
-- [ ] Prep for Husband's Birthday
-- [ ] Prep for Dad's Birthday
-- [ ] Prep for In-laws for Christmas
-- [ ] Prep for Carly's birthday (Dec 28)
-- [ ] Figure out gifts for the list remainder (week 50)
-
-_#world_
-- [ ] Initiate a random act of kindness/volunteer for the month
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) 
-
-_#career_
- - [ ] Review Professional Development Plan 2019
-  
-_#read_
-**Fiction**
-- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-
-**Non-fiction**
-- [ ] Re-listen [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why)
-- [ ] Read [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
-- [ ] Listen [Quiet: The Power of Introverts in a World that Can't Stop Talking](https://www.goodreads.com/book/show/8520610-quiet)
-- [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
 
 --- 
 ## Things I Did Last Week 
-### Week 47: Nov 19 - 25 (Thanksgiving Week)
+### Week 48: Nov 26 - Dec 2
 
-- [x] Purge fridges
+- [x] Reflect on Nov
+- [x] Plans for Dec
 
 _#me_
-- [x] Start [reflecting on 2019 with the focus areas](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week3.pdf)
 - [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [x] Laser (Currently 40%)
+  - [x] Laser
+  - [ ] Energize
+  - [ ] Reflect
 - [ ] Meditate at least once a day
-  - [x] Mon: 2
-  - [x] Sun: 2
-
+  - [x] Mon: 1
+  - [ ] Tue:  
+  - [x] Wed: 1
+  - [x] Thu: 1
+  - [ ] Fri:
+  - [x] Sat: 1
+  - [ ] Sun:
+  
 _#family/friends_
-- [x] Figure out gifts for 2 on the list
+- [x] Prep for Husband's Birthday  
+- [x] Plan DMMworkfam Christmas
 
 _#read_
 **Fiction**
-- [x] Listen [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
+- [x] Listen [Wandfasted](https://www.goodreads.com/book/show/33225153-wandfasted) (Currently 17%)
+- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december) (Currently 24%)
