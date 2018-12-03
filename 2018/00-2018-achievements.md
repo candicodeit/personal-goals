@@ -95,6 +95,7 @@
 ### Self-Care
 - Practice regular self-care routine
   - Plan 1 hr uninterrupted reading time at cafe (weekly)
+- Meditate once a day
   
 ## Family/Friends
 ### Friends
@@ -165,9 +166,6 @@
   - Complete Unit 1
   - Complete Unit 2
   - Complete Unit 3
-- Review Professional Development Plan
-  - Look into coaching
-  - Review possible projects
 
 ### Practice
 - Sketch/brainstorm ideas for Goodreads app improvements (just for fun)
@@ -187,6 +185,9 @@
   - Build test template 
 - Create template for JIRA comments  
 - Document [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
+- Review Professional Development Plan
+  - Look into coaching
+  - Review possible projects
 
 (A Book Apart)
 - Reflect on improvements per book launch and promotions
