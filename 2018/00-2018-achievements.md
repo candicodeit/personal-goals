@@ -27,19 +27,25 @@
 - Re-read [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/17347383-harry-potter-and-the-prisoner-of-azkaban) 
 - [Sky in the Deep](https://www.goodreads.com/book/show/34726469-sky-in-the-deep1) 
 - Re-read [Unearthly](https://www.goodreads.com/book/show/7488244-unearthly) 
+- [The Black Witch](https://www.goodreads.com/book/show/25740412-the-black-witch)
 - [The Wicked Deep](https://www.goodreads.com/book/show/35297394-the-wicked-deep)
+
 
 (listen)
 - [By Invitation Only](https://www.goodreads.com/book/show/37955592-by-invitation-only) 
 - [City of Lost Souls](https://www.goodreads.com/book/show/8755776-city-of-lost-souls)
 - [City of Heavenly Fire](https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire) 
 - [Crazy Rich Asians](https://www.goodreads.com/book/show/16085481-crazy-rich-asians) 
+- [Crenshaw](https://www.goodreads.com/book/show/23310699-crenshaw)
 - [Everything, Everything](https://www.goodreads.com/book/show/18692431-everything-everything) 
 - [Girl of Nightmares](https://www.goodreads.com/book/show/12507214-girl-of-nightmares)
 - [Norse Mythology](https://www.goodreads.com/book/show/37903770-norse-mythology)  
 - [Otherworld](https://www.goodreads.com/book/show/28238589-otherworld) 
 - (2x) [To All the Boys I've Loved Before](https://www.goodreads.com/book/show/22558034-to-all-the-boys-i-ve-loved-before) 
 - (2x) [P.S. I Still Love You](https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you) 
+- [The Iron Flower](https://www.goodreads.com/book/show/35750305-the-iron-flower)
+
+
 
 ### Non-Fiction
 (read)
@@ -68,6 +74,10 @@
 - Create personal 4square
 - Reflect every month 
 - Redesign my monthly/weekly planning
+- Purge indoor and garage fridge
+- Start reflecting on 2018
+- Experiment with tactics from Make Time (Highlight and Laser)
+- Make a list of influential/support crew
 
 ### Health
 - Create a list of instant pot recipes for meal planning
@@ -85,6 +95,7 @@
 ### Self-Care
 - Practice regular self-care routine
   - Plan 1 hr uninterrupted reading time at cafe (weekly)
+- Meditate once a day
   
 ## Family/Friends
 ### Friends
@@ -98,6 +109,7 @@
   - Plan for Homearama
   - Prep for baby shower
   - Help friends with packing
+  - Plan DMMworkfam Christmas
 
 ### Family
   - Enjoy family vacation (Feb 10-16 - SC/NC)
@@ -126,6 +138,9 @@
     - Purchase any school supplies
     - Finish potty training
   - Watch Busch Garden fireworks w/my family 
+  - Prep for my husband's birthday
+  - Pick dates for vacation to Boston
+  - Plan for Thanksgiving
 
 ## World 
 - Initiate a random act of kindness/volunteer for the month
@@ -136,6 +151,7 @@
   - Golf Charity Tournament (Greenbrier Country Club)
   - Golf Charity Tournament (Red Wing Golf Course)  
   - Evaluating their volunteer workflow
+  - Liveathon
   
 ## Career
 ### Learning
@@ -169,6 +185,9 @@
   - Build test template 
 - Create template for JIRA comments  
 - Document [JIRA workflows](https://github.com/candicodeit/workflows/blob/master/README.md)
+- Review Professional Development Plan
+  - Look into coaching
+  - Review possible projects
 
 (A Book Apart)
 - Reflect on improvements per book launch and promotions
