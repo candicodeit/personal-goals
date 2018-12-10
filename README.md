@@ -1,4 +1,4 @@
-Personal Goals (Updated: Dec 3, 2018)
+Personal Goals (Updated: Dec 10, 2018)
 ==============
 
 Personal goals made open source. 
@@ -33,18 +33,10 @@ Read more fiction this year -> [Goal: 40/35 books](https://www.goodreads.com/use
 ---
 
 ## Things I'll Do This Week 
-### Week 49: Dec 3 - 9 (Husband's Birthday and Holiday Party Week)
-
-- [ ] Purge schedule 
-  - [ ] Emmi's room
-  - [ ] Kai's room 
-  - [ ] Living room toys
-- [ ] Setup Christmas tree
+### Week 50: Dec 10 - 16
 
 _#me_
-- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
 - [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [ ] List tactics to experiment 
 - [ ] Meditate at least once a day
   - [x] Mon: 1
   - [ ] Tue:  
@@ -55,8 +47,8 @@ _#me_
   - [ ] Sun:
 
 _#family/friends_
-- [ ] Prep for Sara's Birthday
-- [ ] Prep for DMMworkfam Festivus party
+- [ ] Figure out gifts for the list remainder
+- [ ] Write out Christmas cards
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -65,14 +57,20 @@ _#career_
     - [ ] User Flows
      - [ ] Sketch
      - [ ] Finalize
-- [ ] Follow-up with Larchmont United Methodist Preschool survey
-     
+  - [ ] Complete Unit 5
+   - [ ] Learning Canvas
+   - [ ] Landing Page Prototype
+  - [ ] Complete Unit 6
+    - [ ] Landing Page Test
+    - [ ] Storyboard Review
+   
 _#read_
 **Fiction** 
 - [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
-- [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
+- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
   
 ---
 
@@ -86,21 +84,21 @@ _#read_
   - [ ] Loft (old work boxes)
   - [ ] Bookshelves
   - [ ] Master bathroom sink
-  - [ ] Master closet
+  - [x] Master closet
 
 _#me_
-- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
-- [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [ ] List tactics to experiment 
+- [x] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
+- [x] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [x] List tactics to experiment 
 - [ ] Review goal planning methods and plan for 2019
   - [ ] Iterate goal planning method
   - [ ] Update monthly/weekly template
   - [ ] Update foursquare
-- Meditate at least once a day
+- [ ] Meditate at least once a day
 
 _#family/friends_
 - [ ] Prep for Dad's Birthday
-- [ ] Prep for DMMworkfam Festivus party
+- [x] Prep for DMMworkfam Festivus party
 - [ ] Figure out gifts for the list remainder
 - [ ] Plan for weekend in BTR
 - [ ] Write out Christmas cards
@@ -145,30 +143,29 @@ _#read_
 
 --- 
 ## Things I Did Last Week 
-### Week 48: Nov 26 - Dec 2
+### ## Week 49: Dec 3 - 9 (Husband's Birthday and Holiday Party Week)
 
-- [x] Reflect on Nov
-- [x] Plans for Dec
+- [x] Purge schedule 
+  - [x] Master closet
+- [x] Setup Christmas tree
 
 _#me_
-- [ ] Experiment with tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [x] Laser
-  - [ ] Energize
-  - [ ] Reflect
-- [ ] Meditate at least once a day
+- [x] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
+- [x] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [x] List tactics to experiment 
+- [x] Meditate at least once a day
   - [x] Mon: 1
-  - [ ] Tue:  
+  - [x] Tue: 1 
   - [x] Wed: 1
   - [x] Thu: 1
-  - [ ] Fri:
+  - [x] Fri: 1
   - [x] Sat: 1
-  - [ ] Sun:
-  
-_#family/friends_
-- [x] Prep for Husband's Birthday  
-- [x] Plan DMMworkfam Christmas
+  - [x] Sun: 1
 
+_#family/friends_
+- [x] Prep for Sara's Birthday
+- [x] Prep for DMMworkfam Festivus party
+     
 _#read_
-**Fiction**
-- [x] Listen [Wandfasted](https://www.goodreads.com/book/show/33225153-wandfasted) (Currently 17%)
-- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december) (Currently 24%)
+**Fiction** 
+- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december) (Currently 70%)
