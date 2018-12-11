@@ -24,12 +24,11 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 40/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 42/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-**11 books ahead of schedule**
-  - 23 fiction / 17 non-fiction
-  - 17 read /  23 listen
-  - 4 re-reads
+- 24 fiction / 18 non-fiction
+- 18 read /  24 listen
+- 4 re-reads
 ---
 
 ## Things I'll Do This Week 
@@ -39,7 +38,7 @@ _#me_
 - [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
 - [ ] Meditate at least once a day
   - [x] Mon: 1
-  - [ ] Tue:  
+  - [x] Tue: 1 
   - [ ] Wed: 
   - [ ] Thu: 
   - [ ] Fri:
@@ -66,11 +65,11 @@ _#career_
    
 _#read_
 **Fiction** 
-- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
-- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
   
 ---
 
