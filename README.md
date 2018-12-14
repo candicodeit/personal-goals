@@ -39,9 +39,9 @@ _#me_
 - [ ] Meditate at least once a day
   - [x] Mon: 1
   - [x] Tue: 1 
-  - [ ] Wed: 
-  - [ ] Thu: 
-  - [ ] Fri:
+  - [x] Wed: 1
+  - [x] Thu: 1
+  - [x] Fri: 1
   - [ ] Sat: 
   - [ ] Sun:
 
@@ -52,12 +52,12 @@ _#family/friends_
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Conduct 1-on-1 Interviews
-  - [ ] Complete Unit 4
-    - [ ] User Flows
-     - [ ] Sketch
-     - [ ] Finalize
+  - [x] Complete Unit 4
+    - [x] User Flows
+     - [x] Sketch
+     - [x] Finalize
   - [ ] Complete Unit 5
-   - [ ] Learning Canvas
+   - [x] Learning Canvas
    - [ ] Landing Page Prototype
   - [ ] Complete Unit 6
     - [ ] Landing Page Test
@@ -70,7 +70,7 @@ _#read_
 **Non-fiction**
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
-  
+- [ ] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
 ---
 
 ## Things I'll Do This Month 
@@ -109,12 +109,12 @@ _#world_
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Conduct 1-on-1 Interviews
-  - [ ] Complete Unit 4
-    - [ ] User Flows
-     - [ ] Sketch
-     - [ ] Finalize
+  - [x] Complete Unit 4
+    - [x] User Flows
+     - [x] Sketch
+     - [x] Finalize
   - [ ] Complete Unit 5
-   - [ ] Learning Canvas
+   - [x] Learning Canvas
    - [ ] Landing Page Prototype
   - [ ] Complete Unit 6
     - [ ] Landing Page Test
@@ -124,7 +124,7 @@ _#career_
   
 _#read_
 **Fiction** 
-- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
 - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
@@ -132,6 +132,7 @@ _#read_
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
+- [ ] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)
 - [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
 
 --- 
