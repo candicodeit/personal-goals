@@ -1,4 +1,4 @@
-Personal Goals (Updated: Dec 10, 2018)
+Personal Goals (Updated: Dec 14, 2018)
 ==============
 
 Personal goals made open source. 
