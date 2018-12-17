@@ -149,6 +149,14 @@ _#read_
 - [x] Finish [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
 - [x] Finish [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
 
+### Week 50: Reflection
+Last week, I'm reminding of how much I appreciate the friendships I still have from previous jobs. I enjoyed spending time with the friends I made at Barnes & Noble. The one of the things I wanted to be better about in 2019 is maintaining the relationships I have. Since I don't work with people face-to-face every day, I have to make sure I still gain that in-person interaction somewhere else, regardless if it's work-related or personal. 
+
+I also enjoyed listening to [WorkParty](https://www.goodreads.com/book/show/36373909-workparty). I thought this was mostly going to be advice for mostly marketing fields but it seems like it's something that can apply to all businesses. The advice can be applied to anyone wanting to start on their own. Some could probably even apply to every day work life such as knowing how much you're worth and ALWAYS asking for a raise. I've found that women don't often evaluate themselves as they should whereas men are always asking for more money. Personally, I know I work a lot and I do a lot of what is not in my job description. I don't often get the credit but usually I don't worry about it, which is a huge mistake. I may be the only one who advocates for myself. 
+
+My highlight last week revolved around my UX coursework for Designlab. I often worry about perfection but forget that I can iterate. I'm not making this a sales pitch tomorrow. I have time to tweak here and there. Work for iteration, not perfection.
+
+
 ---
 
 ## Week 51: Dec 17 - 23 (Dad's Birthday)
@@ -180,6 +188,8 @@ _#read_
 **Non-fiction**
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
+
+### Week 51: Reflection
 
 ---
 
@@ -218,6 +228,9 @@ _#career_
 _#read_
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+
+### Week 52: Reflection
+
 
 ---
 
