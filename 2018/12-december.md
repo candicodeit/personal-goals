@@ -8,22 +8,22 @@ Personal Goals | What I Did - December 2018
   - [ ] Loft (old work boxes)
   - [ ] Bookshelves
   - [ ] Master bathroom sink
-  - [ ] Master closet
+  - [x] Master closet
 
 _#me_
-- [ ] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
-- [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [ ] List tactics to experiment 
+- [x] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
+- [x] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - [x] List tactics to experiment 
 - [ ] Review goal planning methods and plan for 2019
   - [ ] Iterate goal planning method
   - [ ] Update monthly/weekly template
   - [ ] Update foursquare
-- Meditate at least once a day
+- Meditate at least once a day (Currently 14 out of 16 days)
 
 _#family/friends_
 - [ ] Prep for Dad's Birthday
-- [ ] Prep for DMMworkfam Festivus party
-- [ ] Figure out gifts for the list remainder
+- [x] Prep for DMMworkfam Festivus party
+- [x] Figure out gifts for the list remainder
 - [ ] Plan for weekend in BTR
 - [ ] Write out Christmas cards
 
@@ -33,12 +33,12 @@ _#world_
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Conduct 1-on-1 Interviews
-  - [ ] Complete Unit 4
-    - [ ] User Flows
-     - [ ] Sketch
-     - [ ] Finalize
+  - [x] Complete Unit 4
+    - [x] User Flows
+     - [x] Sketch
+     - [x] Finalize
   - [ ] Complete Unit 5
-   - [ ] Learning Canvas
+   - [x] Learning Canvas
    - [ ] Landing Page Prototype
   - [ ] Complete Unit 6
     - [ ] Landing Page Test
@@ -48,7 +48,8 @@ _#career_
   
 _#read_
 **Fiction** 
-- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
 
 **Non-fiction**
 - [ ] Read [The Magnolia Story](https://www.goodreads.com/book/show/29483100-the-magnolia-story)
@@ -56,7 +57,7 @@ _#read_
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
-- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
 
 ---
 
@@ -106,24 +107,34 @@ _#read_
 ## Week 50: Dec 10 - 16
 
 _#me_
-- [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+- [x] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  - close all tabs and apps at the end of the day
+  - identify time craters by using [RescueTime](https://www.rescuetime.com)
+  - make your highlight w/baby steps
+  - make random list
+  - go all in
 - [ ] Meditate at least once a day
   - [x] Mon: 1
-  - [ ] Tue:  
-  - [ ] Wed: 
-  - [ ] Thu: 
-  - [ ] Fri:
-  - [ ] Sat: 
-  - [ ] Sun:
+  - [x] Tue: 1 
+  - [x] Wed: 1
+  - [x] Thu: 1
+  - [x] Fri: 1
+  - [ ] Sat: -
+  - [x] Sun: 1
 
 _#family/friends_
-- [ ] Figure out gifts for the list remainder
+- [x] Figure out gifts for the list remainder
 - [ ] Write out Christmas cards
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Conduct 1-on-1 Interviews
+  - [x] Complete Unit 4
+    - [x] User Flows
+     - [x] Sketch
+     - [x] Finalize
   - [ ] Complete Unit 5
-   - [ ] Learning Canvas
+   - [x] Learning Canvas
    - [ ] Landing Page Prototype
   - [ ] Complete Unit 6
     - [ ] Landing Page Test
@@ -131,11 +142,12 @@ _#career_
    
 _#read_
 **Fiction** 
-- [ ] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [x] Finish [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
 
 **Non-fiction**
-- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
-- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) (Currently 45%)
+- [x] Finish [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [x] Finish [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
 
 ---
 
@@ -159,8 +171,16 @@ _#career_
 - [ ] Review Professional Development Plan (what does 2019 look like)
 
 _#read_
+
+**Fiction** 
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+  - [ ] 50%
+  - [ ] 60%
+
 **Non-fiction**
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
+
 ---
 
 ## Week 52: Dec 24 - Dec 30 (Holiday Week and Carly's Birthday)
