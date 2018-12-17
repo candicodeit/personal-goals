@@ -36,6 +36,13 @@ Read more fiction this year -> [Goal: 43/35 books](https://www.goodreads.com/use
 
 _#me_
 - [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
+  * close all tabs at the end of the day
+  * avoid time craters
+		* slack
+		* gmail
+		* google sheets
+	* make your highlight w/baby steps
+	* make a random list
 - [ ] Meditate at least once a day
   - [x] Mon: 1
   - [ ] Tue:  
@@ -134,6 +141,7 @@ _#read_
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
+- [ ] Listen [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
 - [x] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)
 - [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
@@ -190,3 +198,4 @@ _#read_
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) (Currently 45%)
 - [x] Finish [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
 - [x] Finish [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
+
