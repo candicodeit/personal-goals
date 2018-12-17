@@ -21,6 +21,7 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
+- [WorkParty - Dec 2018](https://www.goodreads.com/book/show/36373909-workparty)  
 - [How Women Rise - Jul 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
 - [Geek Girl Rising - Oct 2017](https://www.goodreads.com/book/show/31451040-geek-girl-rising)
