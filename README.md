@@ -1,4 +1,4 @@
-Personal Goals (Updated: Dec 14, 2018)
+Personal Goals (Updated: Dec 17, 2018)
 ==============
 
 Personal goals made open source. 
@@ -24,53 +24,56 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 42/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 43/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-- 24 fiction / 18 non-fiction
-- 18 read /  24 listen
+- 24 fiction / 19 non-fiction
+- 18 read /  25 listen
 - 4 re-reads
 ---
 
 ## Things I'll Do This Week 
-### Week 50: Dec 10 - 16
+### Week 51: Dec 17 - 23 (Dad's Birthday)
 
 _#me_
 - [ ] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
 - [ ] Meditate at least once a day
   - [x] Mon: 1
-  - [x] Tue: 1 
-  - [x] Wed: 1
-  - [x] Thu: 1
-  - [x] Fri: 1
+  - [ ] Tue:  
+  - [ ] Wed: 
+  - [ ] Thu: 
+  - [ ] Fri:
   - [ ] Sat: 
   - [ ] Sun:
 
 _#family/friends_
-- [ ] Figure out gifts for the list remainder
-- [ ] Write out Christmas cards
+- [ ] Prep for Dad's Birthday
+- [ ] Prep for Christmas Eve
+- [ ] Prep for in-laws to visit
+- [ ] Finish Christmas shopping
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
   - [ ] Conduct 1-on-1 Interviews
-  - [x] Complete Unit 4
-    - [x] User Flows
-     - [x] Sketch
-     - [x] Finalize
+  - [ ] Review feedback from assignments
+    - [ ] User Flows
+    - [ ] Learning Canvas
   - [ ] Complete Unit 5
-   - [x] Learning Canvas
    - [ ] Landing Page Prototype
   - [ ] Complete Unit 6
     - [ ] Landing Page Test
     - [ ] Storyboard Review
-   
+- [ ] Review Professional Development Plan (what does 2019 look like)
+
 _#read_
 **Fiction** 
-- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+  - [ ] 50%
+  - [ ] 60%
 
 **Non-fiction**
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
-- [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
-- [ ] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
+- [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
+
 ---
 
 ## Things I'll Do This Month 
@@ -132,8 +135,8 @@ _#read_
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
-- [ ] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)
-- [ ] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [x] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)
+- [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
 
 --- 
 
@@ -143,29 +146,47 @@ _#read_
 
 --- 
 ## Things I Did Last Week 
-### ## Week 49: Dec 3 - 9 (Husband's Birthday and Holiday Party Week)
-
-- [x] Purge schedule 
-  - [x] Master closet
-- [x] Setup Christmas tree
+### Week 50: Dec 10 - 16
 
 _#me_
-- [x] Start [reflecting on 2019 with the baby steps to achieve your goals](https://s3.amazonaws.com/inkandvolt/downloads/2018-planning/IV_HolidaySheet_week4.pdf)
 - [x] Experiment with "Laser" tactics from [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time)
-  - [x] List tactics to experiment 
-- [x] Meditate at least once a day
+  - close all tabs and apps at the end of the day
+  - identify time craters by using [RescueTime](https://www.rescuetime.com)
+  - make your highlight w/baby steps
+  - make random list
+  - go all in
+- [ ] Meditate at least once a day
   - [x] Mon: 1
   - [x] Tue: 1 
   - [x] Wed: 1
   - [x] Thu: 1
   - [x] Fri: 1
-  - [x] Sat: 1
+  - [ ] Sat: -
   - [x] Sun: 1
 
 _#family/friends_
-- [x] Prep for Sara's Birthday
-- [x] Prep for DMMworkfam Festivus party
-     
+- [x] Figure out gifts for the list remainder
+- [ ] Write out Christmas cards
+
+_#career_
+- [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
+  - [ ] Conduct 1-on-1 Interviews
+  - [x] Complete Unit 4
+    - [x] User Flows
+     - [x] Sketch
+     - [x] Finalize
+  - [ ] Complete Unit 5
+   - [x] Learning Canvas
+   - [ ] Landing Page Prototype
+  - [ ] Complete Unit 6
+    - [ ] Landing Page Test
+    - [ ] Storyboard Review
+   
 _#read_
 **Fiction** 
-- [x] Listen [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december) (Currently 70%)
+- [x] Finish [One Day in December](https://www.goodreads.com/book/show/38255337-one-day-in-december)
+
+**Non-fiction**
+- [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) (Currently 45%)
+- [x] Finish [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
+- [x] Finish [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)  
