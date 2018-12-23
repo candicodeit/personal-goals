@@ -1,4 +1,4 @@
-Personal Goals (Updated: Dec 17, 2018)
+Personal Goals (Updated: Dec 22, 2018)
 ==============
 
 Personal goals made open source. 
@@ -24,10 +24,10 @@ Personal goals made open source.
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
 # Reading Goal
-Read more fiction this year -> [Goal: 43/35 books](https://www.goodreads.com/user_challenges/10348403) 
+Read more fiction this year -> [Goal: 44/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
-- 24 fiction / 19 non-fiction
-- 18 read /  25 listen
+- 24 fiction / 20 non-fiction
+- 18 read /  26 listen
 - 4 re-reads
 ---
 
@@ -45,18 +45,18 @@ _#me_
 	* make a random list
 - [ ] Meditate at least once a day
   - [x] Mon: 1
-  - [ ] Tue:  
-  - [ ] Wed: 
-  - [ ] Thu: 
-  - [ ] Fri:
-  - [ ] Sat: 
+  - [x] Tue: 1
+  - [x] Wed: 1
+  - [x] Thu: 1
+  - [ ] Fri: 
+  - [x] Sat: 2 
   - [ ] Sun:
 
 _#family/friends_
-- [ ] Prep for Dad's Birthday
+- [x] Prep for Dad's Birthday
 - [ ] Prep for Christmas Eve
-- [ ] Prep for in-laws to visit
-- [ ] Finish Christmas shopping
+- [ ] ~Prep for in-laws to visit~
+- [x] Finish Christmas shopping
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
@@ -71,6 +71,9 @@ _#career_
     - [ ] Storyboard Review
 - [ ] Review Professional Development Plan (what does 2019 look like)
 
+_#world_
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey follow-up
+
 _#read_
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
@@ -80,7 +83,7 @@ _#read_
 **Non-fiction**
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
-
+- [x] Listen [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 ---
 
 ## Things I'll Do This Month 
@@ -114,7 +117,7 @@ _#family/friends_
 - [ ] Prep for Carly's birthday (Dec 28)
 
 _#world_
-- [ ] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey follow-up
+- [x] Volunteer for [Roc Solid Foundation](http://rocsolidfoundation.org/) - Volunteer Survey follow-up
 
 _#career_
 - [ ] Complete [UX Research & Strategy | Designlab](https://trydesignlab.com/ux-design-course/)
