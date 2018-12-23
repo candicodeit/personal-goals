@@ -144,7 +144,7 @@ _#read_
 - [ ] Read [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 - [ ] Re-read [The Financial Diet](https://www.goodreads.com/book/show/32927009-the-financial-diet) 
 - [ ] Re-listen [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work)
-- [ ] Listen [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+- [x] Listen [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - [ ] Listen [Give and Take](https://www.goodreads.com/book/show/16158498-give-and-take)
 - [x] Listen [WorkParty](https://www.goodreads.com/book/show/36373909-workparty)
 - [x] Read [Writing for Designers](https://www.goodreads.com/book/show/42139749-writing-for-designers)
