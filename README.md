@@ -1,4 +1,4 @@
-Personal Goals (Updated: Dec 22, 2018)
+Personal Goals (Updated: Jan 4, 2019)
 ==============
 
 Personal goals made open source. 
@@ -23,7 +23,7 @@ Personal goals made open source.
 # Personal Foursquare
 ![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
 
-# Reading Goal
+# Reading Goal :books:
 Read more fiction this year -> [Goal: 44/35 books](https://www.goodreads.com/user_challenges/10348403) 
 
 - 24 fiction / 20 non-fiction
