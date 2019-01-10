@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 4, 2019)
+Personal Goals (Updated: Jan 9, 2019)
 ==============
 
 Personal goals made open source. 
@@ -21,14 +21,26 @@ Personal goals made open source.
 
 
 # Personal Foursquare
-![Foursquare](https://github.com/candicodeit/personal-goals/blob/master/imgs/2018-foursquare.png?raw=true "2018 Personal Foursquare")
+
+| Myself   | Relationships | Career  | World |
+| ------------- | ------------- | ------------ | ------------- |
+| Practice Self-care  | Create experiences  | Become a coach  | Practice RAK |
+| Become Healthy  | Plan adult outings  | Create meaningful product  | Volunteer for Roc Solid  |
+
 
 # Reading Goal :books:
-Read more fiction this year -> [Goal: 44/35 books](https://www.goodreads.com/user_challenges/10348403) 
+- Read longer fiction (500+ pgs)
+- Re-read non-fiction 
+- Read books on my nightstand
 
-- 24 fiction / 20 non-fiction
-- 18 read /  26 listen
-- 4 re-reads
+[Reading List](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md)
+
+[Goal: 0/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
+
+_reading stats_
+- 0 fiction / 0 non-fiction
+- 0 read /  0 listen
+- 0 re-reads
 ---
 
 ## Things I'll Do This Week 
