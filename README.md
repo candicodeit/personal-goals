@@ -14,7 +14,6 @@ Personal goals made open source.
    * [This Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-this-month)
    * [Next Month](https://github.com/candicodeit/personal-goals/tree/master#things-ill-do-next-month)
 3. Reflect on:   
-   * [Last Week](https://github.com/candicodeit/personal-goals/tree/master#things-i-did-last-week)
    * [Past Months](https://github.com/candicodeit/personal-goals/tree/master/2018)
 4. [Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
    * [UX/Dev Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-dev.md)
