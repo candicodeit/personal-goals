@@ -29,11 +29,9 @@ Personal goals made open source.
 
 
 # Reading Goal :books:
-- Read longer fiction (500+ pgs)
-- Re-read non-fiction 
-- Read books on my nightstand
-
-[Reading List](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md)
+- [Read longer fiction (500+ pgs)](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#longer-fiction)
+- [Re-read non-fiction](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#re-read-non-fiction)
+- [Read books on my nightstand](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#finish-night-stand-stack)
 
 [Goal: 0/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
 
