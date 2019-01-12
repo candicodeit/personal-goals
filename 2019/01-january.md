@@ -8,30 +8,30 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 3. [Monthly Reflection](https://github.com/candicodeit/personal-goals/tree/master/2019/01-january.md#monthly-reflection)
 
 
-# Monthly Goals
+# Monthly Goals :calendar:
 
-## Important Tasks
+## Important Tasks :clipboard:
 - [ ] Purge bookshelves
 - [ ] Purge bathroom sink
 - [ ] Clean house before father-in-law arrives
 
-## Myself
+## Myself :bamboo:
 - [ ] Meditate every day
 - [ ] Practice self-care
   - [x] Massage
   - [ ] Facial
   - [ ] Haircut
 
-## Relationships
+## Relationships :heart:
 - [ ] Plan one outing with kids and friends
 - [x] Plan one family outing (Aquaman)
 - [ ] Kai's Birthday
 
-## World 
+## World :earth_americas:
 - [ ] Practice RAK
 - [ ] Start planning for Roc Solid's Night for the Fight Gala
 
-## Career
+## Career :computer:
 - [ ] Conduct 1-on-1 Interviews (Bonus)
   - Review results
   - Pick people to interview
@@ -48,7 +48,7 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 - [ ] Landing Page Test
 - [ ] Storyboard Review
 
-## Reading
+## Reading :books:
 
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
