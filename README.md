@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 9, 2019)
+Personal Goals (Updated: Jan 11, 2019)
 ==============
 
 Personal goals made open source. 
@@ -26,9 +26,9 @@ Personal goals made open source.
 
 
 # Reading Goal :books:
-- [Read longer fiction (500+ pgs)](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#longer-fiction)
-- [Re-read non-fiction](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#re-read-non-fiction)
-- [Read books on my nightstand](https://github.com/candicodeit/personal-goals/master/2019/reading-list.md#finish-night-stand-stack)
+- [Read longer fiction (500+ pgs)](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#longer-fiction)
+- [Re-read non-fiction](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#re-read-non-fiction)
+- [Read books on my nightstand](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#finish-night-stand-stack)
 
 [Goal: 1/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
 
