@@ -66,7 +66,7 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 
 _Still creating new Github planning format_
 
-_myself_
+:bamboo: _myself_
 - [x] Meditate everyday
   - [x] Mon
   - [x] Tue
@@ -76,10 +76,10 @@ _myself_
   - [x] Sat
   - [x] Sun
 
-_relationships_
+:heart: _relationships_
 - [x] Plan one family outing (Aquaman)
 
-_reading_
+:books: _reading_
 
 **Non-Fiction** 
 - [x] Listen [Deep Work](https://www.goodreads.com/book/show/25980294-deep-work)
@@ -88,7 +88,7 @@ _reading_
 
 ## Week 2: Jan 7 - 13
 
-_myself_
+:bamboo: _myself_
 - [x] Meditate everyday
   - [x] Mon
   - [x] Tue
@@ -100,13 +100,13 @@ _myself_
 - [ ] Practice self-care
   - [x] Massage  
 
-_relationships_
+:heart: _relationships_
 
-_world_
+:earth_americas: _world_
 
-_career_
+:computer: _career_
 
-_reading_
+:books: _reading_
 
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
@@ -120,7 +120,7 @@ _reading_
 
 ## Week 3: Jan 14 - 20
 
-_myself_
+:bamboo: _myself_
 - [x] Meditate everyday
   - [x] Mon
   - [x] Tue
@@ -132,13 +132,13 @@ _myself_
 - [ ] Practice self-care
   - [x] Massage  
 
-_relationships_
+:heart: _relationships_
 
-_world_
+:earth_americas: _world_
 
-_career_
+:computer: _career_
 
-_reading_
+:books: _reading_
 
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
@@ -149,7 +149,7 @@ _reading_
 
 ## Week 4: Jan 21 - 27
 
-_myself_
+:bamboo: _myself_
 - [x] Meditate everyday
   - [x] Mon
   - [x] Tue
@@ -161,20 +161,20 @@ _myself_
 - [ ] Practice self-care
   - [x] Massage  
 
-_relationships_
+:heart: _relationships_
 - [ ] Plan one outing with kids and friends
 
-_world_
+:earth_americas: _world_
 
-_career_
+:computer: _career_
 
-_reading_
+:books: _reading_
 
 ---------------------------------------------
 
 ## Week 5: Jan 28 - Feb 3
 
-_myself_
+:bamboo: _myself_
 - [x] Meditate everyday
   - [x] Mon
   - [x] Tue
@@ -186,14 +186,14 @@ _myself_
 - [ ] Practice self-care
   - [x] Massage  
 
-_relationships_
+:heart: _relationships_
 - [ ] Plan one outing with kids and friends
 
-_world_
+:earth_americas: _world_
 
-_career_
+:computer: _career_
 
-_reading_
+:books: _reading_
 
 ---------------------------------------------
 
