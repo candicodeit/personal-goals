@@ -21,6 +21,7 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
+- [Give and Take - Dec 2018](https://www.goodreads.com/book/show/16158498)
 - [WorkParty - Dec 2018](https://www.goodreads.com/book/show/36373909-workparty)  
 - [How Women Rise - Jul 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
 - [Myth of the Nice Girl - May 2018](https://www.goodreads.com/book/show/35721133-the-myth-of-the-nice-girl)
@@ -40,7 +41,8 @@ Format: Book Title - Date Finished
 - [Demystifying Public Speaking - Nov 2016](https://www.goodreads.com/book/show/32784222-demystifying-public-speaking)
 
 
-# Productivity
+# Productivity 
+- [Deep Work - Jan 2018](https://www.goodreads.com/book/show/25744928)
 - [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 - [Your Best Year Ever - Mar 2018](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
 - [Great at Work - Mar 2018](https://www.goodreads.com/book/show/35297611-great-at-work)
