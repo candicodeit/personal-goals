@@ -38,7 +38,7 @@ _reading stats_
 - 0 re-reads
 ---
 
-# 2019 Goals 
+# 2019 Goals :trophy:
 - [ ] Complete my [Full Focus Planner](https://fullfocusplanner.com/) for the quarter
 	- using a new goal system/planner, I wanted to make sure I fully utilize the planner before determining if it's the right system for me. 
 - [ ] Achieve 32% body fat index 
@@ -54,7 +54,7 @@ _reading stats_
 
 ---
 
-# Baby Steps
+# Baby Steps :feet:
 
 The way to achieve goals is baby steps. When you can make the baby steps happen, you're more likely to achieve your goals. Here are my baby steps: 
 
