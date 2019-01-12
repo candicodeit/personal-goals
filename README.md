@@ -59,5 +59,5 @@ _reading stats_
 The way to achieve goals is baby steps. When you can make the baby steps happen, you're more likely to achieve your goals. Here are my baby steps: 
 
    * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2019/01-january.md#week-2-jan-7---13)
-   * [This Month](https://github.com/candicodeit/personal-goals/blob/master/2019/01-january.md#monthly-goals)
+   * [This Month](https://github.com/candicodeit/personal-goals/blob/master/2019/01-january.md#monthly-goals-calendar)
 
