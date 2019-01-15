@@ -49,7 +49,7 @@ _reading stats_
 	- I love building products and features but I'd love to be at the beginning stages of design rather than the code side. I've thought about pursuing a product manager role. 
 - [ ] Plan more family/friends/date activity once a month
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me.
-- [ ] Meditate 28 days a month or 300 minutes a month
+- [ ] Meditate 28 days a month or 450 minutes a month
 	- I started meditating after reading [Make Time](https://www.goodreads.com/book/show/37880811-make-time). I think it has helped me worry less and provide me a calm that I've been seeking. I feel different on the days I don't meditate. Headspace has been a great way to help me with my practice.
 
 ---
