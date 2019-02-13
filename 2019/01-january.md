@@ -16,47 +16,31 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 - [ ] Clean house before father-in-law arrives
 
 ## Myself :bamboo:
-- [ ] Meditate every day
-- [ ] Practice self-care
+- [x] Meditate every day
+- [x] Practice self-care
   - [x] Massage
-  - [ ] Facial
-  - [ ] Haircut
+  - [x] Facial
+  - [x] Haircut
 
 ## Relationships :heart:
 - [ ] Plan one outing with kids and friends
 - [x] Plan one family outing (Aquaman)
-- [ ] Kai's Birthday
 
 ## World :earth_americas:
 - [ ] Practice RAK
-- [ ] Start planning for Roc Solid's Night for the Fight Gala
+- [x] Start planning for Roc Solid's Night for the Fight Gala
 
 ## Career :computer:
-- [ ] Conduct 1-on-1 Interviews (Bonus)
-  - Review results
-  - Pick people to interview
-  - Schedule 3-5 participants 
-- [ ] Review feedback
-  - [ ] User flows
-  - [ ] Learning Canvas
-- [ ] Landing Page Prototype
-  - Select 3 main features
-  - Create product headline
-  - Create value statement
-  - Plan 3 pages
-  - Plan A/B test
-- [ ] Landing Page Test
-- [ ] Storyboard Review
+
 
 ## Reading :books:
 
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
-- [ ] Read [Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone)
 
 **Non-Fiction** 
 - [x] Listen [Deep Work](https://www.goodreads.com/book/show/25980294-deep-work)
-- [ ] Listen [Permission to Screw Up](https://www.goodreads.com/book/show/34437136-permission-to-screw-up)
+- [x] Listen [Permission to Screw Up](https://www.goodreads.com/book/show/34437136-permission-to-screw-up)
 
 ---------------------------------------------
 
@@ -198,3 +182,4 @@ _Still creating new Github planning format_
 ---------------------------------------------
 
 # Monthly Reflection
+I went a whole month without social media. It was quite nice. Though it didn't help that I had 2 games on my phone. I still think I got a decent amount accomplished. Taking on a Leadership session and planning for a volunteer event definitely took up a lot of my free time. I'm not worried though since those are going to make me a better person and help others.

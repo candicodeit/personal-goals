@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 11, 2019)
+Personal Goals (Updated: Feb 13, 2019)
 ==============
 
 Personal goals made open source. 
@@ -30,11 +30,11 @@ Personal goals made open source.
 - [Re-read non-fiction](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#re-read-non-fiction)
 - [Read books on my nightstand](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#finish-night-stand-stack)
 
-[Goal: 1/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
+[Goal: 6/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
 
 _reading stats_
-- 0 fiction / 1 non-fiction
-- 0 read /  0 listen
+- 0 fiction / 6 non-fiction
+- 2 read /  4 listen
 - 0 re-reads
 ---
 
@@ -58,6 +58,6 @@ _reading stats_
 
 The way to achieve goals is baby steps. When you can make the baby steps happen, you're more likely to achieve your goals. Here are my baby steps: 
 
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2019/01-january.md#week-2-jan-7---13)
-   * [This Month](https://github.com/candicodeit/personal-goals/blob/master/2019/01-january.md#monthly-goals-calendar)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2019/02-february.md#week-7-feb-11---17)
+   * [This Month](https://github.com/candicodeit/personal-goals/blob/master/2019/02-february.md#monthly-goals-calendar)
 
