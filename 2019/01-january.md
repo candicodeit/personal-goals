@@ -16,8 +16,8 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 - [ ] Clean house before father-in-law arrives
 
 ## Myself :bamboo:
-- [ ] Meditate every day
-- [ ] Practice self-care
+- [x] Meditate every day
+- [x] Practice self-care
   - [x] Massage
   - [x] Facial
   - [x] Haircut
