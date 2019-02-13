@@ -64,7 +64,7 @@ _Still creating new Github planning format_
 :bamboo: _myself_
 - [ ] Meditate everyday
   - [ ] Mon
-  - [ ] Tue
+  - [x] Tue
   - [ ] Wed
   - [ ] Thu
   - [ ] Fri
