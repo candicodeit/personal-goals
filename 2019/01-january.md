@@ -182,3 +182,4 @@ _Still creating new Github planning format_
 ---------------------------------------------
 
 # Monthly Reflection
+I went a whole month without social media. It was quite nice. Though it didn't help that I had 2 games on my phone. I still think I got a decent amount accomplished. Taking on a Leadership session and planning for a volunteer event definitely took up a lot of my free time. I'm not worried though since those are going to make me a better person and help others.
