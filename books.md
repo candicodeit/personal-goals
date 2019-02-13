@@ -21,6 +21,8 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
+- [Brave, Not Perfect - Feb 2019](https://www.goodreads.com/book/show/40364335-brave-not-perfect)
+- [Permission to Screw Up - Jan 2019](https://www.goodreads.com/book/show/34437136-permission-to-screw-up)
 - [Give and Take - Dec 2018](https://www.goodreads.com/book/show/16158498)
 - [WorkParty - Dec 2018](https://www.goodreads.com/book/show/36373909-workparty)  
 - [How Women Rise - Jul 2018](https://www.goodreads.com/book/show/36204301-how-women-rise)
@@ -34,6 +36,7 @@ Format: Book Title - Date Finished
 
 
 # Work-Related
+- [The Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code)
 - [Powerful: Build Culture of Freedom and Responsibility - Aug 2018](https://www.goodreads.com/book/show/36417234-powerful)
 - [Meeting Design - Jul 2018](https://www.goodreads.com/book/show/36687954-meeting-design) 
 - [Project Management for Humans - Nov 2017](https://www.goodreads.com/book/show/35714082-project-management-for-humans)
