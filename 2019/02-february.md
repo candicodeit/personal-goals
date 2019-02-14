@@ -65,7 +65,7 @@ _Still creating new Github planning format_
 - [ ] Meditate everyday
   - [ ] Mon
   - [x] Tue
-  - [ ] Wed
+  - [x] Wed
   - [ ] Thu
   - [ ] Fri
   - [ ] Sat
@@ -81,10 +81,10 @@ _Still creating new Github planning format_
 - [ ] NFTF Donation Goal: 50
 
 :computer: _career_
-- [ ] Become a Product Manager - Udemy course
-  - [ ] Section 2 - Introduction to Product Management
-  - [ ] Section 3 - Introduction to Product Development
-  - [ ] Section 4 - Ideas and User Needs
+- [x] Become a Product Manager - Udemy course
+  - [x] Section 2 - Introduction to Product Management
+  - [x] Section 3 - Introduction to Product Development
+  - [x] Section 4 - Ideas and User Needs
   
 :books: _reading_
 
