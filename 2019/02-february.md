@@ -70,21 +70,22 @@ _Still creating new Github planning format_
   - [ ] Fri
   - [ ] Sat
   - [ ] Sun
-- [ ] Practice self-care
-  - [ ] Facial
+- [x] Practice self-care
+  - [x] Facial
 
 :heart: _relationships_
-- [ ] Plan lunch w/a friend
+- [x] Plan lunch w/a friend
 - [ ] Plan a date night
 
 :earth_americas: _world_
-- [ ] NFTF Donation Goal: 50
+- [ ] NFTF Donation Goal: 50 (Made it to 46)
 
 :computer: _career_
 - [x] Become a Product Manager - Udemy course
   - [x] Section 2 - Introduction to Product Management
   - [x] Section 3 - Introduction to Product Development
   - [x] Section 4 - Ideas and User Needs
+  - [x] Section 5 - Competitive and Market Analysis
   
 :books: _reading_
 
@@ -108,10 +109,10 @@ _Still creating new Github planning format_
   - [ ] Sat
   - [ ] Sun
 - [ ] Practice self-care
-  - [ ] Massage  
+  - [ ] At-Home Facial  
 
 :heart: _relationships_
-- [ ] Plan breakfast w/friend
+- [x] Plan breakfast w/friend
 - [ ] Plan one family outing (How to Train a Dragon)
 
 :earth_americas: _world_
@@ -119,14 +120,17 @@ _Still creating new Github planning format_
 
 :computer: _career_
 - [ ] Become a Product Manager - Udemy course
-  - [ ] Section 5 - Competitive and Market Analysis
   - [ ] Section 6 - Customer Development
   - [ ] Section 7 - Designing and Running Experiments
+  - [ ] Section 8 - Conceptualize the Solution
 
 :books: _reading_
 
 **Fiction** 
 - [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+  - [ ] 75%
+  - [ ] 85%
+  - [ ] 95%
 
 
 ---------------------------------------------
