@@ -1,4 +1,4 @@
-Personal Goals (Updated: Feb 18, 2019)
+Personal Goals (Updated: Feb 25, 2019)
 ==============
 
 Personal goals made open source. 
@@ -58,6 +58,6 @@ _reading stats_
 
 The way to achieve goals is baby steps. When you can make the baby steps happen, you're more likely to achieve your goals. Here are my baby steps: 
 
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2019/02-february.md#week-8-feb-18---24-father-in-law-visiting)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2019/02-february.md#week-9-feb-25---mar-3)
    * [This Month](https://github.com/candicodeit/personal-goals/blob/master/2019/02-february.md#monthly-goals-calendar)
 
