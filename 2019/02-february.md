@@ -48,6 +48,7 @@ _Note: create the monthly goals and weeks. on the readme, link the week to the m
 - [x] Listen [The Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code)
 - [x] Listen [Brave, Not Perfect](https://www.goodreads.com/book/show/40364335-brave-not-perfect)
 - [x] Listen [To Go-Giver](https://www.goodreads.com/book/show/1873060.The_Go_Giver)
+- [ ] Read [Braving the Wilderness](https://www.goodreads.com/book/show/34565022-braving-the-wilderness)
 
 ---------------------------------------------
 
@@ -102,8 +103,8 @@ _Still creating new Github planning format_
 :bamboo: _myself_
 - [ ] Meditate everyday
   - [ ] Mon
-  - [ ] Tue
-  - [ ] Wed
+  - [x] Tue
+  - [x] Wed
   - [ ] Thu
   - [ ] Fri
   - [ ] Sat
@@ -120,7 +121,7 @@ _Still creating new Github planning format_
 
 :computer: _career_
 - [ ] Become a Product Manager - Udemy course
-  - [ ] Section 6 - Customer Development
+  - [ ] Section 6 - Customer Development (Currently 75%)
   - [ ] Section 7 - Designing and Running Experiments
   - [ ] Section 8 - Conceptualize the Solution
 
@@ -149,19 +150,26 @@ _Still creating new Github planning format_
 - [ ] Practice self-care
   - [ ] Facial
 
-:heart: _relationships_
-- [ ] Plan one outing with kids and friends
-
 :earth_americas: _world_
 - [ ] NFTF Donation Goal: 60
 
 :computer: _career_
 - [ ] Become a Product Manager - Udemy course
+  - [ ] Section 6 - Customer Development (Currently 75%)
+  - [ ] Section 7 - Designing and Running Experiments
   - [ ] Section 8 - Conceptualize the Solution
   - [ ] Section 9 - Metrics for Product Managers
-  - [ ] Section 10 - Building the Product
 
 :books: _reading_
+
+**Fiction** 
+- [ ] Read [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/17347382-harry-potter-and-the-goblet-of-fire)
+  - [ ] 75%
+  - [ ] 85%
+  
+
+**Non-Fiction** 
+- [ ] Read [Braving the Wilderness](https://www.goodreads.com/book/show/34565022-braving-the-wilderness)  
 
 ---------------------------------------------
 
