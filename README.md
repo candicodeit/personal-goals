@@ -1,7 +1,7 @@
-Personal Goals (Updated: Feb 25, 2019)
+Personal Goals (Updated: May 16, 2019)
 ==============
 
-Personal goals made open source. 
+Personal goals made open source. For 2019, I've mostly been using my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals.
 
 # Table of Contents
 1. [About My Goals](https://github.com/candicodeit/personal-goals/blob/master/about.md)
@@ -30,16 +30,16 @@ Personal goals made open source.
 - [Re-read non-fiction](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#re-read-non-fiction)
 - [Read books on my nightstand](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#finish-night-stand-stack)
 
-[Goal: 6/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
+[Goal: 14/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
 
 _reading stats_
-- 0 fiction / 6 non-fiction
-- 2 read /  4 listen
-- 0 re-reads
+- 1 fiction / 13 non-fiction
+- 7 read /  7 listen
+- 1 re-reads
 ---
 
 # 2019 Goals :trophy:
-- [ ] Complete my [Full Focus Planner](https://fullfocusplanner.com/) for the quarter
+- [x] Complete my [Full Focus Planner](https://fullfocusplanner.com/) for the quarter
 	- using a new goal system/planner, I wanted to make sure I fully utilize the planner before determining if it's the right system for me. 
 - [ ] Achieve 32% body fat index 
 	- working from home means less movement. with my toddler getting faster, I want to be able to catch up. I also want to sleep better.
@@ -49,7 +49,7 @@ _reading stats_
 	- I love building products and features but I'd love to be at the beginning stages of design rather than the code side. I've thought about pursuing a product manager role. 
 - [ ] Plan more family/friends/date activity once a month
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me.
-- [ ] Meditate 28 days a month or 450 minutes a month
+- [x] Meditate 28 days a month or 450 minutes a month
 	- I started meditating after reading [Make Time](https://www.goodreads.com/book/show/37880811-make-time). I think it has helped me worry less and provide me a calm that I've been seeking. I feel different on the days I don't meditate. Headspace has been a great way to help me with my practice.
 
 ---
