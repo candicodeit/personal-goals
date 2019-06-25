@@ -6,6 +6,7 @@ Books I've enjoyed that I feel like helped me professionally and personally.
 Format: Book Title - Date Finished
 
 # Development/Design
+- [Design for Real Life - Jun 2019](https://abookapart.com/products/design-for-real-life)
 - [Sprint - Oct 2018](https://www.goodreads.com/book/show/25814544-sprint)
 - [Conversational Design - Apr 2018](https://www.goodreads.com/book/show/38393096-conversational-design)
 - [The New CSS Layout - Nov 2017](https://www.goodreads.com/book/show/36387025-the-new-css-layout)
@@ -17,6 +18,7 @@ Format: Book Title - Date Finished
 
 # UX
 - [The User Experience Team of One - Mar 2018](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
+- [Everyday Information Architecture - May 2019](https://abookapart.com/products/everyday-information-architecture)
 
 ---
 
@@ -36,7 +38,9 @@ Format: Book Title - Date Finished
 
 
 # Work-Related
-- [The Culture Code](https://www.goodreads.com/book/show/33517721-the-culture-code)
+- [Resilient Management - Jun 2019](https://abookapart.com/products/resilient-management)
+- [The Making of a Manager - Apr 2019](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+- [The Culture Code - Feb 2019](https://www.goodreads.com/book/show/33517721-the-culture-code)
 - [Powerful: Build Culture of Freedom and Responsibility - Aug 2018](https://www.goodreads.com/book/show/36417234-powerful)
 - [Meeting Design - Jul 2018](https://www.goodreads.com/book/show/36687954-meeting-design) 
 - [Project Management for Humans - Nov 2017](https://www.goodreads.com/book/show/35714082-project-management-for-humans)
@@ -45,6 +49,8 @@ Format: Book Title - Date Finished
 
 
 # Productivity 
+- [Digital Minimalism - Mar 2019](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+- [Free to Focus - Mar 2019](https://www.goodreads.com/book/show/40392296-free-to-focus)
 - [Deep Work - Jan 2018](https://www.goodreads.com/book/show/25744928)
 - [Make Time: How to Focus on What Matters Every Day - Oct 2018](https://www.goodreads.com/book/show/37880811-make-time)
 - [Your Best Year Ever - Mar 2018](https://www.goodreads.com/book/show/35138433-your-best-year-ever)
@@ -57,7 +63,6 @@ Format: Book Title - Date Finished
 To Be Read 
 ==============
 - [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)
-- [Design for Real Life](https://abookapart.com/products/design-for-real-life)
 - [Designing for Touch](https://abookapart.com/products/designing-for-touch)
 - [Atomic Design](http://atomicdesign.bradfrost.com/)
 - [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
