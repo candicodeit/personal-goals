@@ -6,7 +6,7 @@
 - Read books on my nightstand
 
 ### Longer Fiction
-1. Harry Potter and the Goblet of Fire - 10.5 hrs / 752 pgs
+1. ~~Harry Potter and the Goblet of Fire~~ - 10.5 hrs / 752 pgs
 2. Children of Blood and Bone - 8 hrs / 544 pgs
 3. Pillars of the Earth - 17hrs / 983 pgs
 4. Harry Potter and the Order of Phoenix - 12 hrs / 896 pgs
@@ -35,4 +35,5 @@
 6. Peculiar Incident on Shady Street
 7. Snow like Ashes 
 8. Hocus Pocus
+
 
