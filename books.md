@@ -6,6 +6,7 @@ Books I've enjoyed that I feel like helped me professionally and personally.
 Format: Book Title - Date Finished
 
 # Development/Design
+- [Org Design for Design Orgs - Aug 2019](https://www.goodreads.com/book/show/27968897-org-design-for-design-orgs)
 - [Design for Real Life - Jun 2019](https://abookapart.com/products/design-for-real-life)
 - [Sprint - Oct 2018](https://www.goodreads.com/book/show/25814544-sprint)
 - [Conversational Design - Apr 2018](https://www.goodreads.com/book/show/38393096-conversational-design)
