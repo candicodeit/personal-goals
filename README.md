@@ -21,8 +21,8 @@ Personal goals made open source. For 2019, I've mostly been using my [Full Focus
 
 | Myself   | Relationships | Career  | World |
 | ------------- | ------------- | ------------ | ------------- |
-| Practice Self-care  | Create experiences  | Become a coach  | Practice RAK |
-| Become Healthy  | Plan adult outings  | Create meaningful product  | Volunteer for Roc Solid  |
+| Practice self-care  | Create experiences  | Become a coach  | Practice RAK |
+| Become healthy  | Plan adult outings  | Create meaningful product  | Volunteer for Roc Solid  |
 
 
 # Reading Goal :books:
