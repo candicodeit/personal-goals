@@ -1,4 +1,4 @@
-Personal Goals (Updated: Aug 18, 2019)
+Personal Goals (Updated: Oct 15, 2019)
 ==============
 
 Personal goals made open source. For 2019, I've mostly been using my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. These are my [achievements for 2018](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md).
@@ -30,11 +30,11 @@ Personal goals made open source. For 2019, I've mostly been using my [Full Focus
 - [Re-read non-fiction](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#re-read-non-fiction)
 - [Read books on my nightstand](https://github.com/candicodeit/personal-goals/blob/master/reading-list.md#finish-night-stand-stack)
 
-[Goal: 18/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
+[Goal: 25/24 books](https://www.goodreads.com/challenges/8863-2019-reading-challenge) 
 
 _reading stats_
-- 3 fiction / 15 non-fiction
-- 11 read /  7 listen
+- 5 fiction / 20 non-fiction
+- 14 read /  11 listen
 - 2 re-reads
 ---
 
