@@ -18,6 +18,7 @@ Format: Book Title - Date Finished
 ---
 
 # UX
+- [Just Enough Research - Oct 2019](https://abookapart.com/products/just-enough-research)
 - [The User Experience Team of One - Mar 2018](https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one)
 - [Everyday Information Architecture - May 2019](https://abookapart.com/products/everyday-information-architecture)
 
@@ -39,6 +40,7 @@ Format: Book Title - Date Finished
 
 
 # Work-Related
+- [The Manager's Path - Aug 2019](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 - [Resilient Management - Jun 2019](https://abookapart.com/products/resilient-management)
 - [The Making of a Manager - Apr 2019](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 - [The Culture Code - Feb 2019](https://www.goodreads.com/book/show/33517721-the-culture-code)
