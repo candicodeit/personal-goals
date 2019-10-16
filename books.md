@@ -70,7 +70,6 @@ To Be Read
 - [Atomic Design](http://atomicdesign.bradfrost.com/)
 - [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
 - [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-- [Just Enough Research](https://abookapart.com/products/just-enough-research)
 - [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
 - [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
