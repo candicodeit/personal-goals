@@ -25,6 +25,8 @@ Format: Book Title - Date Finished
 ---
 
 # Inspirational
+- [Everyone Can Be a Ninja - Sep 2019](https://www.goodreads.com/book/show/42201951-everyone-can-be-a-ninja)
+- [Choose Wonder Over Worry - Sep 2019](https://www.goodreads.com/book/show/36562499-choose-wonder-over-worry)
 - [Brave, Not Perfect - Feb 2019](https://www.goodreads.com/book/show/40364335-brave-not-perfect)
 - [Permission to Screw Up - Jan 2019](https://www.goodreads.com/book/show/34437136-permission-to-screw-up)
 - [Give and Take - Dec 2018](https://www.goodreads.com/book/show/16158498)
@@ -37,7 +39,7 @@ Format: Book Title - Date Finished
 - [Start with Why - Mar 2017](https://www.goodreads.com/book/show/7108725-start-with-why)
 - [Joy on Demand - Dec 2016](https://www.goodreads.com/book/show/27189099-joy-on-demand)
  
-
+---
 
 # Work-Related
 - [The Manager's Path - Aug 2019](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
@@ -50,6 +52,7 @@ Format: Book Title - Date Finished
 - [Radical Candor - Oct 2017](https://www.goodreads.com/book/show/29939161-radical-candor)
 - [Demystifying Public Speaking - Nov 2016](https://www.goodreads.com/book/show/32784222-demystifying-public-speaking)
 
+---
 
 # Productivity 
 - [Digital Minimalism - Mar 2019](https://www.goodreads.com/book/show/40672036-digital-minimalism)
@@ -60,7 +63,6 @@ Format: Book Title - Date Finished
 - [Great at Work - Mar 2018](https://www.goodreads.com/book/show/35297611-great-at-work)
 - [Smarter, Faster, Better - Apr 2017](https://www.goodreads.com/book/show/28516424-smarter-faster-better)
 - [Power of Habit - Jan 2017](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
-
 
 
 To Be Read 
