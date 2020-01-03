@@ -10,7 +10,7 @@ Personal goals made open source. For 2019, I used my [Full Focus Planner](https:
    * [Reading Goals](https://github.com/candicodeit/personal-goals/tree/master#reading-goal)
       * [Favorite Professional Books](https://github.com/candicodeit/personal-goals/blob/master/books.md)
    * [2020 Goals](https://github.com/candicodeit/personal-goals/tree/master#2020-goals-trophy)   
-2. [12 Week Year](https://github.com/candicodeit/personal-goals/tree/master#baby-steps)
+2. [12 Week Year](https://github.com/candicodeit/personal-goals/tree/master#12-week-year)
 3. [Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
    * [UX/PM Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-pm.md)
 
