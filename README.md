@@ -75,6 +75,9 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
 
+- [ ] Write more blog posts (habit)
+	- I always have a lot on my mind. I also like sharing my experiences with friends and co-workers to help them with their own personal development journey. I think if I write more, it would help my communication skills and hopefully help others that I don't get to share my journey with. 
+
 ---
 
 # 12 Week Year
