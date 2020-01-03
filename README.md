@@ -58,17 +58,17 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
    
 - [ ] Achieve 32% body fat index (achievement)
 	- Working from home means less movement. With my toddler getting faster, I want to be able to catch up. I also want to sleep better.
-   - Milestones: 
-    - lose 15 lbs
-    - complete 6 weeks of intermittent fasting
-    - lose 3% body fat
-    - down to size 10
+      - Milestones: 
+         - lose 1% body fat
+         - complete 6 weeks of intermittent fasting
+         - lose 3% body fat
+         - down to size 10
 
 - [ ] Obtain CAPM Certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. Because I am not a project manager full time, I want to learn more about what's involved in being one. Regardless of where my career path will take me, I think these skills could be useful in any position I take on. 
-   - Milestones: 
-    - complete CAPM Udemy course
-    - write all 14 sets of study cards
+      - Milestones: 
+         - complete CAPM Udemy course
+         - write all 14 sets of study cards
 
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
