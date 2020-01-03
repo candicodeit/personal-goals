@@ -16,6 +16,7 @@ Personal goals made open source. For 2019, I used my [Full Focus Planner](https:
 
 
 # Personal Foursquare 
+I wanted to create a foursquare to give more focus to any goals I set.
 
 | Myself   | Relationships | Career  | World |
 | ------------- | ------------- | ------------ | ------------- |
@@ -24,6 +25,7 @@ Personal goals made open source. For 2019, I used my [Full Focus Planner](https:
 
 
 # Reading Goal :books:
+I *LOVE* reading so I always make sure to have a reading goal every year. It's hard to set a list of books to read because I have different reading moods. It's like meal planning for the week but you really just want to have pizza. I thought I should create more general reading goals so I can make time to read. 
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
@@ -79,6 +81,6 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 The idea behind 12 Week Year is setting goals per 12 weeks versus the full year. Instead of separating my planning monthly or by quarter as previous years, I'm listing them out as 12 weeks. 
 
    * [12 Weeks](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md)
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md#week-1--jan-6---12)
    
 
