@@ -1,4 +1,4 @@
-Continuous learning of UX and the front end development (Updated: Sep 3, 2018)
+Continuous learning of UX and the project management (Updated: Jan 2, 2020)
 ==============
 Backlog of learning resources for professional development.
 
@@ -8,6 +8,7 @@ Backlog of learning resources for professional development.
   - [ ] [User Research v2 (7%)](https://github.com/candicodeit/personal-goals/projects/3)  
   - Conducting Usability Testing (Current Progress: 41%)
   - UI Design Patterns for Successful Software (Current Progress: 12%)
+  - [ ] [Human Computer Interaction (62%)](https://www.interaction-design.org/courses/human-computer-interaction?r=candi-lemoine)
   - Interaction Design for Usability
   - Emotional Design
   - Psychology of Interaction Design
