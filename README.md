@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 2, 2019)
+Personal Goals (Updated: Jan 2, 2020)
 ==============
 
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
