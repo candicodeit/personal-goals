@@ -15,12 +15,12 @@ Backlog of learning resources for professional development.
   - Design Thinking
 - Reading:
   - [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)
-  - [Design for Real Life](https://abookapart.com/products/design-for-real-life)
+  - [x] [Design for Real Life](https://abookapart.com/products/design-for-real-life)
   - [Designing for Touch](https://abookapart.com/products/designing-for-touch)
   - [Atomic Design](http://atomicdesign.bradfrost.com/)
   - [Designing Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
   - [Designing Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-  - [Just Enough Research](https://abookapart.com/products/just-enough-research)
+  - [x] [Just Enough Research](https://abookapart.com/products/just-enough-research)
   - [Flexible Typesetting](https://abookapart.com/products/flexible-typesetting)
   - [Build Better Products](https://www.goodreads.com/book/show/32856281-build-better-products)
 - Udemy Courses
@@ -32,22 +32,9 @@ Backlog of learning resources for professional development.
 
 ---  
 
-## Development - Small Tasks
+## Project Management - Small Tasks
 - [Udemy Courses](https://www.udemy.com/user/candi-lemoine/)
-  - [Ultimate CSS Grid Course: From Beginner to Advanced (Current Progress: 29%)](https://github.com/candicodeit/udemy/projects/1)
-  - Advanced CSS and Sass
-  - Angular 5
-  - JavaScript Essentials 2017
-  - The Complete Node.js Developer Course
-  - JavaScript: Understanding the Weird Parts
-  - The Complete JavaScript Course
-- Reading: 
-  - [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design)
-  - [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
-  - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
-  - [Practical SVG](https://abookapart.com/products/practical-svg)
-  - [Designing for Performance](http://designingforperformance.com/)
-- [Build a blog](https://github.com/candicodeit/githubpages/projects/1)
-- [Accessibility for Web Design](https://www.lynda.com/Web-Design-tutorials/Accessibility-Web-Design/606090-2.html)
+  - [CAPM Exam Prep Seminar](https://www.udemy.com/course/capm-pmbok6/learn/lecture/8408774)
+
 
 
