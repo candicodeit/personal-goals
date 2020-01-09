@@ -29,11 +29,11 @@ I *LOVE* reading so I always make sure to have a reading goal every year. It's h
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
-[Goal: 0/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
+[Goal: 2/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
 
 _reading stats_
-- 0 fiction / 0 non-fiction
-- 0 read /  0 listen
+- 1 fiction / 1 non-fiction
+- 1 read /  1 listen
 - 0 re-reads
 
 ---
