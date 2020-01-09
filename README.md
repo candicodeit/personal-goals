@@ -4,15 +4,15 @@ Personal Goals (Updated: Jan 9, 2020)
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
 
 # Table of Contents
-1. [About My Goals](https://github.com/candicodeit/personal-goals/blob/master/about.md)
-   * [Personal Foursquare](https://github.com/candicodeit/personal-goals/tree/master#personal-foursquare)
+1. [About My Goals](about.md)
+   * [Personal Foursquare](#personal-foursquare)
    * [Strength Finders Certificate](https://github.com/candicodeit/personal-goals/blob/2020-planning/personality-tests/StrengthFinders%20-%20Certificate.pdf)
-   * [Reading Goals](https://github.com/candicodeit/personal-goals/tree/master#reading-goal)
-      * [Favorite Professional Books](https://github.com/candicodeit/personal-goals/blob/master/books.md)
-   * [2020 Goals](https://github.com/candicodeit/personal-goals/tree/master#2020-goals-trophy)   
-2. [12 Week Year](https://github.com/candicodeit/personal-goals/tree/master#12-week-year)
-3. [Backlog](https://github.com/candicodeit/personal-goals/blob/master/backlog.md)
-   * [UX/PM Improvements](https://github.com/candicodeit/personal-goals/blob/master/ux-pm.md)
+   * [Reading Goals](#reading-goal-books)
+      * [Favorite Professional Books](books.md)
+   * [2020 Goals](#2020-goals-trophy)   
+2. [12 Week Year](#12-week-year)
+3. [Backlog](backlog.md)
+   * [UX/PM Improvements](ux-pm.md)
 
 
 # Personal Foursquare 
