@@ -2,6 +2,7 @@ Social Gathering Checklist
 ==============
 
 - [ ] Lunch date
+- [ ] Coworking 6x
 - [ ] Night out with friends
 - [ ] Breakfast meetup
 - [ ] Movie Night
