@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 9, 2020)
+Personal Goals (Updated: Jan 20, 2020)
 ==============
 
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
@@ -29,11 +29,11 @@ I *LOVE* reading so I always make sure to have a reading goal every year. It's h
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
-[Goal: 2/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
+[Goal: 4/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
 
 _reading stats_
-- 1 fiction / 1 non-fiction
-- 1 read /  1 listen
+- 2 fiction / 2 non-fiction
+- 2 read /  2 listen
 - 0 re-reads
 
 ---
@@ -69,7 +69,10 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Obtain CAPM Certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. Because I am not a project manager full time, I want to learn more about what's involved in being one. Regardless of where my career path will take me, I think these skills could be useful in any position I take on. 
       - Milestones: 
-         - complete CAPM Udemy course
+         - complete section 11
+         - complete section 15
+         - complete section 19
+         - complete all CAPM training
          - write all 14 sets of study cards
 
 - [ ] Spend more time with family and friends (habit)
