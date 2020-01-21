@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 20, 2020)
+Personal Goals (Updated: Jan 21, 2020)
 ==============
 
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
@@ -87,6 +87,6 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 The idea behind 12 Week Year is setting goals per 12 weeks versus the full year. Instead of separating my planning monthly or by quarter as previous years, I'm listing them out as 12 weeks. 
 
    * [12 Weeks](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md)
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md#week-2--jan-13---19)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md#week-3--jan-20---26)
    
 
