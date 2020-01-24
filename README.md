@@ -29,11 +29,11 @@ I *LOVE* reading so I always make sure to have a reading goal every year. It's h
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
-[Goal: 4/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
+[Goal: 5/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
 
 _reading stats_
-- 2 fiction / 2 non-fiction
-- 2 read /  2 listen
+- 2 fiction / 3 non-fiction
+- 2 read /  3 listen
 - 0 re-reads
 
 ---
@@ -61,25 +61,30 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Achieve 32% body fat index (achievement)
 	- Working from home means less movement. With my toddler getting faster, I want to be able to catch up. I also want to sleep better.
       - Milestones: 
-         - lose 1% body fat
+         - lose 4.5% body fat
          - complete 6 weeks of intermittent fasting
-         - lose 3% body fat
+         - lose 9% body fat
+         - lose 13.5% body fat
+         - complete 12 weeks of intermittent fasting
+         - lose 18% body fat
          - down to size 10
 
-- [ ] Obtain CAPM Certification (achievement)
+- [ ] Obtain a PMI certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. Because I am not a project manager full time, I want to learn more about what's involved in being one. Regardless of where my career path will take me, I think these skills could be useful in any position I take on. 
       - Milestones: 
-         - complete section 11
-         - complete section 15
-         - complete section 19
-         - complete all CAPM training
-         - write all 14 sets of study cards
+         - TBD
 
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
 
 - [ ] Write more blog posts (habit)
 	- I always have a lot on my mind. I also like sharing my experiences with friends and co-workers to help them with their own personal development journey. I think if I write more, it would help my communication skills and hopefully help others that I don't get to share my journey with. 
+      - Milestones:
+         - write 3 blog post per quarter
+            - [ ] Q1
+            - [ ] Q2
+            - [ ] Q3
+            - [ ] Q4
 
 ---
 
