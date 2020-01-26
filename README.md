@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 21, 2020)
+Personal Goals (Updated: Jan 26, 2020)
 ==============
 
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
@@ -26,6 +26,7 @@ I wanted to create a foursquare to give more focus to any goals I set.
 
 # Reading Goal :books:
 I *LOVE* reading so I always make sure to have a reading goal every year. It's hard to set a list of books to read because I have different reading moods. It's like meal planning for the week but you really just want to have pizza. I thought I should create more general reading goals so I can make time to read. 
+
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
@@ -56,7 +57,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
    - Milestones (per quarter): 
     - complete 250 meditation sessions
     - write 84 future self journal entries
-    - sleep 53 hrs
+    - sleep 49 hrs
    
 - [ ] Achieve 32% body fat index (achievement)
 	- Working from home means less movement. With my toddler getting faster, I want to be able to catch up. I also want to sleep better.
@@ -72,7 +73,9 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Obtain a PMI certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. Because I am not a project manager full time, I want to learn more about what's involved in being one. Regardless of where my career path will take me, I think these skills could be useful in any position I take on. 
       - Milestones: 
-         - TBD
+         - [Scrum for Team Members | GoSkills](https://www.goskills.com/Course/Scrum-Teams)
+	 - [Scrum for Scrum Masters | GoSkills](https://www.goskills.com/Course/Scrum-Masters)
+	 - [Lean Six Sigma - Yellow Belt | GoSkills](https://www.goskills.com/Course/Lean-Six-Sigma-Yellow-Belt)
 
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
@@ -80,7 +83,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Write more blog posts (habit)
 	- I always have a lot on my mind. I also like sharing my experiences with friends and co-workers to help them with their own personal development journey. I think if I write more, it would help my communication skills and hopefully help others that I don't get to share my journey with. 
       - Milestones:
-         - write 3 blog post per quarter
+         - write 2 blog post per quarter
             - [ ] Q1
             - [ ] Q2
             - [ ] Q3
@@ -92,6 +95,6 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 The idea behind 12 Week Year is setting goals per 12 weeks versus the full year. Instead of separating my planning monthly or by quarter as previous years, I'm listing them out as 12 weeks. 
 
    * [12 Weeks](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md)
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md#week-3--jan-20---26)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/01-12wy-q1.md#week-4--jan-27---feb-2)
    
 
