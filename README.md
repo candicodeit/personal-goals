@@ -73,9 +73,8 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Obtain a PMI certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. Because I am not a project manager full time, I want to learn more about what's involved in being one. Regardless of where my career path will take me, I think these skills could be useful in any position I take on. 
       - Milestones: 
-         - [Scrum for Team Members | GoSkills](https://www.goskills.com/Course/Scrum-Teams)
-	 - [Scrum for Scrum Masters | GoSkills](https://www.goskills.com/Course/Scrum-Masters)
-	 - [Lean Six Sigma - Yellow Belt | GoSkills](https://www.goskills.com/Course/Lean-Six-Sigma-Yellow-Belt)
+	      - [Scrum for Scrum Masters | GoSkills](https://www.goskills.com/Course/Scrum-Masters)
+	      - [Lean Six Sigma - Yellow Belt | GoSkills](https://www.goskills.com/Course/Lean-Six-Sigma-Yellow-Belt)
 
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
