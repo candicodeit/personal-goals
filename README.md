@@ -1,4 +1,4 @@
-Personal Goals (Updated: Jan 26, 2020)
+Personal Goals (Updated: Feb 18, 2020)
 ==============
 
 Personal goals made open source. For 2019, I used my [Full Focus Planner](https://fullfocusplanner.com/) to track my goals. For 2018, I used GitHub to plan my goals and record [my achievements](https://github.com/candicodeit/personal-goals/blob/master/2018/00-2018-achievements.md). For 2020, I wanted to go back to my GitHub so I can better document and access my plans. I started listening to the audiobook of [12 Week Year](https://www.goodreads.com/book/show/10009377-the-12-week-year). I'm always iterating my goal setting. 
@@ -30,11 +30,11 @@ I *LOVE* reading so I always make sure to have a reading goal every year. It's h
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
-[Goal: 10/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
+[Goal: 12/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
 
 _reading stats_
-- 3 fiction / 7 non-fiction
-- 3 read /  7 listen
+- 3 fiction / 9 non-fiction
+- 3 read /  9 listen
 - 1 re-reads
 - 2 longer fiction
 
@@ -46,7 +46,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Help Roc Solid Foundation become more successful (achievement)
 	- Though I still practice random acts of kindness, I've really gained a new sense of fulfillment when I volunteer for Roc Solid. It's more than just helping build a play set. I've helped with running events more efficiently and also created better workflows and solutions for day-to-day operations. I may not always be helping kids directly but I know it allows the staff to do so. 
    - Milestones: 
-    - update Ready Bag Program workflow
+    - [x] update Ready Bag Program workflow
     - obtain 120 donation items for the silent auction
     - raise $45k at the auction
     - create roadmap fo iterating the Play It Forward workflow
@@ -80,14 +80,10 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
 
-- [ ] Write more blog posts (habit)
-	- I always have a lot on my mind. I also like sharing my experiences with friends and co-workers to help them with their own personal development journey. I think if I write more, it would help my communication skills and hopefully help others that I don't get to share my journey with. 
+- [ ] Explore coaching (achievement)
+	- I really enjoy helping people achieve their goals and had a great experience with a coachee. I want to explore coaching and see if coaching is something I'd like to pursue, even if it was on the side. I love motivating people and giving them the encouragement they need and/or help them explore themselves.
       - Milestones:
-         - write 2 blog post per quarter
-            - [ ] Q1
-            - [ ] Q2
-            - [ ] Q3
-            - [ ] Q4
+         - 
 
 ---
 
