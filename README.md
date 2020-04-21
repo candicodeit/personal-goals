@@ -56,7 +56,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Obtain a ~PMI~ Scrum Master certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. I originally started thinking about project management but switched over to Scrum Master, which is more relevant to my current state of work. Though it's slightly different, I think there are some lessons I can use from Scrum that can apply to even simple projects.  
       - Milestones: 
-	      - [Scrum Framework Path | Pluralsight](https://www.pluralsight.com/paths/the-scrum-framework)
+	      - [x] [Scrum Framework Path | Pluralsight](https://www.pluralsight.com/paths/the-scrum-framework)
 	      - [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
 
 - [ ] Spend more time with family and friends (habit)
