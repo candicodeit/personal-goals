@@ -57,7 +57,9 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. I originally started thinking about project management but switched over to Scrum Master, which is more relevant to my current state of work. Though it's slightly different, I think there are some lessons I can use from Scrum that can apply to even simple projects.  
       - Milestones: 
 	      - [x] [Scrum Framework Path | Pluralsight](https://www.pluralsight.com/paths/the-scrum-framework)
-	      - [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
+	      - [x] [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
+         - [ ] Obtain SAFe Scrum Master Certification
+         - [ ] [Scrum Essentials Exam Prep | Pluralsight](https://app.pluralsight.com/library/courses/scrum-essentials-exam-prep/)
 
 - [ ] Spend more time with family and friends (habit)
 	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
