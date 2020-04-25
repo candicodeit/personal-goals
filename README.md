@@ -58,11 +58,14 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
       - Milestones: 
 	      - [x] [Scrum Framework Path | Pluralsight](https://www.pluralsight.com/paths/the-scrum-framework)
 	      - [x] [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
-         - [ ] Obtain SAFe Scrum Master Certification
+         - [ ] Obtain SAFe Scrum Master 5.0 Certification
+         - [ ] [Scrum Master Learning Path | Scrum.org](https://www.scrum.org/pathway/scrum-master/)
          - [ ] [Scrum Essentials Exam Prep | Pluralsight](https://app.pluralsight.com/library/courses/scrum-essentials-exam-prep/)
+         - [ ] Obtain Professional Scrum Master I Certification
 
 - [ ] Spend more time with family and friends (habit)
-	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
+	- Now that I work remotely, my relationships are more important to me. I need to make sure I stay in touch with those close to me. Last year, I came across the [Social Gathering Checklist](social-checklist.md) and found 
+   it as a great guideline to keep in touch with people. It's hard to do all of those in a month since coordinating with other friends who also have kids is nearly impossible. I don't want to create more stress on myself just to meet with others.
         - Quarter: 
             - Q1: 6/10
             - Q2: 
