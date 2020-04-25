@@ -58,7 +58,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
       - Milestones: 
 	      - [x] [Scrum Framework Path | Pluralsight](https://www.pluralsight.com/paths/the-scrum-framework)
 	      - [x] [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
-         - [ ] Obtain SAFe Scrum Master 5.0 Certification
+         - [x] Obtain SAFe Scrum Master 5.0 Certification
          - [ ] [Scrum Master Learning Path | Scrum.org](https://www.scrum.org/pathway/scrum-master/)
          - [ ] [Scrum Essentials Exam Prep | Pluralsight](https://app.pluralsight.com/library/courses/scrum-essentials-exam-prep/)
          - [ ] Obtain Professional Scrum Master I Certification
