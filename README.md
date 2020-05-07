@@ -102,5 +102,5 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 The idea behind 12 Week Year is setting goals per 12 weeks versus the full year. Instead of separating my planning monthly or by quarter as previous years, I'm listing them out as 12 weeks. 
 
    * [12 Weeks](https://github.com/candicodeit/personal-goals/blob/master/2020/02-12wy-q2.md)
-   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/02-12wy-q2.md#week-4--apr-20---26)
+   * [This Week](https://github.com/candicodeit/personal-goals/blob/master/2020/02-12wy-q2.md#week-6--may-4---10)
    
