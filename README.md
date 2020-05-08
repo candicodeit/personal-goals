@@ -20,7 +20,7 @@ I wanted to create a foursquare to give more focus to any goals I set.
 
 | Myself   | Relationships | Career  | World |
 | ------------- | ------------- | ------------ | ------------- |
-| Practice self-care  | Create experiences  | Become a coach  | Practice RAK |
+| Practice self-care  | Create experiences  | Become a coach  | Practice [RAK](https://www.randomactsofkindness.org/) |
 | Become healthy  | Plan social outings  | Work on something meaningful | Volunteer for Roc Solid  |
 
 
@@ -30,11 +30,11 @@ I *LOVE* reading so I always make sure to have a reading goal every year. It's h
 - Read longer fiction (500+ pgs)
 - Balance between non-fiction/fiction and listening/reading
 
-[Goal: 12/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
+[Goal: 13/32 books](https://www.goodreads.com/challenges/11621-2020-reading-challenge) 
 
 _reading stats_
-- 3 fiction / 9 non-fiction
-- 3 read /  9 listen
+- 3 fiction / 10 non-fiction
+- 3 read /  10 listen
 - 1 re-reads
 - 2 longer fiction
 
@@ -46,12 +46,12 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Help Roc Solid Foundation become more successful (achievement)
 	- Though I still practice random acts of kindness, I've really gained a new sense of fulfillment when I volunteer for Roc Solid. It's more than just helping build a play set. I've helped with running events more efficiently and also created better workflows and solutions for day-to-day operations. I may not always be helping kids directly but I know it allows the staff to do so. 
    - Milestones: 
-    - [x] update Ready Bag Program workflow
-    - obtain 120 donation items for the silent auction
-    - raise $45k at the auction
-    - create roadmap fo iterating the Play It Forward workflow
-    - invite 5 more friends to get involved
-    - raise $50k at the telethon
+      - [x] update Ready Bag Program workflow
+      - obtain 120 donation items for the silent auction
+      - raise $45k at the auction
+      - create roadmap fo iterating the Play It Forward workflow
+      - invite 5 more friends to get involved
+      - raise $50k at the telethon
 
 - [ ] Obtain a ~PMI~ Scrum Master certification (achievement)
 	- I obviously love planning and I also love helping people. I've really enjoyed project planning both for A Book Apart and for events at Roc Solid. I originally started thinking about project management but switched over to Scrum Master, which is more relevant to my current state of work. Though it's slightly different, I think there are some lessons I can use from Scrum that can apply to even simple projects.  
@@ -60,7 +60,7 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 	      - [x] [SAFe Scrum Master (5.0) Apr 23-24](https://www.bekenplus.com/event-info/safe-scrum-master-5-0-guaranteed-to-run-2)
          - [x] Obtain SAFe Scrum Master 5.0 Certification
          - [ ] [Scrum Master Learning Path | Scrum.org](https://www.scrum.org/pathway/scrum-master/)
-         - [ ] [Scrum Essentials Exam Prep | Pluralsight](https://app.pluralsight.com/library/courses/scrum-essentials-exam-prep/)
+         - [x] [Scrum Essentials Exam Prep | Pluralsight](https://app.pluralsight.com/library/courses/scrum-essentials-exam-prep/)
          - [ ] Obtain Professional Scrum Master I Certification
 
 - [ ] Spend more time with family and friends (habit)
@@ -81,9 +81,9 @@ These are the goals I'd like to focus on this year. Though I'm trying to use the
 - [ ] Improve my mental health (habit)
 	- I started meditating after reading [Make Time](https://www.goodreads.com/book/show/37880811-make-time). I think it has helped me worry less and provide me a calm that I've been seeking. I feel different on the days I don't meditate. Headspace has been a great way to help me with my practice. I've also been doing [Future Self Journaling](https://yourholisticpsychologist.com/future-self-journaling/) to be more mindful of my habits and what I can do to adjust them. 
    - Milestones (per quarter): 
-    - complete 250 meditation sessions
-    - complete [Journal Your Feelings 30-Day Guide by Amber Rae](https://www.journalyourfeelings.com/)
-    - sleep 49 hrs
+      - complete 250 meditation sessions
+      - complete [Journal Your Feelings 30-Day Guide by Amber Rae](https://www.journalyourfeelings.com/)
+      - sleep 49 hrs
    
 - [ ] Achieve 32% body fat index (achievement)
 	- Working from home means less movement. With my toddler getting faster, I want to be able to catch up. I also want to sleep better.
